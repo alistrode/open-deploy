@@ -1,0 +1,2 @@
+PASS handoff: rejects wrong target before injection/copy
+PASS handoff: offline drivers, copied runtime, unattended setup, headless stage entry and committed completion proof

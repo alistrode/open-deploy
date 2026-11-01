@@ -1,0 +1,41 @@
+=== RUN   TestBootstrapRejectsCorruptionAndMissingPayload
+--- PASS: TestBootstrapRejectsCorruptionAndMissingPayload (0.00s)
+=== RUN   TestBootstrapRejectsManifestTraversal
+--- PASS: TestBootstrapRejectsManifestTraversal (0.00s)
+=== RUN   TestRehearsalCannotReachLiveExecutor
+--- PASS: TestRehearsalCannotReachLiveExecutor (0.00s)
+=== RUN   TestInstallationRefusesHostWindows
+--- PASS: TestInstallationRefusesHostWindows (0.00s)
+=== RUN   TestInvalidAndWrongTypeDisks
+--- PASS: TestInvalidAndWrongTypeDisks (0.00s)
+=== RUN   TestBundleContainsRealOSDHookAndDedicatedPE
+--- PASS: TestBundleContainsRealOSDHookAndDedicatedPE (0.00s)
+=== RUN   TestImageIndexRejectedBeforeCommands
+--- PASS: TestImageIndexRejectedBeforeCommands (0.00s)
+=== RUN   TestRehearsalUsesSameOwnerAsLive
+--- PASS: TestRehearsalUsesSameOwnerAsLive (0.00s)
+=== RUN   TestHeadlessExecutionCannotCallGUI
+--- PASS: TestHeadlessExecutionCannotCallGUI (0.00s)
+=== RUN   TestStageLaunchersHaveNoInteractiveInput
+--- PASS: TestStageLaunchersHaveNoInteractiveInput (0.00s)
+=== RUN   TestReadOnlyLaunchCannotEnableLiveExecution
+--- PASS: TestReadOnlyLaunchCannotEnableLiveExecution (0.00s)
+=== RUN   TestLiveStageIsolation
+--- PASS: TestLiveStageIsolation (0.00s)
+=== RUN   TestExhaustiveRuntimeWorkflow
+    workflow_test.go:85: exhaustive runtime: 19 states, 4624 accepted edges, 73200 rejected fact/action pairs; all changed-plan requests rejected
+--- PASS: TestExhaustiveRuntimeWorkflow (0.80s)
+=== RUN   TestThreeActivationsWithAutomaticReboots
+--- PASS: TestThreeActivationsWithAutomaticReboots (0.00s)
+=== RUN   TestDiskBindingSurvivesReorderingAndRejectsAmbiguity
+--- PASS: TestDiskBindingSurvivesReorderingAndRejectsAmbiguity (0.00s)
+=== RUN   TestSealedPlanRejectsEditsAndDuplicateKeys
+--- PASS: TestSealedPlanRejectsEditsAndDuplicateKeys (0.00s)
+=== RUN   TestInstalledAndHealthyGuardsCannotBeSkipped
+--- PASS: TestInstalledAndHealthyGuardsCannotBeSkipped (0.00s)
+=== RUN   TestConfigureSealsActualInputsAndRefusesCorruptJournal
+--- PASS: TestConfigureSealsActualInputsAndRefusesCorruptJournal (0.00s)
+=== RUN   TestFactMappingMatchesFormalDefinition
+--- PASS: TestFactMappingMatchesFormalDefinition (0.00s)
+PASS
+ok  	opendeploy/src	0.808s

@@ -1,0 +1,7 @@
+{
+  "osd": {"repository":"https://github.com/OSDeploy/OSD", "commit":"b2af9ed68e8c2bbf3ed3c75d660e3ed1f8f709a5", "path":"upstream/OSD"},
+  "adk": {"version":"10.1.26100.2454", "url":"https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/adksetup.exe", "sha256":"7f61e29f2314bcdd7e0abf67a8367d83a05aa4a7b9223f85c5fd2582a35cc6f4", "feature":"OptionId.DeploymentTools"},
+  "winpe": {"version":"10.1.26100.2454", "url":"https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/adkwinpesetup.exe", "sha256":"adf53ca21cae36821e0a8f3c31546752b9ce066944de1d4f1673e491831255e2", "feature":"OptionId.WindowsPreinstallationEnvironment"},
+  "installer_manifest_source":"https://github.com/microsoft/winget-pkgs/tree/master/manifests/m/Microsoft/WindowsADK",
+  "note":"Microsoft ADK/WinPE payloads download from Microsoft during first preparation; they are not open source. SDIO and Ventoy ship in the runtime. Essential drivers ship expanded, with their own file hashes."
+}

@@ -1,0 +1,49 @@
+{
+  "pxvirt": {
+    "version": "8.4-2",
+    "architecture": "amd64",
+    "bytes": 1958131712,
+    "url": "https://us.mirrors.lierfang.com/pxcloud/pxvirt/isos/pxvirt-8.4-2-amd64.iso",
+    "builder_repository": "https://github.com/jiangcuo/pve-iso-builder",
+    "builder_ref": "fe126a44763cb68a15d7262a9747b0849518b56c"
+  },
+  "relay": {
+    "version": "3.0",
+    "ref": "7c55132bb116a75178af08924713f64a6a18993a",
+    "url": "https://raw.githubusercontent.com/trlstdin/rororororo/7c55132bb116a75178af08924713f64a6a18993a/release/linux-x64.tar.gz",
+    "bytes": 51667984,
+    "sha256": "59c1716194a3e2bbaa2cdce9fa84ed3463b0ab1c77f7d1640874a4448a50deda",
+    "prohibited_versions": [
+      "4.0"
+    ]
+  },
+  "virtio": {
+    "version": "0.1.302-1",
+    "bytes": 877373440,
+    "url": "https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.302-1/virtio-win-0.1.302.iso"
+  },
+  "windows": "User-provided Windows ISO",
+  "builder_tools": [
+    "Python >=3.12",
+    "xorriso",
+    "OpenSSH ssh-keygen",
+    "wimlib-imagex (wimtools)",
+    "openssl (SHA-512 crypt host password hashing)"
+  ],
+  "host_tools": [
+    "python3",
+    "qm",
+    "pvesm",
+    "systemd",
+    "blkid",
+    "mount"
+  ],
+  "usb_writer_tools": [
+    "Linux root with physical USB access and block flush permission",
+    "udevadm",
+    "lsblk",
+    "findmnt",
+    "blockdev",
+    "umount"
+  ]
+}

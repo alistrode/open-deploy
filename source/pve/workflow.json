@@ -1,0 +1,112 @@
+{
+  "phases": [
+    "configured",
+    "media_ready",
+    "host_ready",
+    "vm_creating",
+    "installing",
+    "guest_ready",
+    "snapshotting",
+    "complete",
+    "recovering"
+  ],
+  "transitions": [
+    {
+      "action": "media.done",
+      "from": "configured",
+      "to": "media_ready",
+      "requires": [
+        "inputs_verified",
+        "boot_preserved"
+      ]
+    },
+    {
+      "action": "host.done",
+      "from": "media_ready",
+      "to": "host_ready",
+      "requires": [
+        "host_bound",
+        "relay_running"
+      ]
+    },
+    {
+      "action": "vm.intent",
+      "from": "host_ready",
+      "to": "vm_creating",
+      "requires": [
+        "host_bound",
+        "vmid_free",
+        "inputs_verified"
+      ]
+    },
+    {
+      "action": "vm.done",
+      "from": "vm_creating",
+      "to": "installing",
+      "requires": [
+        "host_bound",
+        "vm_owned",
+        "vm_configured"
+      ]
+    },
+    {
+      "action": "guest.done",
+      "from": "installing",
+      "to": "guest_ready",
+      "requires": [
+        "vm_owned",
+        "guest_bound",
+        "guest_healthy"
+      ]
+    },
+    {
+      "action": "snapshot.intent",
+      "from": "guest_ready",
+      "to": "snapshotting",
+      "requires": [
+        "vm_owned",
+        "guest_bound",
+        "guest_healthy"
+      ]
+    },
+    {
+      "action": "snapshot.done",
+      "from": "snapshotting",
+      "to": "complete",
+      "requires": [
+        "vm_owned",
+        "snapshot_verified",
+        "guest_bound",
+        "guest_healthy"
+      ]
+    },
+    {
+      "action": "recover.intent",
+      "from": "complete",
+      "to": "recovering",
+      "requires": [
+        "vm_owned",
+        "snapshot_verified"
+      ]
+    },
+    {
+      "action": "recover.done",
+      "from": "recovering",
+      "to": "guest_ready",
+      "requires": [
+        "vm_owned",
+        "guest_bound",
+        "guest_healthy"
+      ]
+    },
+    {
+      "action": "deployment.done",
+      "from": "guest_ready",
+      "to": "complete",
+      "requires": [
+        "vm_owned",
+        "remote_configured"
+      ]
+    }
+  ]
+}

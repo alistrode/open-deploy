@@ -1,0 +1,892 @@
+{
+  "file": "OpenDeploy-Latest-Complete-20261030.zip",
+  "bytes": 2428777453,
+  "sha256": "fbb9e3df409d23589972a0e78c8aebb61030bc3311c5f6a4eca9fe900152abf0",
+  "format": 1,
+  "parts": [
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part000",
+      "bytes": 16777216,
+      "git_blob_sha": "7470b85bbacdcd01643b18bebebcaeeb39d6554d",
+      "sha256": "b10abab25185f5c866898b0c14fc4269055439cf83fb615e710ccb5459659397"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part001",
+      "bytes": 16777216,
+      "git_blob_sha": "ae41978db96b4604d74a5499a455d50745f5be95",
+      "sha256": "afa58797be697ea91fa230b47790f081068b85407a24f9321e1c61d948d0800c"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part002",
+      "bytes": 16777216,
+      "git_blob_sha": "6a4abd6e767f5b2cfd86b24faca02515f3bdd12b",
+      "sha256": "4237371c3480916911d5a48f5b06165105fa0af8453b3072dc756c8c20a2f9d7"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part003",
+      "bytes": 16777216,
+      "git_blob_sha": "f192e93c0609d2396de7772c55f7f522a49ff6c0",
+      "sha256": "b409b8a078210e793264bbbb276c0502cf3c2563c17064da85b152dfd672ebbb"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part004",
+      "bytes": 16777216,
+      "git_blob_sha": "c543ee493c48d4a7b23ef2a43a5a29f54048182b",
+      "sha256": "7c794bc5a15c5caf18e42ce91b5d7edfdb459b7b164f8b9152c02e4052994ac2"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part005",
+      "bytes": 16777216,
+      "git_blob_sha": "4aa7092b1409e553115f938297605f31f3586d8e",
+      "sha256": "984d798dc96c5cd644b65b0c21bfd51cb44c2c05eb54095104cd00045928f470"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part006",
+      "bytes": 16777216,
+      "git_blob_sha": "5ced14425a99dc41915243b166fb66702a05372c",
+      "sha256": "672df9404483bbf642d1a8f80bda2dc024f284cdf9602c0354fa5d1d82ac4076"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part007",
+      "bytes": 16777216,
+      "git_blob_sha": "050356fb41614b9b4e9974b6f205606af2ffb4f7",
+      "sha256": "7d9f914201dca367e03868b046a0c43aa909a516462143140b479ef3d858278f"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part008",
+      "bytes": 16777216,
+      "git_blob_sha": "eb863e786e16e2f24bab04ca1608586ab30b23d1",
+      "sha256": "46f2bd7e8892c86ecdb0e843352515ed023c842c4ffa27c9514c6a4643b4063d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part009",
+      "bytes": 16777216,
+      "git_blob_sha": "a4b8fd9b804859eb64becb377b8da71b2a6e4d4b",
+      "sha256": "22a82bccae7712b4ecdeae7ed313896984b4f17a270a8b979ece5ed96bd4e3f3"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part010",
+      "bytes": 16777216,
+      "git_blob_sha": "4d01b2cdda11523cc4013a7d81a3a24b6bb35a70",
+      "sha256": "8bc0940cb4427d19725384b0d4c358f1159d542ed7aef78641e9dc0f1e726c36"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part011",
+      "bytes": 16777216,
+      "git_blob_sha": "09b441276811fadcd3bac1e3a4a2aeae55750312",
+      "sha256": "f0196cf089e73caa9d856cdf589e6933785fc3580ab3f9ceab9ff6f1de8853cc"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part012",
+      "bytes": 16777216,
+      "git_blob_sha": "ffd6ffb35acec2bdfede44cb595708e5c60b7b7b",
+      "sha256": "062edcb8fa9342bea3c0ce671c0466586c4f35f23bccc3a3fe32d9f830f7d6ed"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part013",
+      "bytes": 16777216,
+      "git_blob_sha": "44b87b012a773e8927fec5e12e52b6ecf16c756c",
+      "sha256": "6161fc47eaf6b8bde6ce06d5d09d76739043d388aedd7b4c560b382d4fd354fa"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part014",
+      "bytes": 16777216,
+      "git_blob_sha": "a0757e88fbc8518582518f6a7eb2613b28c6e98f",
+      "sha256": "2ef4a540aba79daa3004e77b651ad3f0e00a644128c9729197877476c6fe575a"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part015",
+      "bytes": 16777216,
+      "git_blob_sha": "ec1e12736167b56ac902b0a6eb90ec23fa6f96ba",
+      "sha256": "ab8939da27b534406fa3c733a18bef12b84804bc87a6156d6507b908b2cee450"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part016",
+      "bytes": 16777216,
+      "git_blob_sha": "f96da1b74c35b869de4bed91359e35d834a4f1d7",
+      "sha256": "28b5ef04a3c3da5513beaaa55e5d36d6154852148919c26eccf6fdf3e7100dce"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part017",
+      "bytes": 16777216,
+      "git_blob_sha": "b1110c01600b43b6c180ea0881b014fd3814df49",
+      "sha256": "ef46c0cdd845252eafab263aa47f0aed097dcf40fc05405aed77b65d22e5920c"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part018",
+      "bytes": 16777216,
+      "git_blob_sha": "d82edb97975d0b163460706264d0d21f52c3b943",
+      "sha256": "62a130a85c3d4243d634d132e369748acce9fddd6430c6c5dab25097cd89d97d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part019",
+      "bytes": 16777216,
+      "git_blob_sha": "f56972834b3fd04ffd8fbd3e7bd98f40682a47e5",
+      "sha256": "adbce2cfc127bc016466405c95d7b12e97e7fcd1b7f038a7306c9a0d83a28ecf"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part020",
+      "bytes": 16777216,
+      "git_blob_sha": "03f390332389c3a5315db616f50697b08f293516",
+      "sha256": "8dc935d33170588d1af4bd4f04a1e41a0a8386618c310bce799fe95510596dc1"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part021",
+      "bytes": 16777216,
+      "git_blob_sha": "efb7c8f44c4d7556df257fffdbd0eaf7cf53aa75",
+      "sha256": "33c4760cb9d1233fdcdae1b42f25f3d849cb08aecd8939b22a69ee1a9fc6d0a9"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part022",
+      "bytes": 16777216,
+      "git_blob_sha": "d1963e154193b5395f3e3a11f0b2a4432451815d",
+      "sha256": "2d2597609c8e1dcade6f5f1f2cfca4b73d1918c8bbdcf58267555df174504fa0"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part023",
+      "bytes": 16777216,
+      "git_blob_sha": "b34bbc6b80fb2b58aee2a82a77e985fecfbb2f78",
+      "sha256": "96dc0df0902833232df2e376c48307982e5d4e090f42ddcc64689fbd0088aa1a"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part024",
+      "bytes": 16777216,
+      "git_blob_sha": "fe70a3f12802c83a03ea6d4227b8f067b43f0edb",
+      "sha256": "769acb887d59a56b8608a199c59c6273609f25abe05e5ddd1f991c1cb86e2e61"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part025",
+      "bytes": 16777216,
+      "git_blob_sha": "41758f034043f8b6cecb98ad9ee9266169c96d74",
+      "sha256": "195cdc69f4668b9ed0dea96db9797f69b48286b7a9c81f2b132b8ee82bf5aeaf"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part026",
+      "bytes": 16777216,
+      "git_blob_sha": "bb8e406b28008196c73b671234084ca1d4ea1729",
+      "sha256": "63e0f7c14ebff53b2a41668b7e5a497456210504a8105d7b50bc2fcda0b0d838"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part027",
+      "bytes": 16777216,
+      "git_blob_sha": "db1693dfed4bbb83328a941e067f9f7126e24ead",
+      "sha256": "17c21d8bf1804c502b1fbdabab01ffb60930a65d20289823ed50227bc776c5d8"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part028",
+      "bytes": 16777216,
+      "git_blob_sha": "d44dcd73a0a73aed0aa37aaecb913198bd3af8d9",
+      "sha256": "1b7a1ae3f163e6df29abb38adbb78034510831cd03624177cca0f74319e7451d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part029",
+      "bytes": 16777216,
+      "git_blob_sha": "269e7f8247b981b646ba5481a6cc6d069302a1f3",
+      "sha256": "9c0dfd4a77817643d9ff08065f740a9a864c4979d35590b234553a66cb6ec69d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part030",
+      "bytes": 16777216,
+      "git_blob_sha": "5790bcacca2f927f1b49bf7658fbce69b6254046",
+      "sha256": "c8974e90b53e4a97c68387b5f69ce6c94dbab90587db509550577d9ce139b3df"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part031",
+      "bytes": 16777216,
+      "git_blob_sha": "dd2869c76613f190278f1fb5d3e57b035dcac373",
+      "sha256": "b4820eda20867bf900a707da839a35e916b40b9a6e53ab963a55e224f2d83dcb"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part032",
+      "bytes": 16777216,
+      "git_blob_sha": "7985e46db8689e14c2a9ad3f53f311209bd04aea",
+      "sha256": "d7d124a30148289cee6918e62de26cf39a9b07238c35d67294178fe25bf8c47b"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part033",
+      "bytes": 16777216,
+      "git_blob_sha": "e119055f8e4bc7a4fa7738505ee035b24b8a2d87",
+      "sha256": "304ccdb584b84435a80d8cf37898a037c3b533c491e21fd6b92ca262ab56ac7d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part034",
+      "bytes": 16777216,
+      "git_blob_sha": "e0ad991ba627f95416e44ccebc327a4cef548550",
+      "sha256": "0d83d8b0505ffca79206985a76aa47c0d94f4c2dcb5966b476c6badecfccafdd"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part035",
+      "bytes": 16777216,
+      "git_blob_sha": "c2314dc682089bf3736b30f192df96fd8a731ed3",
+      "sha256": "e8b9f04e35d43ffd6d1e4e51c562561059a0c59bab029f94e810b24ddbb30ceb"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part036",
+      "bytes": 16777216,
+      "git_blob_sha": "80094ca9fc3894b93334943af121d681f2e619e7",
+      "sha256": "8cc1ac5b8de776fb9a907f7a9f7deda2427ef3d2ed0b8754f91fbe40ad9def2b"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part037",
+      "bytes": 16777216,
+      "git_blob_sha": "11888048d33b9176fc324ee5157c86a107652503",
+      "sha256": "7bd15304f6333b9831ea76d664732777e8f7ba8b31b6a59298b0998bb3e79c0b"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part038",
+      "bytes": 16777216,
+      "git_blob_sha": "b233af60b39e988199452605232cd8aa9bfa74c7",
+      "sha256": "7d5c9f8a36909c4779474c1ffb85c4c47086ba6bb3e4f7ce8a614a8d135d7317"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part039",
+      "bytes": 16777216,
+      "git_blob_sha": "8a790ddfc2f64c97ecadef8ccd20272794707433",
+      "sha256": "781b01fe98d819d0fdaca8ff36ca792ff6fba2c2d360586a979561ebde8aa186"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part040",
+      "bytes": 16777216,
+      "git_blob_sha": "423d1b8f480138b207117752b5cf6f613810a861",
+      "sha256": "c7f6e2213d46915fcbd1ed7b3847145256dbb51f38233cec0ee203f7f66844c2"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part041",
+      "bytes": 16777216,
+      "git_blob_sha": "2ce90b5fc4032e98380ea7c0134b1a844290e0c4",
+      "sha256": "c756a82b440b503c77730a56aa411983a21f5125ed1c055cee01f950281d8d63"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part042",
+      "bytes": 16777216,
+      "git_blob_sha": "f0d9763b88f444ac7119f4b76f770387b02a9949",
+      "sha256": "99c2357da5d6650c8ba969c6a0d56e1f93486b2dd438c8af57b1812c93c62531"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part043",
+      "bytes": 16777216,
+      "git_blob_sha": "df5f436a1297de4c759bba7b7a759caa95c80a25",
+      "sha256": "baac00f61a5814150e861d81ca9614667fe8f4d09d3d2d980936b70a576c6c00"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part044",
+      "bytes": 16777216,
+      "git_blob_sha": "60a541ae01d360756af3f985bfd499ee08b5c0f4",
+      "sha256": "3f62f94808d72457738aea63841a7b90450f774792b7940c42e57f84289a4b58"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part045",
+      "bytes": 16777216,
+      "git_blob_sha": "29f9c69421caae093bf934c73248fcf011576b8e",
+      "sha256": "f73038d856a04b99173c03089d7579b480ea50805f30d811f3d7267d0be7ea9e"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part046",
+      "bytes": 16777216,
+      "git_blob_sha": "27b249fb07d78f23ba8df50ad87b51b69b3a8af1",
+      "sha256": "251a44b9cc35e3b1ec4218426eb148ad5753eea6a28e65d7c8f9b19eeffc0e7d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part047",
+      "bytes": 16777216,
+      "git_blob_sha": "d1e2c5094b2b2a04d762fa077da141105997ebc9",
+      "sha256": "a974d4be6625a64616a2d006305ed72911cf4d95b100dca43b56c808bb2bbad1"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part048",
+      "bytes": 16777216,
+      "git_blob_sha": "877231770c2b46329a737ad2c626b360e36275ec",
+      "sha256": "65705d100198346b41ae40d888a10887a5f1730690f0a3daafcdd948047c58da"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part049",
+      "bytes": 16777216,
+      "git_blob_sha": "7b89b5031d03a784cc3431f1c3b4d7915f474ea8",
+      "sha256": "c935c9f3fbc5055dce51606827aaa0ae0a5c5999937cda2bbcc45827ec30b4ec"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part050",
+      "bytes": 16777216,
+      "git_blob_sha": "76103d71e2d58a7e2fd48f283c7786da80899738",
+      "sha256": "d89f75ee866f654e8b8de18f90b87167eb87e5f084f812d6a4ffee8e3b6bafbb"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part051",
+      "bytes": 16777216,
+      "git_blob_sha": "9e32f78e27c102c07696958605b722bcd2b23355",
+      "sha256": "9769fde5e70d46379b38376a8af2c9a5f035cf90f20f1ac8c92d4c84c7112aab"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part052",
+      "bytes": 16777216,
+      "git_blob_sha": "d74f2e500490271085c6eea8e1f8da2f6bfa9495",
+      "sha256": "f84273b75acd620fee66f8329b590c1038fda7503bd534ff71243e416c6cb724"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part053",
+      "bytes": 16777216,
+      "git_blob_sha": "0bf3a256801b6643da022ff47f9112dcb7568f9d",
+      "sha256": "fbec46692cfa08ecb629508d6ad41aacc4b6a2b9e75ed7baa4825014e7ebe017"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part054",
+      "bytes": 16777216,
+      "git_blob_sha": "8a36db6eccc42d2d0761d50d585d9e94254e2da6",
+      "sha256": "10fead20308d05be13ffe1ebd83f66fdd45a0069a23f852b4e9dda0b09ebdd3a"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part055",
+      "bytes": 16777216,
+      "git_blob_sha": "b8604119de71c64b9ca5816f56005e2306de6a5d",
+      "sha256": "fdca69879843e477f9eed44f6c1d9cee7a1c228a556e653f6e61bb947520600d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part056",
+      "bytes": 16777216,
+      "git_blob_sha": "369c1c2b24e0c112702754450987947691ab7835",
+      "sha256": "26f76ad65fd0db092fe2190ce2688f57fe0a39289237147af47c41ca7b876d11"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part057",
+      "bytes": 16777216,
+      "git_blob_sha": "1ea31a8cedac4225e80f32e442b11cbc6b9527c4",
+      "sha256": "76135cc3c81e1af1d1c5bab9fdaea9f558125e1f5a4081e2ad91cbbddfb54d62"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part058",
+      "bytes": 16777216,
+      "git_blob_sha": "05b6d2fc1a64d3e14a6b3595d8bd5958b3b6d727",
+      "sha256": "1a7f35299983c23a5d58174877300a7473d4124f733f431bd8133f15f4240c2f"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part059",
+      "bytes": 16777216,
+      "git_blob_sha": "316ee6a55ac8b83c58c53669af042349571f1ede",
+      "sha256": "e502e361bef778368fbe843ee77b78bc1f4ca6dcebdd909bee4e0479bc87112d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part060",
+      "bytes": 16777216,
+      "git_blob_sha": "ea321c8f69e8fcedfb3fb566e84f85ae7a63574f",
+      "sha256": "946887fe1d54fb4caf08d1f1b1ece3afb5e667f4542c12d3b86e3e108803f69e"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part061",
+      "bytes": 16777216,
+      "git_blob_sha": "0b2208e9f942a4ca6f332273d8eec6661a38257b",
+      "sha256": "1deb9709a7ba2c9335edfc3f7c20cf3490981cb2cad86021c27e68a1d0338431"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part062",
+      "bytes": 16777216,
+      "git_blob_sha": "3c210297dc04dab35054a18069d790c9cb919160",
+      "sha256": "d9f4dee937214bb9df3b4694af15370fcac52c4394cdf80e4cdef1e28db1470c"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part063",
+      "bytes": 16777216,
+      "git_blob_sha": "a34e73643d8f24093781dd5072c488ac9824cffc",
+      "sha256": "b94c4c00e15eb42640b3d4204abd833db701f4d1a1eee414bd37b1cc7890ae21"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part064",
+      "bytes": 16777216,
+      "git_blob_sha": "a53c37e1b0556a54c25cdb2e32808677c2104c2d",
+      "sha256": "ed7b8bb97df60671dfaac804bbbcce56d940691bcc272896a605544c6bb28d89"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part065",
+      "bytes": 16777216,
+      "git_blob_sha": "83358a1b12673b91593fc003894cc830a799a03a",
+      "sha256": "6ff10c8f78d1cc950ab01cc12ad2469db6d9a259b46629b59bb6669ed866e2e7"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part066",
+      "bytes": 16777216,
+      "git_blob_sha": "35fd6246ec1d7c8d217bb0bffa6a60b17e144478",
+      "sha256": "b39977c5c816d17093139ca0cefa91b522f446abb1978d1df3773e5c4f52a1fc"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part067",
+      "bytes": 16777216,
+      "git_blob_sha": "bd9624a61427ae74bea086888dfb4ae76a8ee293",
+      "sha256": "edc936116f3ce8a3c0b1117003420c9839ac8b4f5ca9e84d1ff249ac9721d3eb"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part068",
+      "bytes": 16777216,
+      "git_blob_sha": "d8f18347e145bd0acb6ae4be5019f6a8e9a1e715",
+      "sha256": "f4dd1571bbe9495b642d8a921bbd376a09a82f50cff04f4941d93c96685cb571"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part069",
+      "bytes": 16777216,
+      "git_blob_sha": "ae71e249df62bb51227be6ccfdaff87af56f091f",
+      "sha256": "7170e20c1d65f6b025fc2b8d88f139dbcac569237be43b8c607b0e422d976a79"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part070",
+      "bytes": 16777216,
+      "git_blob_sha": "38056858ec3ba539549ee00743da16545da6547e",
+      "sha256": "e8672fa3a5c2ad4d30ec60631221a803de106e239c42673af73699ed8dac5431"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part071",
+      "bytes": 16777216,
+      "git_blob_sha": "67a42b7357a1647bcd271d22567225df7d2034f0",
+      "sha256": "899e5959c87271c3e8d623cd774bb217b4e548c02f878fecf7dd49656c872f4f"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part072",
+      "bytes": 16777216,
+      "git_blob_sha": "d5b04f87464a2fe75df1baf8f620a4a1896020cf",
+      "sha256": "f430675038269d3022a76ce92cff9913365d89ce532cd106ef4edb5394ec94a2"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part073",
+      "bytes": 16777216,
+      "git_blob_sha": "86ac824856eb4df97d970d43d038b69a0702d855",
+      "sha256": "5b9086df7324bbd41c3ac62f11aef48a72b890230747d9a5dd8dcd8a88a51234"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part074",
+      "bytes": 16777216,
+      "git_blob_sha": "f87484d46e4c94092d8eb6ae295b00764d1b184d",
+      "sha256": "4d49ec9783bbd7864459c4c02615dc6a2fff9f750ef773712ef007e607601f7e"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part075",
+      "bytes": 16777216,
+      "git_blob_sha": "4651f472b83684925f9ca806b7d9ebbc76982322",
+      "sha256": "f0bc334186fa991eee8c67c380da74943aa6c2d824be60627cd21da679606a98"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part076",
+      "bytes": 16777216,
+      "git_blob_sha": "46199dda916c6eb17ba4e04b5fa1147955551f0d",
+      "sha256": "f83d011a4ccfd1ea126e49d5ca64f2b4ee800c8755b017a4fececfec14315658"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part077",
+      "bytes": 16777216,
+      "git_blob_sha": "4adc0d9388cf031c0caaff2886978b6062bce867",
+      "sha256": "687ef68da7c7e0b87bcb902a56f1ae176377dbec9c5f47a05baf020ebca504dd"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part078",
+      "bytes": 16777216,
+      "git_blob_sha": "c8208b6b825204fa04008f2368e096ac7700fdf0",
+      "sha256": "5c73ce5aae313598479e18aac5dc05ed8f7ba2e37b03aadca9a564b0f5befafc"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part079",
+      "bytes": 16777216,
+      "git_blob_sha": "c434bc7c17344e94a9ecd55ad27b75d8241dfca3",
+      "sha256": "86746bde72a29686cd648004fa540c9ee2796543d4512264424986a7ccc7d4d3"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part080",
+      "bytes": 16777216,
+      "git_blob_sha": "773d7a0baabac7ab37e7158d92eeb5ef47bf5084",
+      "sha256": "a3d094b0c7af6175f64f636d384e87f0940fb94d91dbfab5ba2065f64ef514c4"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part081",
+      "bytes": 16777216,
+      "git_blob_sha": "8f06f42cc411dd488e1b3949bd9bb64d8e03c8a5",
+      "sha256": "9c94bfbc5415b0e273c986f4d323e1fea88d3f1273a213a6df95fc53dc911e60"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part082",
+      "bytes": 16777216,
+      "git_blob_sha": "62b60be7cc0c5c86059ef5e14015720a8cc7447a",
+      "sha256": "256ee95406dcc9335bca45fba63308fd7519f670574ce6f72effd6f05668bde0"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part083",
+      "bytes": 16777216,
+      "git_blob_sha": "8890015fc5362078c799784017b59b00a69848bc",
+      "sha256": "edcb52e64cfcee49526171803c7980df41f39ceeb4df328d92a9238fddafde01"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part084",
+      "bytes": 16777216,
+      "git_blob_sha": "1eed3a1ad65d56b13ad3cb4530143560ccfa4fa8",
+      "sha256": "c204d206f67d734d93e935505a15fd4fd6d9c6b0856b767713590f27e48cf1de"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part085",
+      "bytes": 16777216,
+      "git_blob_sha": "868baf425c40f04d43b9231bf6a41b29afdd99ea",
+      "sha256": "f52bc6db83a48c1a6df6c70b0affe2e4e0f02f48a20a8d2aabedbbe9c89cabd5"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part086",
+      "bytes": 16777216,
+      "git_blob_sha": "b4bcd89deaf42948807b120810da8f8100c11ba1",
+      "sha256": "7dccc6cd647977f08d0366075f2a515fc8971b12d5dcab68a3fc964529031513"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part087",
+      "bytes": 16777216,
+      "git_blob_sha": "f6c021098b3ee1fb2083c58e4e1822c85385a5d9",
+      "sha256": "299b73f56f963cdbe2db89e5e6bd703dbce5c3d2a470002ff002e55a153c109b"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part088",
+      "bytes": 16777216,
+      "git_blob_sha": "3fc05e94983dbae822c89bd3741b730e62f9207e",
+      "sha256": "24ac077edec68d21893662f80e88751f8f18c0fe2911ee48a6ed1346a58853b6"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part089",
+      "bytes": 16777216,
+      "git_blob_sha": "e0f3d704db69eb061887360a4ac50acbcbdf4208",
+      "sha256": "a94e38422fc09657f80b3b347b57c9bffc43971548419632e42d7417077876e2"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part090",
+      "bytes": 16777216,
+      "git_blob_sha": "1c5d8d21dbd0993e7b026f6304697804eea5fa0d",
+      "sha256": "d476fc5d775a597c9d578088ca807dc0865758953de98061adfa1d44f5d65fd7"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part091",
+      "bytes": 16777216,
+      "git_blob_sha": "911779a14e80b094eeb21d22b10b5e881649e3ed",
+      "sha256": "25e0c52ca6910b5485a8e010e3fe41da698a839237e6b48b87db686a12f7431b"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part092",
+      "bytes": 16777216,
+      "git_blob_sha": "c4a9b1cbd8cc513cb2110c12674e662f188ae171",
+      "sha256": "bf86f12b14d38a1d626eeaa27cacf1b101b5b65800ca4eccdc1de08c98f7383c"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part093",
+      "bytes": 16777216,
+      "git_blob_sha": "ae636c18d64ba282183d22535cf0593e2cd1d0cd",
+      "sha256": "5df4a82184c250b4ba0d4e4980ef6da7a2760d2d9652fda21159469653acde66"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part094",
+      "bytes": 16777216,
+      "git_blob_sha": "cd98f57ce58b08d8e27527dbaac71e4096a4e40b",
+      "sha256": "a5c399a41f5651b70eb92e8e98693297d35c466f28601b8a5c261bb35ce00671"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part095",
+      "bytes": 16777216,
+      "git_blob_sha": "94d421130cc97fd4bc397492a831c14e8e2a70b2",
+      "sha256": "a7f1346bd5fa7f5195bf57ee569a2339df18814c5308c3746292b5d3a80227d1"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part096",
+      "bytes": 16777216,
+      "git_blob_sha": "55a7a8b3fd3a21c73e1c328befefccb70efaeb95",
+      "sha256": "77df056833a010e25c0efaf2214b69c3ca63d195a9d464a78b78a1dd95a0d39f"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part097",
+      "bytes": 16777216,
+      "git_blob_sha": "b6ba71de349590d2186460ee59de46c6a57920d5",
+      "sha256": "4bb5a6112934caae176e570f9d2c00628425366f048823a3a0867bef550a5bfc"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part098",
+      "bytes": 16777216,
+      "git_blob_sha": "e93b7cc820ebb44f9854835db8a38206f95a7723",
+      "sha256": "18de011b727a566ef86849042ef1cf5a2d352bb8907a54f665c37bc523856386"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part099",
+      "bytes": 16777216,
+      "git_blob_sha": "bd1e21f0bf2a9ba55169c1b3f4441d7db7b4153e",
+      "sha256": "fafecce40616d9e023b48909cd5189f5144fd7ddb643acff20b81dddc985e84f"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part100",
+      "bytes": 16777216,
+      "git_blob_sha": "25d3da91fefbc4250ad9eb6fbcf23d56de4b7e46",
+      "sha256": "c062c76101942414b74ae73261be3d042e6a03c0536be7a1ae0f78195e937e7b"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part101",
+      "bytes": 16777216,
+      "git_blob_sha": "be80126e2a4b26a6ad6b721b9a74c1e798a6f2b6",
+      "sha256": "7aa99e4127786e2d2448f624f4f881ddff194b7321fc86bc6d9feb008f05d020"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part102",
+      "bytes": 16777216,
+      "git_blob_sha": "ae88b00402b96a3e8fab7a9f8b6117fe81072fc1",
+      "sha256": "a61904994f98d9d99cacf019c652a0071dbb4a7850bdfbe2bd463296e90d7b3b"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part103",
+      "bytes": 16777216,
+      "git_blob_sha": "35f8d288c2fcdda9385f35a9ea01221cb3d32556",
+      "sha256": "21e9c480168d00ca29f850f1dc27b7d4d94eff3f95b0fe14b9c8a9a95cdcd7ea"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part104",
+      "bytes": 16777216,
+      "git_blob_sha": "bf37222573b4e5263cce78c0285c22b1741a67c5",
+      "sha256": "d15c32709e398188b81d901ae267b4106ae1f4606bec72e2ea4c0ea9af801aff"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part105",
+      "bytes": 16777216,
+      "git_blob_sha": "c26dcf734344e4fdc032f47b972b019de4944de2",
+      "sha256": "ccf58350b7227b4a6cbb1cfa706972baa2752e410ff6f255d958faf7e067cbb5"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part106",
+      "bytes": 16777216,
+      "git_blob_sha": "857816eaa1cc6ee5e5adabd26c49b6f232fcddea",
+      "sha256": "b4add9c3cab18093e691d4975d2993a70aa56823d4dae0003a7e6966b9a3a42d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part107",
+      "bytes": 16777216,
+      "git_blob_sha": "627ca2e71cfcf4e952ddd0a0f728cca5b18bbe27",
+      "sha256": "6abbe85ba858248fb075b859315c8d9ef9036b1e3a467387088b845976caf066"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part108",
+      "bytes": 16777216,
+      "git_blob_sha": "01e8bed706649e5919c7e49620c31d24a687cc2c",
+      "sha256": "373f295b0b708bedae9799464d7c8aea96d509ff9667df777b820d9bfc0b0389"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part109",
+      "bytes": 16777216,
+      "git_blob_sha": "7740de3e4269ce25fe08af3735c4b0c803dc6b44",
+      "sha256": "0d05fab0dccc78a9a2659a86d848ff2f63f7c2ec92d931e41facd187e28d9839"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part110",
+      "bytes": 16777216,
+      "git_blob_sha": "da3f7efbe520c12770ea19ec9bb9f89d59a9f71e",
+      "sha256": "41f34a005bdc88e91fe3f9eab1377d979b930cc1c3b6cce4f04b6f024150833d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part111",
+      "bytes": 16777216,
+      "git_blob_sha": "98af4bf91db39d6dc81f795bf7f010f744a73dbb",
+      "sha256": "2dcc57a5061141d7545b0856753ac35f6e9f83c2c596b1c531dca06cbfa3a8ea"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part112",
+      "bytes": 16777216,
+      "git_blob_sha": "5b2bba1ede6d0c38405f06d983496e8731c6879e",
+      "sha256": "852bb2ee360b4ef3e14e67938352ad8988ee2a744e9251112635f890a0d7bca8"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part113",
+      "bytes": 16777216,
+      "git_blob_sha": "864cbf77d613b8bae1c8e0ff4455de0f1f7bc9ef",
+      "sha256": "2e037ed0b0c9806972ef9b5e0479c3056d17483e0855bcb76e72ff1b4a60db11"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part114",
+      "bytes": 16777216,
+      "git_blob_sha": "d34ad6fdd9e695c7451bbb482416c4cb4dfe74e7",
+      "sha256": "8dd93fd6af2f6a608cae241bf83a6e5af9a255b0bc18300e2325cc00a3a0dd24"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part115",
+      "bytes": 16777216,
+      "git_blob_sha": "eca7c98e5b369ffc00879b9fde3460de121c5d56",
+      "sha256": "ad890e2bc4f5f7938a201f18de055f6ee4459e049df6cdb3410c5ce127bf68c9"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part116",
+      "bytes": 16777216,
+      "git_blob_sha": "83fe587c8cfcc6cc531eb42d1e6070b36dfc0050",
+      "sha256": "ddc89658dcc3a32a0fafd05b469a0e7ab5b3c9115ec997459e03ca8353ea6757"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part117",
+      "bytes": 16777216,
+      "git_blob_sha": "47cbfa7476a1244b838531d4b7df3991d68a9f65",
+      "sha256": "4d449d01bc6676a65e6564212efdf50742b8cf9e6732ce060144e7c610448c62"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part118",
+      "bytes": 16777216,
+      "git_blob_sha": "7811e140c9cd5aa010003ea474ba87462362116f",
+      "sha256": "1cc1708df883e643e03646735eaeb13601a4aecd39307b71ec19a732c1c7e817"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part119",
+      "bytes": 16777216,
+      "git_blob_sha": "7d101a9e3cdadf704b373b58afda2ba16f2b5b88",
+      "sha256": "934ebf333407eac47306095ec6193604dccae9bdad81b6054178f456f2b653d8"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part120",
+      "bytes": 16777216,
+      "git_blob_sha": "605f7b601f3d6d8196993cd14a608e6b2f405846",
+      "sha256": "955121d1303af6dcbccab501e29ef4ccc587a530987320a993edfd7a43ffa54a"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part121",
+      "bytes": 16777216,
+      "git_blob_sha": "16ca9b462b683520c7006b68adec799a28128b87",
+      "sha256": "84013eff53d1571ac89549f1a6ecb27f88b0de44a466c5fe16defdc0dd24a820"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part122",
+      "bytes": 16777216,
+      "git_blob_sha": "c28f45e35e345fa6d1ee4ced570d7e86006a3e48",
+      "sha256": "dd5495f684c28cb5ed1cf789fec566e854d2223c4eed1f347a2be5c6f75dc124"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part123",
+      "bytes": 16777216,
+      "git_blob_sha": "008b3e6e5e0b0508e8d62c9f6925fe6dd03465bb",
+      "sha256": "6f985138dce340db0addeb47869daac90500cc13cf01bf402f6c331469ffe560"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part124",
+      "bytes": 16777216,
+      "git_blob_sha": "59b2a163fc88427f1a3cc6340f04a58c1f1ba690",
+      "sha256": "6cb9d421f5628810ac88ff635251499c755f449c1bb2e19dd34e173f262e29e1"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part125",
+      "bytes": 16777216,
+      "git_blob_sha": "9077eae863af86ee4ba6a60186b2e06175d6c302",
+      "sha256": "eaf0be3067af7a42e51b0fed68f1dc3fd1560a8d004402c7af4f55598f94f4af"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part126",
+      "bytes": 16777216,
+      "git_blob_sha": "6b2de290f39b7394511961122cede41f826810a4",
+      "sha256": "ee1a446f53d73b107b3663b0e854b314bdc3149320b433bd449e64a948db606a"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part127",
+      "bytes": 16777216,
+      "git_blob_sha": "d935092099ccb19dc2dcbb12c7a52983189bad69",
+      "sha256": "cc45efd7a5a5baa255c69c42ef00c8e5c8a828ca90af6e6bb1cc45d37958978e"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part128",
+      "bytes": 16777216,
+      "git_blob_sha": "9ba5355804a6a0446ca9a8aab777f3240c7906ac",
+      "sha256": "6e0cd96694328ae8906985f0aaa71b27284b73250d13eed04b9025ac5e2d96d1"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part129",
+      "bytes": 16777216,
+      "git_blob_sha": "b2badcebcc3b70a567b0b4e559e949d30c90b387",
+      "sha256": "aeb56f4aa127b8af2d1e4ab269e15be4918b69bc7d944cf8f81e8dd373ba41e6"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part130",
+      "bytes": 16777216,
+      "git_blob_sha": "dc39100b18af6e2e381872718a8873b40946d090",
+      "sha256": "adef1f7267cd78a129bd7b3031b7cf4a59fada4fad5eabe1a25640bfba937bba"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part131",
+      "bytes": 16777216,
+      "git_blob_sha": "29c9ab80c1710a2b53235bf1c83241f2d545c7d5",
+      "sha256": "662d31ee3538f425b9e227b613329e855d350219b59feccdeaa0207cb4d32aea"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part132",
+      "bytes": 16777216,
+      "git_blob_sha": "306965a5996a894c014688243b46cba5f4b3ab80",
+      "sha256": "0ed9a08c3dbf8b7ea19b73bb7bf522bd2b4635cacc1dc15b1f587591e243535d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part133",
+      "bytes": 16777216,
+      "git_blob_sha": "d80c5b3c396e04649dd6037c23013fb0493a9658",
+      "sha256": "eff2576f7b2122bef2bf259e96e6f010de6b0ab3d71a5b8636c63957fffb447f"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part134",
+      "bytes": 16777216,
+      "git_blob_sha": "876ccab9532ab524c023b8ff6445e9ea0e468449",
+      "sha256": "35f861871917ce58199874b353bddfc156d74eb7ab7d9f49f2757aa27dbba90e"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part135",
+      "bytes": 16777216,
+      "git_blob_sha": "c4220885523534496572e228ed49caf6e14b7dcc",
+      "sha256": "f2e7ed1eb9346cd623e23906ba31044c3c456ddbea54c57ab74597fc29dd1b05"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part136",
+      "bytes": 16777216,
+      "git_blob_sha": "e847844af48d6111a56c306103e58c825b91d9f5",
+      "sha256": "ee1181a1e4f7e22666c4bb47ea3608f3ca4e5dee8eb1d11e432a5bb0d2af8fcc"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part137",
+      "bytes": 16777216,
+      "git_blob_sha": "613fb3105459cdaac618b15f31b8632a71ee98b5",
+      "sha256": "e726ec79cfe1294f118e9b0cf0ab65cea3d60c0c27916a177d1edf9941d13a4c"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part138",
+      "bytes": 16777216,
+      "git_blob_sha": "7bb934bd4f005c38b00acf33f30a48a0067d9e90",
+      "sha256": "9aef63ca3576760d8075fabbeb1eae098a7a7089c6cd1fc33d59979fdef61f44"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part139",
+      "bytes": 16777216,
+      "git_blob_sha": "bec20b0c8dfb39a954952eb9b28fa1034959bb5e",
+      "sha256": "3cbce6fbf6963581d90e37c23ae7e5b62139760f5c52fee9cc4f54f3cf73ad6d"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part140",
+      "bytes": 16777216,
+      "git_blob_sha": "b10d61537a5123b7287bcfa6bd83f83df379dd5e",
+      "sha256": "790b30a171aef5caac7b683b2a8eb095188f9ac51b9264e4aae5dfcfff1adafc"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part141",
+      "bytes": 16777216,
+      "git_blob_sha": "294ae29d86e3cd06b0d004b5e366751bcc5ec90a",
+      "sha256": "5931f7c1d46e0e308dbac5d50c951ade6d991cbc5f9f9584775b8d1d650e58ee"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part142",
+      "bytes": 16777216,
+      "git_blob_sha": "dffdb50b6f6be6c53402c4a8c4269d78972d1d30",
+      "sha256": "4814ccd7f4a76e8764b9c4e9cbb71b24a38d2794617a960e7b5eb0ce4c295e84"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part143",
+      "bytes": 16777216,
+      "git_blob_sha": "965d67c94f2b297e56af2fc4201a9f4946e6c0db",
+      "sha256": "56a7dd6fde1cb927d40632e799983f3c07bc8874a28605e6ee8ab9706d7888c5"
+    },
+    {
+      "name": "OpenDeploy-Latest-Complete-20261030.zip.part144",
+      "bytes": 12858349,
+      "git_blob_sha": "13b6fbbdf6a09d05dd0afd15bdf29b2ad5c3661f",
+      "sha256": "e31454bb9d79c82f446d02acb0c5e6ec58ebc21e79fed2ea0105143836cb6b61"
+    }
+  ],
+  "application_source_commit": "99944c1343e1976d7d719bb1213b38a3bcf5b051",
+  "source_branch_commit": "226908ca533310e39c50c7841efa6702a78c59b7",
+  "assembly_date": "2026-11-01",
+  "original_package": false,
+  "installation_verified": false,
+  "credentials_included": false,
+  "includes": [
+    "latest_application",
+    "full_locked_runtime",
+    "PXVIRT_8.4-2_ISO",
+    "VirtIO_0.1.302_ISO",
+    "Chinese_offline_zip",
+    "GRUB_resources"
+  ]
+}

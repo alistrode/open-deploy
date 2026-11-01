@@ -1,0 +1,15 @@
+[Unit]
+Description=OpenDeploy guest media selection
+Wants=network-online.target
+After=network-online.target
+StartLimitIntervalSec=0
+
+[Service]
+User=root
+UMask=0077
+ExecStart=/usr/bin/python3 /opt/opendeploy/portal.py
+Restart=on-failure
+RestartSec=15
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,7 @@
+# Per-machine AI configuration and operation receipts stay on the deployment media.
+**/plan.json
+**/flow-state.json
+**/driver-state.json
+**/drivers-complete.json
+**/deployment-complete.json
+**/*.new

@@ -1,0 +1,2680 @@
+{
+  "Sources": [
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver.git",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/AMD",
+      "destination": "bootstrap-drivers/AMD-SATA"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver.git",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/Intel-Ethernet",
+      "destination": "bootstrap-drivers/Intel-Ethernet"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver.git",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/Intel-Wireless",
+      "destination": "bootstrap-drivers/Intel-Wireless"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver.git",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/USB",
+      "destination": "bootstrap-drivers/USB"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver.git",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/RedHat",
+      "destination": "bootstrap-drivers/RedHat"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver-dell.git",
+      "commit": "f61880cd3663e7e2c1826d21b12e62eb1ea8794d",
+      "path": "winpe-driver/amd64/Dell/MDT/HDC",
+      "destination": "bootstrap-drivers/Dell-HDC"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver-dell.git",
+      "commit": "f61880cd3663e7e2c1826d21b12e62eb1ea8794d",
+      "path": "winpe-driver/amd64/Dell/MDT/SCSIAdapter",
+      "destination": "bootstrap-drivers/Dell-SCSI"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver-dell.git",
+      "commit": "f61880cd3663e7e2c1826d21b12e62eb1ea8794d",
+      "path": "winpe-driver/amd64/Dell/MDT/Net",
+      "destination": "bootstrap-drivers/Dell-Net"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver-dell.git",
+      "commit": "f61880cd3663e7e2c1826d21b12e62eb1ea8794d",
+      "path": "winpe-driver/amd64/Dell/MDT/System",
+      "destination": "bootstrap-drivers/Dell-System"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver-hp",
+      "commit": "e25953527bf9de62b5d24eba5f0e1193f672a7bf",
+      "path": "winpe-driver/amd64/HP/sp165773/80 - AMD_RAID 7.2.0.00057",
+      "destination": "bootstrap-drivers/HP-80 - AMD_RAID 7.2.0.00057"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver-hp",
+      "commit": "e25953527bf9de62b5d24eba5f0e1193f672a7bf",
+      "path": "winpe-driver/amd64/HP/sp165773/85 - AMD_RAID 9.3.0.00266",
+      "destination": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/Windows11-25H2-Wireless-Net/netrtwlane_2024.0.8.108_C5207CA2E0059681E63CCA774838C60D1251955A046597A2C2BCF4913F9937F5",
+      "destination": "bootstrap-drivers/WLAN-Other/netrtwlane_2024.0.8.108_C5207CA2E0059681E63CCA774838C60D1251955A046597A2C2BCF4913F9937F5"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/Windows11-25H2-Wireless-Net/netrtwlane01_2023.70.0109.2018_62962C03CC7A27B19E75471DE1D1E958AE038D4A93951D490CA2A5D8087FE994",
+      "destination": "bootstrap-drivers/WLAN-Other/netrtwlane01_2023.70.0109.2018_62962C03CC7A27B19E75471DE1D1E958AE038D4A93951D490CA2A5D8087FE994"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/Windows11-25H2-Wireless-Net/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360",
+      "destination": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/Windows11-25H2-Wireless-Net/mrvlpcie8897_15.68.9112.23_70E5FCC56997B835D6C9A507F17689878585B0404C907622DB0B25118B282CE8",
+      "destination": "bootstrap-drivers/WLAN-Other/mrvlpcie8897_15.68.9112.23_70E5FCC56997B835D6C9A507F17689878585B0404C907622DB0B25118B282CE8"
+    },
+    {
+      "repository": "https://github.com/OSDeploy/osdws-winpedriver",
+      "commit": "f747ba536197e93d3e72cbd7ae984442f70cf644",
+      "path": "winpe-driver/amd64/Windows11-25H2-Wireless-Net/bcmwdidhdpcie_1.558.53.25_B648C046F035DF7F89A927BBC5AF4C1197F83AA8F71DE746FB8EB28C2FD8A452",
+      "destination": "bootstrap-drivers/WLAN-Other/bcmwdidhdpcie_1.558.53.25_B648C046F035DF7F89A927BBC5AF4C1197F83AA8F71DE746FB8EB28C2FD8A452"
+    }
+  ],
+  "Files": [
+    {
+      "Path": "bootstrap-drivers/AMD-SATA/3c683eab-9087-4763-8aeb-9e187c2f5754/amd_sata.cat",
+      "Size": 12279,
+      "SHA256": "80aa7c74b9946758259a6d41255bc4ee22f0cf78e963292d3875d7d0203cf891"
+    },
+    {
+      "Path": "bootstrap-drivers/AMD-SATA/3c683eab-9087-4763-8aeb-9e187c2f5754/amd_sata.inf",
+      "Size": 5995,
+      "SHA256": "cb9bca6c6ddb6cda37b2a6e3fffe1bce73b622b55068a08e796ccad5aca13c18"
+    },
+    {
+      "Path": "bootstrap-drivers/AMD-SATA/3c683eab-9087-4763-8aeb-9e187c2f5754/amd_sata.sys",
+      "Size": 93248,
+      "SHA256": "6713a5b81bb4428ecdc4b5c9423b5d7c874f648fdfb80d3b67a865a3b6d272f0"
+    },
+    {
+      "Path": "bootstrap-drivers/AMD-SATA/3c683eab-9087-4763-8aeb-9e187c2f5754/amd_xata.sys",
+      "Size": 33344,
+      "SHA256": "1efda58a7bad3426c781d738e94c84248a5f76cf6334defc3e5656024caa2f2e"
+    },
+    {
+      "Path": "bootstrap-drivers/AMD-SATA/3c683eab-9087-4763-8aeb-9e187c2f5754.json",
+      "Size": 888,
+      "SHA256": "54922e88b7f42d513491207cc6f3971ffb9c418f6fa1bbee040cb622d8446e58"
+    },
+    {
+      "Path": "bootstrap-drivers/AMD-SATA/README.md",
+      "Size": 78,
+      "SHA256": "496ed3047d659b15bc9bde689135e94995fba42d06c1868dea11da4a8c2c6860"
+    },
+    {
+      "Path": "bootstrap-drivers/AMD-SATA-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/AMD-SATA-README.md",
+      "Size": 53,
+      "SHA256": "b8e51502411257438e80a59239a56283af36c1f4ff864b68c4463afd863bd312"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/HfcDisableService.exe",
+      "Size": 1917632,
+      "SHA256": "0f61dc6a28704e63d0f2ad6cdb7a04136ff355f16641d100560a976e7fba9aa2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/Optane.dll",
+      "Size": 114880,
+      "SHA256": "b1abb2376508812011c2ab0ecc283c96fb40f3fa5c61bfd8220609fa97fdb887"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/OptaneEventLogMsg.dll",
+      "Size": 24256,
+      "SHA256": "0a9801ab4c1043b96459a60e56e2138f170463e069e50ff95e94ce243efb68ad"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/RstMwEventLogMsg.dll",
+      "Size": 27328,
+      "SHA256": "2f7b301440f073aa54b65dd23d4ffb781f9fd8c237b16fa8a08c37ad64951966"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/RstMwService.exe",
+      "Size": 2244800,
+      "SHA256": "24ea181835f4c342e239c552481cb7b0fe52735283f44e057d1bfe1751c4c8d9"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/iaAHCIC.cat",
+      "Size": 11897,
+      "SHA256": "0dcd4bdb98b6cccfdea27ca66d69456dc123cb871eb85a35db289fd1b2642426"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/iaAHCIC.inf",
+      "Size": 17546,
+      "SHA256": "48a78ef5e4e700559e5613d4f32d0a4c256e2ef22673f84950fbe19bf089dee1"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/iaStorAC.cat",
+      "Size": 15103,
+      "SHA256": "d3c28b9f3929212c2276e5dc2716ae34958267bfe1e4fc0e73af2fb840c9c8c2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/iaStorAC.inf",
+      "Size": 28100,
+      "SHA256": "ae6a3c804c020a536a6ea3d44778c83c015dcbd75eff83aeaa911e44a1deed16"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/iaStorAC.sys",
+      "Size": 1347776,
+      "SHA256": "1f75f0539046c81f1895f1f0364f289059402ca833a6af734caf8a073adb32c8"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/iaStorAfs.sys",
+      "Size": 73920,
+      "SHA256": "96cb4d8022ecd83f8d0965931a2113285b0195c0b3d800b46ee94dc3f9290c42"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/iaStorAfsNative.exe",
+      "Size": 220352,
+      "SHA256": "99bd7546bfe6daec003062c7888d560375a5d33dbc2e2f9e9a9f7c6bb6f658ca"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/iaStorAfsService.exe",
+      "Size": 3031232,
+      "SHA256": "e537786c38b27ba0f5279343c81f2c3a0a41f48c3df29a3ccbe3ae945a85b825"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_17.11.0.1000_5AF69BE28DFC7BC91DE8134828F0461FED58D94961EBA236746E2F0DA9A8CEFF/release.dat",
+      "Size": 93,
+      "SHA256": "b9caecfdaecde3cc07ba787e283f5a48437ea10b9de55cb0c6d7547f08b6490d"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_18.37.1.1003_8B0F79CC00BDF4F0D57233859C2DC4621855EFE21262BA538E5310867259AE22/RstMwEventLogMsg.dll",
+      "Size": 29392,
+      "SHA256": "06d808be57fecc11ad63891ffccb76d3cbd98b31cae51fb87f5529fadc9bf1ab"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_18.37.1.1003_8B0F79CC00BDF4F0D57233859C2DC4621855EFE21262BA538E5310867259AE22/RstMwService.exe",
+      "Size": 1989384,
+      "SHA256": "b3eb4f5c20d6dd66ddefc8589ecb085d16ed7c009f4029c03ee85adcf781b391"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_18.37.1.1003_8B0F79CC00BDF4F0D57233859C2DC4621855EFE21262BA538E5310867259AE22/iaAHCIC.cat",
+      "Size": 12693,
+      "SHA256": "c532ad88fc0f7456c1807bc6b98c7b6831d63d5c621dd6b08259a7ab3db70663"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_18.37.1.1003_8B0F79CC00BDF4F0D57233859C2DC4621855EFE21262BA538E5310867259AE22/iaAHCIC.inf",
+      "Size": 16782,
+      "SHA256": "6bbda1d617a323981f015d1b24cd96da1b8a7bb762c1b410963ca54f0318b8ab"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_18.37.1.1003_8B0F79CC00BDF4F0D57233859C2DC4621855EFE21262BA538E5310867259AE22/iaStorAC.sys",
+      "Size": 1547472,
+      "SHA256": "6c0f7e364454f60f3e33a7e3c6e9cb95a144eaf2336407dab59d1cc5b7d8f0b0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC/iaAHCIC_18.37.1.1003_8B0F79CC00BDF4F0D57233859C2DC4621855EFE21262BA538E5310867259AE22/release.dat",
+      "Size": 95,
+      "SHA256": "71ac9d1bd26ef958902c89c958e3936bea78f258985fcfb0ea17bbc15be00de8"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-HDC-README.md",
+      "Size": 58,
+      "SHA256": "9d4aa2e8274efbbdf9def1a038a6360bd9a0c04c73af126763bf1b8fb700fd63"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/aqnic650_2.1.021.0_5AF2D2E4ECD37BA1E98356605C9294C9EA2AE6584EB6BA06CBF177B4442681DA/aqnic650.cat",
+      "Size": 23489,
+      "SHA256": "b5469e671110b37259430d08f4408fc91fc02dc246dfec475de404f4850fbe64"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/aqnic650_2.1.021.0_5AF2D2E4ECD37BA1E98356605C9294C9EA2AE6584EB6BA06CBF177B4442681DA/aqnic650.inf",
+      "Size": 111572,
+      "SHA256": "262093ba6ffa629de93e60bf32bed3a0f5317b33264eb9813e130c8ae08399e6"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/aqnic650_2.1.021.0_5AF2D2E4ECD37BA1E98356605C9294C9EA2AE6584EB6BA06CBF177B4442681DA/aqnic650.sys",
+      "Size": 196736,
+      "SHA256": "acb52527f4c021c13ee7610d4d95da7494355bfce97142870a5382b845699d46"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/aqnic650_2.1.021.0_5AF2D2E4ECD37BA1E98356605C9294C9EA2AE6584EB6BA06CBF177B4442681DA/release.dat",
+      "Size": 82,
+      "SHA256": "11d399c5ae4e079a3a0634b83d9dcd87d5f482b3e9b0e00c97ca822c2af9158e"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/aqnic650_3.1.7.0_5203B2CABFA49C08CFF2ACE6575ECD17809EE75DA2A047F6E5288F1243B85DB9/aqnic650.cat",
+      "Size": 28390,
+      "SHA256": "1c85d098e5300a17f93bd6b662d90a813c167a3e6448a684c07e7d59f24f71de"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/aqnic650_3.1.7.0_5203B2CABFA49C08CFF2ACE6575ECD17809EE75DA2A047F6E5288F1243B85DB9/aqnic650.inf",
+      "Size": 131594,
+      "SHA256": "394c5967cf834f9c46bc3e5b417f80c0c17092e514930530ea6b0ffc67c275db"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/aqnic650_3.1.7.0_5203B2CABFA49C08CFF2ACE6575ECD17809EE75DA2A047F6E5288F1243B85DB9/aqnic650.sys",
+      "Size": 265128,
+      "SHA256": "c98333f546470ef82b5de6c6f9e96dbd5cb3ca2ae78aa5bfdace6d6ea1c5f214"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/aqnic650_3.1.7.0_5203B2CABFA49C08CFF2ACE6575ECD17809EE75DA2A047F6E5288F1243B85DB9/release.dat",
+      "Size": 82,
+      "SHA256": "0050f1836a7587f4083ba4dbcabf3eb074a836dfe6651a7e6b9364e93b7bcaa7"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.45_58C3639F9923B7702144D9D803BB9362C183F7FFC5953597AC503D8D6AAC5B93/e1d.cat",
+      "Size": 55343,
+      "SHA256": "81861baf059f8b0e339617afa7bac390205a9fe91b2dbc838ee80437d3fb084f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.45_58C3639F9923B7702144D9D803BB9362C183F7FFC5953597AC503D8D6AAC5B93/e1d.inf",
+      "Size": 502019,
+      "SHA256": "c3e730945c0566ee76c6134ed2fad18a0082716388b28a1f1334114da2110a5b"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.45_58C3639F9923B7702144D9D803BB9362C183F7FFC5953597AC503D8D6AAC5B93/e1d.sys",
+      "Size": 618128,
+      "SHA256": "399b0b65c8d21a53b70865f27d7ff5028a1f74376e1dae112d0de98cbaa351ce"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.45_58C3639F9923B7702144D9D803BB9362C183F7FFC5953597AC503D8D6AAC5B93/e1dmsg.dll",
+      "Size": 42112,
+      "SHA256": "3fedf64810e8df598b87e4db071db969d5aa07f458d616c3901007d9b0b9b61e"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.45_58C3639F9923B7702144D9D803BB9362C183F7FFC5953597AC503D8D6AAC5B93/release.dat",
+      "Size": 82,
+      "SHA256": "b0a1b1fd20afbd44f5084743f9f55c6544ea250f4ebe90d3e39bbd15ff1a1fe2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.61_90B238903E49F6E53FD957631F5D00B5028C42975E04CD0EA5028853D6D65676/e1d.cat",
+      "Size": 23206,
+      "SHA256": "ca9ddd88cbabf404bda44d07760c1bdb5a44c44a4d22865ec2b55d7178cc7aeb"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.61_90B238903E49F6E53FD957631F5D00B5028C42975E04CD0EA5028853D6D65676/e1d.inf",
+      "Size": 451682,
+      "SHA256": "f5bce208bb0fc0974cffc78269ea0a378091f7e17f39e3baa0d1ec34d0e3e4a3"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.61_90B238903E49F6E53FD957631F5D00B5028C42975E04CD0EA5028853D6D65676/e1d.sys",
+      "Size": 612960,
+      "SHA256": "7d7cdd5051ca91bf57a6f9a324d7a6366b9ea7f86180139ae04e21b0dc16f355"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.61_90B238903E49F6E53FD957631F5D00B5028C42975E04CD0EA5028853D6D65676/e1dmsg.dll",
+      "Size": 32352,
+      "SHA256": "5154dfff635c5cca5242bef424d53e6ac325b211349ba936084c339652aa6cdd"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.61_90B238903E49F6E53FD957631F5D00B5028C42975E04CD0EA5028853D6D65676/e1dn.cat",
+      "Size": 15220,
+      "SHA256": "d97993e0ca866f0f36b3121225819ead04537a15a5a1be81b5e6ef07a4341fcc"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.61_90B238903E49F6E53FD957631F5D00B5028C42975E04CD0EA5028853D6D65676/e1dn.inf",
+      "Size": 91404,
+      "SHA256": "60793a63141f8b2195ded5c2ee4b26e7ab3d41b38106fdeeef1e529f690c9ac1"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.61_90B238903E49F6E53FD957631F5D00B5028C42975E04CD0EA5028853D6D65676/e1dn.sys",
+      "Size": 1724624,
+      "SHA256": "76b2c5f042cabd6c8e7674fa98b50e4bfd731917dd446c497a7bcfa9f6012d4b"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1d_12.19.2.61_90B238903E49F6E53FD957631F5D00B5028C42975E04CD0EA5028853D6D65676/e1dnmsg.dll",
+      "Size": 84680,
+      "SHA256": "ab05ea36722555e98b380f8fdf4d225fc44ab1769b168fb183ecbc0eacda3cb9"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r68x64_12.18.13.0_4C46C0AF4690C6C166181BD718D2F598C5162978D2BF721B8F7FA2AD51431B0C/e1r68x64.cat",
+      "Size": 20099,
+      "SHA256": "47e6ac50f00890df1affcb21a3e4586e6710a7bd19ea56a4b1bff49bd9599fa8"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r68x64_12.18.13.0_4C46C0AF4690C6C166181BD718D2F598C5162978D2BF721B8F7FA2AD51431B0C/e1r68x64.din",
+      "Size": 3014,
+      "SHA256": "8421a748d1d3a7dab0da9dbdad248a1cc11e3147122ef968168fd99b56ac1fda"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r68x64_12.18.13.0_4C46C0AF4690C6C166181BD718D2F598C5162978D2BF721B8F7FA2AD51431B0C/e1r68x64.inf",
+      "Size": 227246,
+      "SHA256": "c7aa383d20249ad2649a4e205c4c29fa42114311a0f30dc9fe91b4903caddb49"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r68x64_12.18.13.0_4C46C0AF4690C6C166181BD718D2F598C5162978D2BF721B8F7FA2AD51431B0C/e1r68x64.sys",
+      "Size": 607912,
+      "SHA256": "0bb408edd936cd7105a2bdcd82b4e8cd83c3c2f427a509966fc8cedfed7f8632"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r68x64_12.18.13.0_4C46C0AF4690C6C166181BD718D2F598C5162978D2BF721B8F7FA2AD51431B0C/e1rmsg.dll",
+      "Size": 130216,
+      "SHA256": "42f0c4cfee2f72ea240f7576c79c2f6efa9c6e2f17e10a3c428f0da7c4f75064"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r68x64_12.18.13.0_4C46C0AF4690C6C166181BD718D2F598C5162978D2BF721B8F7FA2AD51431B0C/release.dat",
+      "Size": 104,
+      "SHA256": "92e9b934ea07e4ab156ec93177b51a01841040d2c8c044bb2a27c4492e432241"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_4D0FBC842797B2E4B877478D412C0F80BD0758AC0369FB50F72B1D2E55491D5E/e1r.cat",
+      "Size": 19569,
+      "SHA256": "34f2d39b13bae88b85c7e028342c21f000d83243b0695f387b5f050cee24e281"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_4D0FBC842797B2E4B877478D412C0F80BD0758AC0369FB50F72B1D2E55491D5E/e1r.inf",
+      "Size": 220562,
+      "SHA256": "3b3c1bd28575b0e4024f46eab09d7c249cdf2fd40f81caf7cb2fc13c9730168f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_4D0FBC842797B2E4B877478D412C0F80BD0758AC0369FB50F72B1D2E55491D5E/e1r.sys",
+      "Size": 610456,
+      "SHA256": "656f8f456c34cc67057ce10787f2afd2f8fbee403a2606b5620f8709dba08f5f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_4D0FBC842797B2E4B877478D412C0F80BD0758AC0369FB50F72B1D2E55491D5E/e1rmsg.dll",
+      "Size": 130160,
+      "SHA256": "20b9ed69ae66469e5793986e69ef3c454f9ed14710a874ea3bc12d64593bddeb"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_4D0FBC842797B2E4B877478D412C0F80BD0758AC0369FB50F72B1D2E55491D5E/release.dat",
+      "Size": 104,
+      "SHA256": "54c96e34a7566fccf082df228cf430dbe396d55ab8b7abb39064cffb26015da8"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_A4011C451C9AEC16DB70773C99F2F53AB5F66A4FBA96D67A419D909282B3E771/e1r.cat",
+      "Size": 19526,
+      "SHA256": "40522665cac0f2b5360ecd613bc8303049f02766f43c4e0bb2c15f03061fc416"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_A4011C451C9AEC16DB70773C99F2F53AB5F66A4FBA96D67A419D909282B3E771/e1r.inf",
+      "Size": 220562,
+      "SHA256": "3b3c1bd28575b0e4024f46eab09d7c249cdf2fd40f81caf7cb2fc13c9730168f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_A4011C451C9AEC16DB70773C99F2F53AB5F66A4FBA96D67A419D909282B3E771/e1r.sys",
+      "Size": 600784,
+      "SHA256": "c46b62962443a2c3c433448d4691bafcff543b57d178c88784cb85386d661ee5"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_A4011C451C9AEC16DB70773C99F2F53AB5F66A4FBA96D67A419D909282B3E771/e1rmsg.dll",
+      "Size": 120504,
+      "SHA256": "361345b7d6d3e8539f1eba9ace23c5721de766fa8e6597dfe0818583e3391794"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e1r_13.0.14.0_A4011C451C9AEC16DB70773C99F2F53AB5F66A4FBA96D67A419D909282B3E771/release.dat",
+      "Size": 96,
+      "SHA256": "4f385402e8efb79215f2f1afda27fbc70533851e704431825ec7f9c34c39ad51"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e2f_1.1.3.34_597134BE944338E3452307FECFCFD712D5E5C42DE17BCD07A3FF4704CFDE0D6E/e2f.cat",
+      "Size": 13291,
+      "SHA256": "d926e19577bc6d0f0b293d216a85261b8e6f9dfd621707e1f47b90575a90f3d0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e2f_1.1.3.34_597134BE944338E3452307FECFCFD712D5E5C42DE17BCD07A3FF4704CFDE0D6E/e2f.inf",
+      "Size": 178792,
+      "SHA256": "9ad5421fe840e17c46ac986e86434c3b64abbb1d1b3b6fb9ce29f0e50b4f7dd8"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e2f_1.1.3.34_597134BE944338E3452307FECFCFD712D5E5C42DE17BCD07A3FF4704CFDE0D6E/e2f.sys",
+      "Size": 527000,
+      "SHA256": "b82c2d45e0ee838dba8160728211f3a9c7a6081e8111944bb4f391f682b11ac5"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e2f_1.1.3.34_597134BE944338E3452307FECFCFD712D5E5C42DE17BCD07A3FF4704CFDE0D6E/e2fmsg.dll",
+      "Size": 251080,
+      "SHA256": "c4fde82d502366b411ba104f61239d72350e17860f941e50e8bc5bf01b190bc2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/e2f_1.1.3.34_597134BE944338E3452307FECFCFD712D5E5C42DE17BCD07A3FF4704CFDE0D6E/release.dat",
+      "Size": 82,
+      "SHA256": "c054a87ff1ce58b299481f4efe5262c78150798dba4a18aaa3a565dd08bc645a"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea68_1.16.202.5_49BA1AE33D39A005C25DD90A4758330ED7AB210D4B857A1B9FE6ECA597B425BA/i40ea68.cat",
+      "Size": 26727,
+      "SHA256": "381f27650422aa6b978da5ccadd11e77d9f77b81fe3ebab17908867c69acf5bc"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea68_1.16.202.5_49BA1AE33D39A005C25DD90A4758330ED7AB210D4B857A1B9FE6ECA597B425BA/i40ea68.din",
+      "Size": 2972,
+      "SHA256": "90cd0be8857d3237c68f787222b22f641d4ef584842adc42570adc698c27a4ae"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea68_1.16.202.5_49BA1AE33D39A005C25DD90A4758330ED7AB210D4B857A1B9FE6ECA597B425BA/i40ea68.inf",
+      "Size": 256789,
+      "SHA256": "92f208e64558cd85acd8d731487b63dddade80e05f9dcb4f85e60950a596d9e0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea68_1.16.202.5_49BA1AE33D39A005C25DD90A4758330ED7AB210D4B857A1B9FE6ECA597B425BA/i40ea68.sys",
+      "Size": 728208,
+      "SHA256": "08fc18ad830c09e2f4e5a05a937820f78079feadaf7ceb6cdd61a1ab01914398"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea68_1.16.202.5_49BA1AE33D39A005C25DD90A4758330ED7AB210D4B857A1B9FE6ECA597B425BA/i40eamsg.dll",
+      "Size": 350384,
+      "SHA256": "d72701f1c86dfd25b05e22b48422b5d37b735e34248d3e9c564bf2a513725a07"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea68_1.16.202.5_49BA1AE33D39A005C25DD90A4758330ED7AB210D4B857A1B9FE6ECA597B425BA/release.dat",
+      "Size": 104,
+      "SHA256": "ce2b00fd1759377c48b393ed0ab8dfe7c65a9356ff24aa322474627ccd865d39"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea_1.17.84.0_2E50AA372D91323FB60C1CED8ACDFCF755616ACDA783907045FB96C5471DF8CA/i40ea.cat",
+      "Size": 26362,
+      "SHA256": "97eb9f182d3ae3a3fdac27d525e09ff88429ba05a13a8bce0cabaa25e2a66e04"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea_1.17.84.0_2E50AA372D91323FB60C1CED8ACDFCF755616ACDA783907045FB96C5471DF8CA/i40ea.inf",
+      "Size": 219774,
+      "SHA256": "cf8955336a2285afc683c3f1488f28c3307e062cf3bca6d79cd25216d6b47dbb"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea_1.17.84.0_2E50AA372D91323FB60C1CED8ACDFCF755616ACDA783907045FB96C5471DF8CA/i40ea.sys",
+      "Size": 746632,
+      "SHA256": "53c80af80853e97caf48eeca91dae104c6d780458f5bc01f9bc742c91cd03fe1"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea_1.17.84.0_2E50AA372D91323FB60C1CED8ACDFCF755616ACDA783907045FB96C5471DF8CA/i40eamsg.dll",
+      "Size": 348344,
+      "SHA256": "bc7471bd111478c548a0a976acd3e59ef1045dba029e57d909c6b49665fdefe9"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/i40ea_1.17.84.0_2E50AA372D91323FB60C1CED8ACDFCF755616ACDA783907045FB96C5471DF8CA/release.dat",
+      "Size": 104,
+      "SHA256": "f3edd4a59646a840037e429bc81048ebedd30b65bb947d62ffdf340b5faa3476"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea68_1.12.148.0_624FAA0A211D590500E7A3CDE9D8D81E29C4474AB306D170F62050A08F1E1A9A/icea68.cat",
+      "Size": 15627,
+      "SHA256": "a640c1796d1d89b53e32954b503bd7839f1eca05de76238a17d0a4d34473862d"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea68_1.12.148.0_624FAA0A211D590500E7A3CDE9D8D81E29C4474AB306D170F62050A08F1E1A9A/icea68.din",
+      "Size": 2919,
+      "SHA256": "d96fbea9616deae6af991a136b2e0f7addc8441734212a04ebfe5127dfcaeeae"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea68_1.12.148.0_624FAA0A211D590500E7A3CDE9D8D81E29C4474AB306D170F62050A08F1E1A9A/icea68.inf",
+      "Size": 187562,
+      "SHA256": "b0bb3113041b143d88ca8919505776f31e09c695a4958c09564035d13a612212"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea68_1.12.148.0_624FAA0A211D590500E7A3CDE9D8D81E29C4474AB306D170F62050A08F1E1A9A/icea68.sys",
+      "Size": 2238088,
+      "SHA256": "1303eb02245bd274fb97f9b583967717f71b31007db646a22847d4b6b64a3836"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea68_1.12.148.0_624FAA0A211D590500E7A3CDE9D8D81E29C4474AB306D170F62050A08F1E1A9A/iceamsg.dll",
+      "Size": 349920,
+      "SHA256": "4dd65ec2e9576c814caa2e8a211507682380d7644f32382a85c609c8df5debe2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea68_1.12.148.0_624FAA0A211D590500E7A3CDE9D8D81E29C4474AB306D170F62050A08F1E1A9A/release.dat",
+      "Size": 103,
+      "SHA256": "9d9bc322b0d1c5811abb8da63a788797ba27d0e598ed8c763e916e5951dffbc9"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea_1.12.148.0_655631EBF834A72C7DEE4D2868E92F9B817087E592867BD6CCADD17C646A6D1B/icea.cat",
+      "Size": 13286,
+      "SHA256": "56b7ac536d6422972c24cb2eeea10da421d0fed1818fc410fd9063f74fe14aa2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea_1.12.148.0_655631EBF834A72C7DEE4D2868E92F9B817087E592867BD6CCADD17C646A6D1B/icea.inf",
+      "Size": 107875,
+      "SHA256": "cee1f54fa2f02326b70e6d8c6ff6586982d8e3df69ae10733533085ce0177394"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea_1.12.148.0_655631EBF834A72C7DEE4D2868E92F9B817087E592867BD6CCADD17C646A6D1B/icea.sys",
+      "Size": 2238128,
+      "SHA256": "a4dba843aa7e5c72479c8465848aed72bf940de2a054d7fc613dec8b58f019ef"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea_1.12.148.0_655631EBF834A72C7DEE4D2868E92F9B817087E592867BD6CCADD17C646A6D1B/iceamsg.dll",
+      "Size": 349920,
+      "SHA256": "900ab983aa9c767dda015362a56742517de3b8ac31c3ee889a5b0c504c2e2830"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/icea_1.12.148.0_655631EBF834A72C7DEE4D2868E92F9B817087E592867BD6CCADD17C646A6D1B/release.dat",
+      "Size": 103,
+      "SHA256": "d78d728c9627688b03b55c5ed61e115dd101822751794fc828efb5f1bbc67c7a"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs68x64_4.1.246.2_464C6779B346CDCCFB59FC09234B39B628BFCF7947D7926BE160173A8EBBB7D0/ixs68x64.cat",
+      "Size": 14379,
+      "SHA256": "bde56afb774f95de64c5bfc272f7b66cdc2b5beda6126beba5de820a9fa1a6f4"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs68x64_4.1.246.2_464C6779B346CDCCFB59FC09234B39B628BFCF7947D7926BE160173A8EBBB7D0/ixs68x64.din",
+      "Size": 2970,
+      "SHA256": "14659864cf7f8cb76a2e88acfa7ab37beee962a9f81ce36cfff669b0c3719896"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs68x64_4.1.246.2_464C6779B346CDCCFB59FC09234B39B628BFCF7947D7926BE160173A8EBBB7D0/ixs68x64.inf",
+      "Size": 156991,
+      "SHA256": "733b9dfd45c941291937cf0436692f5af41b529b20f58305d8a475d13f738e30"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs68x64_4.1.246.2_464C6779B346CDCCFB59FC09234B39B628BFCF7947D7926BE160173A8EBBB7D0/ixs68x64.sys",
+      "Size": 516752,
+      "SHA256": "f163d07e28f9291af610c9a645ad249ce82a181852787a6d30c5822d1fa2e83b"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs68x64_4.1.246.2_464C6779B346CDCCFB59FC09234B39B628BFCF7947D7926BE160173A8EBBB7D0/ixsmsg.dll",
+      "Size": 119696,
+      "SHA256": "b10142d6a3db251142e0fb891830cf66dbf82cdce07d8f7f33839ab67fe85118"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs68x64_4.1.246.2_464C6779B346CDCCFB59FC09234B39B628BFCF7947D7926BE160173A8EBBB7D0/release.dat",
+      "Size": 103,
+      "SHA256": "5ab5d724656b37b2e5d910b718b75606dca38f1fdfc96ec9438663bd166048bd"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs_4.1.248.0_783F89FC2718172CCD64C60FE49DDC87C85F3DEE05D0BA16163B4645C1452732/ixs.cat",
+      "Size": 13921,
+      "SHA256": "0a9ad134c9ce4f22d44afa2354c07f6d0d4392e20e6d09502cbc3b4c4eaf2f51"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs_4.1.248.0_783F89FC2718172CCD64C60FE49DDC87C85F3DEE05D0BA16163B4645C1452732/ixs.inf",
+      "Size": 148575,
+      "SHA256": "38639c1d12de423d1b4275af1b1f343ed8230c6456bbd01b94e0d2ac25b0c03d"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs_4.1.248.0_783F89FC2718172CCD64C60FE49DDC87C85F3DEE05D0BA16163B4645C1452732/ixs.sys",
+      "Size": 526464,
+      "SHA256": "b5af8ca4cb69207c2360d3082765b26cb0651728b38975938edb0c1ac96d8834"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs_4.1.248.0_783F89FC2718172CCD64C60FE49DDC87C85F3DEE05D0BA16163B4645C1452732/ixsmsg.dll",
+      "Size": 129368,
+      "SHA256": "2c8d475e6d8a750b6eb4c4b118df29a3abed4b20819a0846d0bf3e050dd5e6f2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/ixs_4.1.248.0_783F89FC2718172CCD64C60FE49DDC87C85F3DEE05D0BA16163B4645C1452732/release.dat",
+      "Size": 103,
+      "SHA256": "5b74d6ec2c67fe9859d057642d789bad6d646c94368b89d0c936ee6def2fc2f5"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt25cx21x64.cat",
+      "Size": 68136,
+      "SHA256": "6405c26ee09e05f15aa74be299d7621a9056bc9cc73ba4c7849d7ae20d100e1a"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt25cx21x64.inf",
+      "Size": 556230,
+      "SHA256": "5a2fb325218b6f611a080f237883f23796064c24a4a8986751729b4366df97af"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt25cx21x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt25cx21x64.sys",
+      "Size": 717160,
+      "SHA256": "dff91cb1527ae206b6fa179e55b6ad7348eed254cf05eb8a3c212fd9550322ad"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt25dcx21x64.cat",
+      "Size": 11577,
+      "SHA256": "62ea72255f6b3eb954410feb9fc8d8cdf2a3b58d42f396069d41a34ceabbf772"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt25dcx21x64.inf",
+      "Size": 368392,
+      "SHA256": "da6da48e7837234074fe08bc2afc0c530e2028a9d04209f3c1eed9f958e00311"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt25dcx21x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt25dcx21x64.sys",
+      "Size": 717208,
+      "SHA256": "005d217327a0dc5b9e73cbd3fdeba8075dc626bd155031f1458eb9d86f68fb9a"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt26cx21x64.cat",
+      "Size": 12482,
+      "SHA256": "0acb7e2b2b4cb1cc1773857e55408df3e1b46e0b17520054e6cf68c6a963daa0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt26cx21x64.inf",
+      "Size": 381554,
+      "SHA256": "2f05b7a1a61323436579b5ef4a6408f16a9cdd0615ce732eafc1cd55da1b537f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt26cx21x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt26cx21x64.sys",
+      "Size": 717200,
+      "SHA256": "c32e65e7e2464c657c10c0c99934456e5d4a3faf4efc904e9bb9a8bce6b3fec6"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt68cx21x64.cat",
+      "Size": 482098,
+      "SHA256": "5e1294f5eee002a8349ef3f4b609fc3c514fb73cecc0dcbc3900e502f16f7459"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt68cx21x64.inf",
+      "Size": 1121748,
+      "SHA256": "310aa51918f21953829550e116cac1ed1934ddb4ccc874a8ebeacbcdd0849481"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt68cx21x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt68cx21x64.sys",
+      "Size": 717144,
+      "SHA256": "49fcbe0a8e2846eaf8437cffb95440317a493ed721819051cd5cce7befca9dd2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt68dcx21x64.cat",
+      "Size": 41882,
+      "SHA256": "b0487e824dcb085d8d799d4056441edb7930d38e3ff703df9ff100ce863a26b1"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt68dcx21x64.inf",
+      "Size": 440456,
+      "SHA256": "278d29e21f628fd153a73481ec91f65b17528ac10a6600fab485d091b6631ae2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt68dcx21x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rt68dcx21x64.sys",
+      "Size": 717160,
+      "SHA256": "14970937dbc018dd95bfd9805c257dc6690af6858f4418e919a2cfbe958d86a3"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rtots640x64.cat",
+      "Size": 1521735,
+      "SHA256": "4f998399131d05758ff5e5880fe4fc776559cf3b611456001359b70a6e470dde"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rtots640x64.inf",
+      "Size": 2122578,
+      "SHA256": "07183bd421bb58aa80b47ac7d795c4d076eb41cde74412eebce93ff0f3349228"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rtots640x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt25cx21x64_1125.013.0424.2023_E9248BD956769C091E5A310D24829E09B7A824D1A149E10127BFF670C7ABF28E/rtots640x64.sys",
+      "Size": 1220456,
+      "SHA256": "7a4b80b48bc4313902884fc376e60d358b7d5b25b854b71d48e56229d4b32572"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.037.1028.2019_8F3BA042F18297D95B7E680CF49D69D3F4A52D39DA77824E59305D62840A8F34/release.dat",
+      "Size": 82,
+      "SHA256": "8a50d3040c99c2526020bcc02571ffac124f71dc742e0349d972b677142d245c"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.037.1028.2019_8F3BA042F18297D95B7E680CF49D69D3F4A52D39DA77824E59305D62840A8F34/rt640x64.cat",
+      "Size": 1245851,
+      "SHA256": "7dee3d1fa0a4c0ff23416980591fbaf589e6518c60ab8643fae7753cde45fc22"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.037.1028.2019_8F3BA042F18297D95B7E680CF49D69D3F4A52D39DA77824E59305D62840A8F34/rt640x64.inf",
+      "Size": 2391120,
+      "SHA256": "a2c70f1f89bc4af42b9bcb9c0c659d1799a98a33c71736e8688118f71b771187"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.037.1028.2019_8F3BA042F18297D95B7E680CF49D69D3F4A52D39DA77824E59305D62840A8F34/rt640x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.037.1028.2019_8F3BA042F18297D95B7E680CF49D69D3F4A52D39DA77824E59305D62840A8F34/rt640x64.sys",
+      "Size": 1156392,
+      "SHA256": "e91c21bd55b1d893b953aca723abfa693fac335d1b98a97d372e2f92c6dd41a0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.038.1118.2019_631B01CF55C035434D5573683230EEF5202A50E607C5BF77DF2698B5DBAC5F79/release.dat",
+      "Size": 82,
+      "SHA256": "0f19559685e4206888e80ae3066125bfb98d788dfd01bd856da38c3c7aa7dee2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.038.1118.2019_631B01CF55C035434D5573683230EEF5202A50E607C5BF77DF2698B5DBAC5F79/rt640x64.cat",
+      "Size": 1254218,
+      "SHA256": "7eb255481aac62ee96420e38adc611578e28d328c6f0dc3aa3819d3e57cdbd2c"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.038.1118.2019_631B01CF55C035434D5573683230EEF5202A50E607C5BF77DF2698B5DBAC5F79/rt640x64.inf",
+      "Size": 2415090,
+      "SHA256": "f7d694bdb9259950f6813d675a86d47168d0e1f568a35a10048bc3dff0e10125"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.038.1118.2019_631B01CF55C035434D5573683230EEF5202A50E607C5BF77DF2698B5DBAC5F79/rt640x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.038.1118.2019_631B01CF55C035434D5573683230EEF5202A50E607C5BF77DF2698B5DBAC5F79/rt640x64.sys",
+      "Size": 1160488,
+      "SHA256": "44dfcf7b6eda2bbc99d80d920889de930bf7ad9d595d9ea033e55f9b6d483000"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.056.0119.2022_6344ABD21D9D21AE1BA3276AC19E0EDB7BE90D68B38C21D35F27B5ACED99B9FB/release.dat",
+      "Size": 88,
+      "SHA256": "c2279918314f0be62537345173e39c8a4934d08519902d1e8474858bdd836029"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.056.0119.2022_6344ABD21D9D21AE1BA3276AC19E0EDB7BE90D68B38C21D35F27B5ACED99B9FB/rt640x64.cat",
+      "Size": 1450634,
+      "SHA256": "d450de0be45119705686431bf66544102fa1516bfb3c4fdb51f8c0c319adb11b"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.056.0119.2022_6344ABD21D9D21AE1BA3276AC19E0EDB7BE90D68B38C21D35F27B5ACED99B9FB/rt640x64.inf",
+      "Size": 2763380,
+      "SHA256": "7d364a396acb2397c42e3ac07f858a3de841fb3e704d1281f65c3a9351bf78da"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.056.0119.2022_6344ABD21D9D21AE1BA3276AC19E0EDB7BE90D68B38C21D35F27B5ACED99B9FB/rt640x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.056.0119.2022_6344ABD21D9D21AE1BA3276AC19E0EDB7BE90D68B38C21D35F27B5ACED99B9FB/rt640x64.sys",
+      "Size": 1172760,
+      "SHA256": "c5915124c367b62f8d28f55aaef1379bd224b0de14f8fa53db51c42f714d56cd"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.057.0330.2022_637B94AF504F4FA3334C59E7C30FD2190D097D452FD61070317AC8EF301833A9/release.dat",
+      "Size": 88,
+      "SHA256": "047e41e6fd705eacccbddba4e76dd9e99c76f417663d48c9e1bffc9eb0601236"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.057.0330.2022_637B94AF504F4FA3334C59E7C30FD2190D097D452FD61070317AC8EF301833A9/rt640x64.cat",
+      "Size": 1452130,
+      "SHA256": "8ffb1b50b7151ef96c7c0a122430dc3517b278ed9469c5e0065f154e4e15b2f5"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.057.0330.2022_637B94AF504F4FA3334C59E7C30FD2190D097D452FD61070317AC8EF301833A9/rt640x64.inf",
+      "Size": 2765528,
+      "SHA256": "7479a8314ca4daa6852f94b3cd8d76a173b4d436732b0478c8b4d88a592aa719"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.057.0330.2022_637B94AF504F4FA3334C59E7C30FD2190D097D452FD61070317AC8EF301833A9/rt640x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.057.0330.2022_637B94AF504F4FA3334C59E7C30FD2190D097D452FD61070317AC8EF301833A9/rt640x64.sys",
+      "Size": 1184712,
+      "SHA256": "e3280c1d253d2f7bde3e1b9ea779b4d9f15d5303da149b66ef718ff22b490851"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.060.0615.2022_F9B1D54151CBB0747A5895E6518B2C883A74503A52FF6E77C3181FB5BD56639A/release.dat",
+      "Size": 88,
+      "SHA256": "00bc86881b5f687fac54e816c8729f642b25d032316e8b667d1dc1be90908215"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.060.0615.2022_F9B1D54151CBB0747A5895E6518B2C883A74503A52FF6E77C3181FB5BD56639A/rt640x64.cat",
+      "Size": 1471615,
+      "SHA256": "01df17cc79bab36b92d2fb73dfaf2eec8fee8e7273c3a2e7058854136aa4330d"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.060.0615.2022_F9B1D54151CBB0747A5895E6518B2C883A74503A52FF6E77C3181FB5BD56639A/rt640x64.inf",
+      "Size": 2811210,
+      "SHA256": "d25d3a10b75d5c6e6ae49624ae4f462cd528c7b0300377da6383a03500737b1b"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.060.0615.2022_F9B1D54151CBB0747A5895E6518B2C883A74503A52FF6E77C3181FB5BD56639A/rt640x64.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rt640x64_10.060.0615.2022_F9B1D54151CBB0747A5895E6518B2C883A74503A52FF6E77C3181FB5BD56639A/rt640x64.sys",
+      "Size": 1188672,
+      "SHA256": "c31b74fd9a50eb9cca5082f3a548e360dbe387671d47099cfe5d163db7a3a430"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu52cx22x64.INF",
+      "Size": 590356,
+      "SHA256": "4ba7a55cb13f6ef9f9357f0b4af8b770c28e9e36841c211cb9efbcd05f27d136"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu52cx22x64.INF_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu52cx22x64.cat",
+      "Size": 21163,
+      "SHA256": "6da123555edf6404767543e3e6c16ff785aaf1c28bfa25a091b192cc779ee999"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu52cx22x64.sys",
+      "Size": 955336,
+      "SHA256": "549463c7f0853c72b01a3b99ed62883b0174a6d7ef26b82ea2865400ed2355e0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu53cx22x64.INF",
+      "Size": 838040,
+      "SHA256": "fc7e5782f1c531dc5244b78b1e4d3bc7b5e60a4a72122862ce7ed2c21dbb9682"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu53cx22x64.INF_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu53cx22x64.cat",
+      "Size": 29612,
+      "SHA256": "c26c35d4de2f02aa981ad0a5cb93e008192e04f6a14470cf84105045f5edc85a"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu53cx22x64.sys",
+      "Size": 1165672,
+      "SHA256": "07d37f071e48aefe282faa336843e3314bcab380e1c03a472ee7a42a7e853b40"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu53ram.bin",
+      "Size": 192,
+      "SHA256": "e633e886c5ee6c0bbf0c482f7587f15e514d85a82a14779e754e2915920425d4"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu55cx22x64.INF",
+      "Size": 562126,
+      "SHA256": "8991d28554b1e61d160e92838009d39a74b4ac2b3367a811bb830f8b2505c54b"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu55cx22x64.INF_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu55cx22x64.cat",
+      "Size": 14867,
+      "SHA256": "c626f96039f1aa39c84b9c875a837857eaa4bc51e3148a7836f79599a0e1cdde"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu55cx22x64.sys",
+      "Size": 1168840,
+      "SHA256": "d057edadcd9703190b3366f4258a38a0d48ca51f469cea9af57701c0574d5b05"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu56cx22x64.INF",
+      "Size": 724612,
+      "SHA256": "82b6cbd4031fb5af6bc4f2ce74897cfdac444f8d1f7b753d447f4cf749272738"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu56cx22x64.INF_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu56cx22x64.cat",
+      "Size": 31255,
+      "SHA256": "7fd53bb6cbccd45bcfb935252819cc4cdf18be228818b9c2d4ca0594817533fe"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtu52cx22x64_1152.15.0327.2024_2B4AE286ECA5B118C3260FA65FC834106F88254C0D7B8BBBECC7C83827942B61/rtu56cx22x64.sys",
+      "Size": 1168856,
+      "SHA256": "60c543fe2b5e396b29b8a3425c80cf05bdf096d96b14b6d81eebfaaef84f596a"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtump64x64_10.48.0914.2021_CA1A3A0D5C40414AE047243934FADF63E2151B8C9F27FB493A017AEF993F7AEE/release.dat",
+      "Size": 82,
+      "SHA256": "471ae48388e097d8299690b05c8bf07ce5ba00d6c6140193393aa8d033c5fbd0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtump64x64_10.48.0914.2021_CA1A3A0D5C40414AE047243934FADF63E2151B8C9F27FB493A017AEF993F7AEE/rtump64x64.INF",
+      "Size": 867300,
+      "SHA256": "f7605553da2fe6f8d45c01e8d190acc8bde97b0ec205afc6df2e4249f06fc5b0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtump64x64_10.48.0914.2021_CA1A3A0D5C40414AE047243934FADF63E2151B8C9F27FB493A017AEF993F7AEE/rtump64x64.INF_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtump64x64_10.48.0914.2021_CA1A3A0D5C40414AE047243934FADF63E2151B8C9F27FB493A017AEF993F7AEE/rtump64x64.cat",
+      "Size": 43875,
+      "SHA256": "f922b0c3fb3d877acfb1ef9b8004817c3e32fb3acfe2efb1e80d2c2bde4d29f4"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net/rtump64x64_10.48.0914.2021_CA1A3A0D5C40414AE047243934FADF63E2151B8C9F27FB493A017AEF993F7AEE/rtump64x64.sys",
+      "Size": 962600,
+      "SHA256": "276f177d6ec010ea96006dc92781e6cf4363294c86ad336caf3007ac37aceb8d"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-Net-README.md",
+      "Size": 58,
+      "SHA256": "9d4aa2e8274efbbdf9def1a038a6360bd9a0c04c73af126763bf1b8fb700fd63"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/MegaSas35_7.723.02.00_BE85E90474BFFC67AA13A4C7C721486A4DD0610010551507F9CD9F3178D4C190/MegaSas35.RttMeta",
+      "Size": 29167,
+      "SHA256": "58066a7254eceadcbecfe99d1f3c2b7eaf87abef8e7249dd6e7abde87d68e64c"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/MegaSas35_7.723.02.00_BE85E90474BFFC67AA13A4C7C721486A4DD0610010551507F9CD9F3178D4C190/MegaSas35.inf",
+      "Size": 241950,
+      "SHA256": "dbf5e63ebddfd84b126e9906e259dbb35876212d142c6e850c5bd19d610b9c9b"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/MegaSas35_7.723.02.00_BE85E90474BFFC67AA13A4C7C721486A4DD0610010551507F9CD9F3178D4C190/MegaSas35.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/MegaSas35_7.723.02.00_BE85E90474BFFC67AA13A4C7C721486A4DD0610010551507F9CD9F3178D4C190/MegaSas35.pdb",
+      "Size": 962560,
+      "SHA256": "23426c1481b1f4a9dd2bdf1fc5084756e195282312ad83a024af92004afdf30f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/MegaSas35_7.723.02.00_BE85E90474BFFC67AA13A4C7C721486A4DD0610010551507F9CD9F3178D4C190/MegaSas35.sys",
+      "Size": 104472,
+      "SHA256": "99ccf30c308ae53139968416b83ef6e29cb2b903a64c0b7ed5a6c9a58a75f9c0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/MegaSas35_7.723.02.00_BE85E90474BFFC67AA13A4C7C721486A4DD0610010551507F9CD9F3178D4C190/megasas35.cat",
+      "Size": 56370,
+      "SHA256": "3e5d261c66ff52379d1f84ce267fa114c6168ff58071c0c17cd798ca75bc28ba"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/MegaSas35_7.723.02.00_BE85E90474BFFC67AA13A4C7C721486A4DD0610010551507F9CD9F3178D4C190/nodev.inf",
+      "Size": 19022,
+      "SHA256": "ba08dd3691199d366a99cb3f1ba99e26bec1463818c4cc6f574fc3531c44dca1"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/MegaSas35_7.723.02.00_BE85E90474BFFC67AA13A4C7C721486A4DD0610010551507F9CD9F3178D4C190/release.dat",
+      "Size": 82,
+      "SHA256": "883c3cf3f08f0d8b46197dc18edd88f55c7ae14f943dfbe55c612c882dc63a28"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/HfcDisableService.exe",
+      "Size": 1701128,
+      "SHA256": "e69f26ac8c2480785b7542f6cd856e05d478d1d8c1c6745d213af162de8e8d28"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/Optane.dll",
+      "Size": 135400,
+      "SHA256": "df0569d451aa0a45c08620776c371b39a80a6a13caca8b1819707f930f587b2a"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/OptaneEventLogMsg.dll",
+      "Size": 25320,
+      "SHA256": "7c32317d08dca9b99a6fd5711582f1256380ea976a74eced7f84e678006df621"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/RstMwEventLogMsg.dll",
+      "Size": 29392,
+      "SHA256": "06d808be57fecc11ad63891ffccb76d3cbd98b31cae51fb87f5529fadc9bf1ab"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/RstMwService.exe",
+      "Size": 1989384,
+      "SHA256": "5cc95d8d3945cdd362088f40f872909d7d64b5fadd325b01149573d34e21089d"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/iaStorAC.cat",
+      "Size": 15794,
+      "SHA256": "d7ed03b6150172a7e0cb64cb792efecc8365d971ea8bad163676e79614f51312"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/iaStorAC.inf",
+      "Size": 39666,
+      "SHA256": "d27235a189b3c7d74829cadd2bbd1139f8fb2171c16fa141fb72335cb924490b"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/iaStorAC.sys",
+      "Size": 1547472,
+      "SHA256": "6c0f7e364454f60f3e33a7e3c6e9cb95a144eaf2336407dab59d1cc5b7d8f0b0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/iaStorAfs.sys",
+      "Size": 75464,
+      "SHA256": "1c4d2465617ccff693ffe6077d4b42c0280d7f05284682f285310456765b1088"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/iaStorAfsNative.exe",
+      "Size": 211728,
+      "SHA256": "4b00e1d292fec5bf3263ac9cd57d740be614372e188f85fe7a3f4d524254572f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/iaStorAfsService.exe",
+      "Size": 3152144,
+      "SHA256": "fbbcf5e6111b3c885c90ee9a01575c24c332ddf079a18cddb5be8fb4785b0757"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorAC_18.37.1.1003_EC3859E9C700C241956202DE29900CBA25F73BE1ED29DBF05C1AB8044C45111F/release.dat",
+      "Size": 95,
+      "SHA256": "674bb28093e4945f5188dba59ca47084650d8c9db56bdf53289df9293460792c"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_19.5.1.1040_E5E83B1829D9F25176F0AA0918AE0CFBDC1778A3B7FBA8BFE4ECE2C069CCD5C1/RstMwEventLogMsg.dll",
+      "Size": 29368,
+      "SHA256": "87cabd3612115718c1e9a7461c0f7a20d8fca74212129dc8cca1376d53e04979"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_19.5.1.1040_E5E83B1829D9F25176F0AA0918AE0CFBDC1778A3B7FBA8BFE4ECE2C069CCD5C1/RstMwService.exe",
+      "Size": 2046168,
+      "SHA256": "77ab4fc4b33f263d8034b98b4d84c6e3b84c43dcd9bbc1a7d8af5a8bbc1a7731"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_19.5.1.1040_E5E83B1829D9F25176F0AA0918AE0CFBDC1778A3B7FBA8BFE4ECE2C069CCD5C1/iaStorVD.cat",
+      "Size": 12314,
+      "SHA256": "d8fb22265d285d1da7d6e26e763d41b0b333462e344eb1dcebf35749c4ae5422"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_19.5.1.1040_E5E83B1829D9F25176F0AA0918AE0CFBDC1778A3B7FBA8BFE4ECE2C069CCD5C1/iaStorVD.inf",
+      "Size": 28202,
+      "SHA256": "1fd415b0b80bea5960c9f356dc2ed869cfb6e1b668cab3d964c612b14117811f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_19.5.1.1040_E5E83B1829D9F25176F0AA0918AE0CFBDC1778A3B7FBA8BFE4ECE2C069CCD5C1/iaStorVD.sys",
+      "Size": 1605304,
+      "SHA256": "f66a2fb7a301c9fcf2d5e59e4f32a3f651b4ac4bc05c838d48421bf3e40d75a5"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_19.5.1.1040_E5E83B1829D9F25176F0AA0918AE0CFBDC1778A3B7FBA8BFE4ECE2C069CCD5C1/release.dat",
+      "Size": 82,
+      "SHA256": "5e6861cd08a285def2ac4ab3121d0af5264831625e4188e283b3dae7272e8a73"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_20.0.0.1037_D2281193EDB436684A907C4A57197B605341435FEE90848401AD206AA7B844E5/RstMwEventLogMsg.dll",
+      "Size": 30928,
+      "SHA256": "3b739d82f9cc081468822f2875f2c6a7888cfd8d1ae8611229e117d1d9290189"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_20.0.0.1037_D2281193EDB436684A907C4A57197B605341435FEE90848401AD206AA7B844E5/RstMwService.exe",
+      "Size": 2088648,
+      "SHA256": "443126a09025b73af75a09f9b7912260d6d9632351758b20f33a839bbb360b47"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_20.0.0.1037_D2281193EDB436684A907C4A57197B605341435FEE90848401AD206AA7B844E5/iaStorVD.cat",
+      "Size": 12484,
+      "SHA256": "3f0d29c5bb6c3350c7b414052100895119b2e4eaad8cc4b0750cc709f5fc26a0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_20.0.0.1037_D2281193EDB436684A907C4A57197B605341435FEE90848401AD206AA7B844E5/iaStorVD.inf",
+      "Size": 28202,
+      "SHA256": "1e414ccf2597a110e6bfd20dccf9c5526f8fbb8a958750c56d9f5ec6a0ce8169"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/iaStorVD_20.0.0.1037_D2281193EDB436684A907C4A57197B605341435FEE90848401AD206AA7B844E5/iaStorVD.sys",
+      "Size": 1616592,
+      "SHA256": "d59d8be68d1e0fec4cf4d0484073e7c8ec88c9bbcb529205bc085e232d5220be"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/mpi3drv_8.08.07.00_819BE1F056A3E3487CF7637A74AA06A835A5C40161FE2A28ADBD5F766DDE3E7C/mpi3drv.RttMeta",
+      "Size": 28436,
+      "SHA256": "7e28745786e913f7f42980274bd373e9a6f72445b81262b26f8c1f5e617fd77e"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/mpi3drv_8.08.07.00_819BE1F056A3E3487CF7637A74AA06A835A5C40161FE2A28ADBD5F766DDE3E7C/mpi3drv.cat",
+      "Size": 23443,
+      "SHA256": "a38683bfa4a1844dcb655cfe48d6f197bf4d0da63b436c1978879e21f0b8b964"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/mpi3drv_8.08.07.00_819BE1F056A3E3487CF7637A74AA06A835A5C40161FE2A28ADBD5F766DDE3E7C/mpi3drv.inf",
+      "Size": 36758,
+      "SHA256": "4b767c92837e4e61c0a2ad4a9d1c3b4bf03bee783d19f4be080b5e75f39ba076"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/mpi3drv_8.08.07.00_819BE1F056A3E3487CF7637A74AA06A835A5C40161FE2A28ADBD5F766DDE3E7C/mpi3drv.inf_override.x86",
+      "Size": 0,
+      "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/mpi3drv_8.08.07.00_819BE1F056A3E3487CF7637A74AA06A835A5C40161FE2A28ADBD5F766DDE3E7C/mpi3drv.pdb",
+      "Size": 937984,
+      "SHA256": "ca326cd04c3c8b33545f53c82991ee90cae19f0cba1e380b0d4d69f5bd56a5e6"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/mpi3drv_8.08.07.00_819BE1F056A3E3487CF7637A74AA06A835A5C40161FE2A28ADBD5F766DDE3E7C/mpi3drv.sys",
+      "Size": 150152,
+      "SHA256": "ae9ec9e07bbc9187c53649a9a7cf2d0a559a70f7598329bf0363565a007008e1"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI/mpi3drv_8.08.07.00_819BE1F056A3E3487CF7637A74AA06A835A5C40161FE2A28ADBD5F766DDE3E7C/mpi3nodrv.inf",
+      "Size": 19064,
+      "SHA256": "2ccb0180f5ffb39e9ff1e034b0c1e379addf5c5c4e8fe042b15c21ec36b05656"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-SCSI-README.md",
+      "Size": 58,
+      "SHA256": "9d4aa2e8274efbbdf9def1a038a6360bd9a0c04c73af126763bf1b8fb700fd63"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/IntelVrocOobAgent.exe",
+      "Size": 1006176,
+      "SHA256": "35fec7857318de1ae58d0aa9717deb50668c92239190e8ba00e5b08246a1e1ee"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iaNullVMD.inf",
+      "Size": 2244,
+      "SHA256": "5168997b4b43677b6f4b106c6e3f6cbe38af4560a1e637613ee0ffe2c1a5bd86"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iaStorB.inf",
+      "Size": 10380,
+      "SHA256": "647c40aa956793365c789fa6d032f01dab9eee1adbdcca5d6b94dc0205e608eb"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iaStorB.sys",
+      "Size": 1193088,
+      "SHA256": "60c00d506f20008533766244079b595e67a650601efd45e8637e718d73ee8b4c"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iaStorE.inf",
+      "Size": 23000,
+      "SHA256": "26d1bc7f35885e198de43fa73e4cb744eb67c42ea70bb5e282015ad4677626a0"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iaStorE.sys",
+      "Size": 1193056,
+      "SHA256": "a7f98b29392e7b57d89f35e15b0a7f381c8718db8669c2f40975a3b865577e25"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iaStorT.inf",
+      "Size": 10380,
+      "SHA256": "767f04b6c0bffc5adbb669f2e68c08d5e69e9f163933fe96097e8b155afee509"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iaStorT.sys",
+      "Size": 1193088,
+      "SHA256": "df25cce260b62bdd77f63d90811b664e5a182c7a4f1a5fe220df655381ed19f5"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iaVROC.inf",
+      "Size": 11266,
+      "SHA256": "eb67d25a2944c74aa0a4719dcfcbe4c25c0f987841ccc88a196650a404709628"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iaVROC.sys",
+      "Size": 1151120,
+      "SHA256": "79b958332c7eef848f99c1897ff9faee0ddf54b2924a9a987dade1cc22e4f83f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/ianullvmd.cat",
+      "Size": 11076,
+      "SHA256": "dd6fda5fc51192a059bd631eb86588ed5623fcb918373b8425e60b4e5b2f2a41"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iastorb.cat",
+      "Size": 13129,
+      "SHA256": "e7ef142aa5ff84ea1ca3f0ffdc8f49a47c221939faa8646c2d79415124a90ccf"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iastore.cat",
+      "Size": 13132,
+      "SHA256": "de8812b47b207fa3187f83952e49ac144abb9b784b7f2063e8c169235dda57db"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iastort.cat",
+      "Size": 13128,
+      "SHA256": "9d7b939656b48b4f0a41f348aadb5aabddcfa4c16ab52f993b84107c99f7d820"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/iavroc.cat",
+      "Size": 11978,
+      "SHA256": "0a6c69b7d1bd896fc7fa96276621df5a12d56e20117d250fac57f7d4c5723ba2"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System/iaNullVMD_8.0.0.4028_B0DA3FA5C3CD054B825C7DB4525162A6E866F3CE639042DAE082B356EDA9D2A6/release.dat",
+      "Size": 82,
+      "SHA256": "328c1b0897fb6c5452c1a4beb0800c0b888b9586068ec5a0120e8481d03f4e4f"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/Dell-System-README.md",
+      "Size": 58,
+      "SHA256": "9d4aa2e8274efbbdf9def1a038a6360bd9a0c04c73af126763bf1b8fb700fd63"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-80 - AMD_RAID 7.2.0.00057/rccfg.cat",
+      "Size": 12035,
+      "SHA256": "5c04f6c1902e447ea5b1d0858cccdadc1ea32987ebf61496d34bceb2d61e979b"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-80 - AMD_RAID 7.2.0.00057/rccfg.inf",
+      "Size": 2860,
+      "SHA256": "9199c31dbf7e3da4599fe77a69b4ed276851108cf285092bb7df08e05ff8b5d4"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-80 - AMD_RAID 7.2.0.00057/rccfg.sys",
+      "Size": 30536,
+      "SHA256": "e26f2e6e2f25e84ba2357b724faa01114e845de9d1ed4b49b822d79d1f11198e"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-80 - AMD_RAID 7.2.0.00057/rcraid.cat",
+      "Size": 12043,
+      "SHA256": "c40ce9a7c15e798f847f5d38aca69b975a4859ea95d8241986cff1b3df428374"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-80 - AMD_RAID 7.2.0.00057/rcraid.inf",
+      "Size": 4763,
+      "SHA256": "9d5c46aef3b4516b1196d14b972b6cf37278691543eddd074cb5499f00509e40"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-80 - AMD_RAID 7.2.0.00057/rcraid.sys",
+      "Size": 547664,
+      "SHA256": "ba27d05a1757c7b951f8f0c530b8553b98ec1fa521abc364fb829d23b5d3eb81"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266/rcbottom.cat",
+      "Size": 10535,
+      "SHA256": "672780ae72b6c93e155345162ccd26efeeee09f1142c4c40ef31e992b7d32d53"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266/rcbottom.inf",
+      "Size": 3327,
+      "SHA256": "be3563f32e4c26c980e4b7d31be97810e8c66e2bbcd9ab26ebdc2c7af14b2fb9"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266/rcbottom.sys",
+      "Size": 90312,
+      "SHA256": "232a3caffc2e85fe7f8ba5a43e01db09605fb80856dc2f8487d7f21ad32fdfac"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266/rccfg.cat",
+      "Size": 10528,
+      "SHA256": "36cab8923725f128cb130044a2f234926de886eb273c3e45517bcceb6338fdfd"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266/rccfg.inf",
+      "Size": 2889,
+      "SHA256": "dffe0b6767f38fee3375fb986cc148db00047bfe2f4a5018b799b69f5bd600c3"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266/rccfg.sys",
+      "Size": 30936,
+      "SHA256": "d381478bb67727405d6bceb16924593a2e7b9d14ea66d1d3c6232477a76bca99"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266/rcraid.cat",
+      "Size": 10163,
+      "SHA256": "066503e1aeec4bbaecbee56f3c65481c8850bff4e071ded79fdf5c72ceae5b8d"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266/rcraid.inf",
+      "Size": 3692,
+      "SHA256": "67754c6f64c9e77223a7611e65f919208ff1c9b6aa6e2ba009d43a41b5c25ddf"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-85 - AMD_RAID 9.3.0.00266/rcraid.sys",
+      "Size": 548056,
+      "SHA256": "a54817e826eae2746ea5185138b6b10d76220e7aa50aa89f896445869eebe957"
+    },
+    {
+      "Path": "bootstrap-drivers/HP-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/ExportList.csv",
+      "Size": 1679,
+      "SHA256": "afdb941193ae5c6d51473c6082a636ce5993315ecc63d3c7faf9713931c27633"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1d.cat",
+      "Size": 20381,
+      "SHA256": "d9b4a9fe1ad985138eaf201f0afa102f0642d3fb805c5a048c3769bbbdcb5af6"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1d.inf",
+      "Size": 364862,
+      "SHA256": "462006097300e1fc5c2b9fa4d254c0f48c4b29ab31ba70e9cd62e66485733fa0"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1d.sys",
+      "Size": 613072,
+      "SHA256": "ffafbcc6237f1742970b03919442f636388d14fac09385bbca9fefbc1d7e41bc"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1dmsg.dll",
+      "Size": 32464,
+      "SHA256": "ad229d51c3b7d2c7143953cc5a83dce0d274294fafe58936e9132265db6cc29a"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1dn.cat",
+      "Size": 15163,
+      "SHA256": "840cf1524bdebc0d0e759a0d218299a98b7f8a1a5eb447d5b2976d51dd56dab2"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1dn.inf",
+      "Size": 91404,
+      "SHA256": "60793a63141f8b2195ded5c2ee4b26e7ab3d41b38106fdeeef1e529f690c9ac1"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1dn.sys",
+      "Size": 1724616,
+      "SHA256": "5a9a60bfa1459edb59459a1868a35a017be52a85dcba3398e05f897cae6e1755"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1dnmsg.dll",
+      "Size": 84576,
+      "SHA256": "f90068ce7ffd5bfdc783ccff64756282a3fc4e219b5491ea01abbc5636411b1d"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1r.cat",
+      "Size": 19580,
+      "SHA256": "94db1e30ffe784ca829ebef27b3b2537e8d7786c35a3c9f2ecc3ffb28d9cddb0"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1r.inf",
+      "Size": 174744,
+      "SHA256": "3bff91a11b2ed18258d76c4308a9564f468508e9a17d3ce146691db32603c3fe"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1r.sys",
+      "Size": 610384,
+      "SHA256": "72c8f7fd80cb1d963bd6ea0d10d1ae204c262388d1078c67827fc260845ffbd1"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/e1rmsg.dll",
+      "Size": 121936,
+      "SHA256": "5d9318c1ce89e2bbe59b24cf41943165992510a66d9b88033839bb793bf34afb"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e1d_12.19.2.60_7234B3A093D6AC86CD6481749B41BBED4D368363EF29AAD3C4AC6E361E2E1C5E/readme.txt",
+      "Size": 702,
+      "SHA256": "352802b6fb3c2cbc9ad9c12494489adff82210707794274eaf7966ac4a52275c"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e2fn_2.1.4.3_6841A470295CE8C26F996FEACA3607F7F326D9FF3B2CC7F8FE94EA40122593B0/e2fn.cat",
+      "Size": 13736,
+      "SHA256": "2962e812c867609a640a653130d6a1c628107ab5972819189d9ea116ff4ffac5"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e2fn_2.1.4.3_6841A470295CE8C26F996FEACA3607F7F326D9FF3B2CC7F8FE94EA40122593B0/e2fn.inf",
+      "Size": 101656,
+      "SHA256": "6b27be271fee22355ed828b0d1f30730dac8463ef93d4498acb17fc42041e308"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e2fn_2.1.4.3_6841A470295CE8C26F996FEACA3607F7F326D9FF3B2CC7F8FE94EA40122593B0/e2fn.sys",
+      "Size": 1430640,
+      "SHA256": "4f6880115e61722b903e607a0580a7c62ce4b884849fee8ac05106d29602a503"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e2fn_2.1.4.3_6841A470295CE8C26F996FEACA3607F7F326D9FF3B2CC7F8FE94EA40122593B0/e2fnmsg.dll",
+      "Size": 84704,
+      "SHA256": "c38d44dd5903021110b32aba4089884ac805ebb823537456cd4aeaa63032600c"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/e2fn_2.1.4.3_6841A470295CE8C26F996FEACA3607F7F326D9FF3B2CC7F8FE94EA40122593B0/readme.txt",
+      "Size": 669,
+      "SHA256": "2e4dc188744ee354491c6109762cc60ba4c56637c5bb2c17f13d1e2847b92907"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/i40ea_1.20.100.0_760641BF912FC736296668BB13F4ADDF134B9B903F7E9E2A805E89EA2051C9A8/i40ea.cat",
+      "Size": 26545,
+      "SHA256": "a14d5ddf62e49f6b643fe7cb617b932c0777ac2c7f8b6755d18f5aefc0376814"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/i40ea_1.20.100.0_760641BF912FC736296668BB13F4ADDF134B9B903F7E9E2A805E89EA2051C9A8/i40ea.inf",
+      "Size": 224872,
+      "SHA256": "be934181e3192ec895bbd495fa70ee7cc992ed9bf2371e853cad3525b3573f34"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/i40ea_1.20.100.0_760641BF912FC736296668BB13F4ADDF134B9B903F7E9E2A805E89EA2051C9A8/i40ea.sys",
+      "Size": 886392,
+      "SHA256": "2108c47661ba2f1e1a210d4a8cd641a30813c7921ea9e22a0e14a84d1937d3b1"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/i40ea_1.20.100.0_760641BF912FC736296668BB13F4ADDF134B9B903F7E9E2A805E89EA2051C9A8/i40eamsg.dll",
+      "Size": 370296,
+      "SHA256": "b0731949274197941e7801983e80a9f75e3a5de1e76f3794c27a7b9b4e35049b"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/i40ea_1.20.100.0_760641BF912FC736296668BB13F4ADDF134B9B903F7E9E2A805E89EA2051C9A8/i40eb.cat",
+      "Size": 14969,
+      "SHA256": "6d5817d25afee7c37263c3d5f278db12271199cfc0ed588200896697f2c62132"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/i40ea_1.20.100.0_760641BF912FC736296668BB13F4ADDF134B9B903F7E9E2A805E89EA2051C9A8/i40eb.inf",
+      "Size": 109195,
+      "SHA256": "2c5c6da405fb028fbe7903aebf32fa0249ede364529b84a0b31f225236dae216"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/i40ea_1.20.100.0_760641BF912FC736296668BB13F4ADDF134B9B903F7E9E2A805E89EA2051C9A8/i40eb.sys",
+      "Size": 1486440,
+      "SHA256": "50660760dee8b1493da5606b3b3c41f9aed71f9513a4e61057c88d4e4e39bcdb"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/i40ea_1.20.100.0_760641BF912FC736296668BB13F4ADDF134B9B903F7E9E2A805E89EA2051C9A8/i40ebmsg.dll",
+      "Size": 370784,
+      "SHA256": "68f8330cad471be88d7a7797e29436ca3678f395fe8d6f2853c766a25eec32b0"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/i40ea_1.20.100.0_760641BF912FC736296668BB13F4ADDF134B9B903F7E9E2A805E89EA2051C9A8/readme.txt",
+      "Size": 810,
+      "SHA256": "1889c0aa2a75061401605ebad757c98a93a98eeae1891fd9c238f99069606110"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/iavf_1.16.100.0_66C94F4FDE88BFAD3FF0734563943D5CFA85964335AD76A64C89E40880EE3164/iavf.cat",
+      "Size": 12769,
+      "SHA256": "b334c77b2008b7ef081dbedc1bf487b06eaf7eca3a1f43097edf3db5e226b5c5"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/iavf_1.16.100.0_66C94F4FDE88BFAD3FF0734563943D5CFA85964335AD76A64C89E40880EE3164/iavf.inf",
+      "Size": 63202,
+      "SHA256": "efc9e0ee43afb067fb46598003345f40f1256c6b45cdea8419093c906e0d7d42"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/iavf_1.16.100.0_66C94F4FDE88BFAD3FF0734563943D5CFA85964335AD76A64C89E40880EE3164/iavf.sys",
+      "Size": 1244248,
+      "SHA256": "89af771725f20bc96407ae7d6fc2776c2194817d4fbee64ad76da3bdd4dca499"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/iavf_1.16.100.0_66C94F4FDE88BFAD3FF0734563943D5CFA85964335AD76A64C89E40880EE3164/iavfmsg.dll",
+      "Size": 369240,
+      "SHA256": "850f1437f83c22f2e037c5b64dd709f478d17ba32ffc51827e956afe99db4aba"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/iavf_1.16.100.0_66C94F4FDE88BFAD3FF0734563943D5CFA85964335AD76A64C89E40880EE3164/manifest_iavf.man",
+      "Size": 29098,
+      "SHA256": "98500289765c3b99b9d4b5d4101354a2accfcff14d8625801b36a76f9cd610e2"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/iavf_1.16.100.0_66C94F4FDE88BFAD3FF0734563943D5CFA85964335AD76A64C89E40880EE3164/readme.txt",
+      "Size": 824,
+      "SHA256": "f3fb165cc521a9ce3169041cb318b379d40575959a93295e20f1768c9d942d93"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/icea_1.15.208.0_6A6FBFBFE075C59398C15AD3378F557FB50820108A8222FB4F5B776E1180A34C/icea.cat",
+      "Size": 13460,
+      "SHA256": "e4f69c55d9f20fd4e7974562b79e166df382def3b3936da50bfc6a85127444ef"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/icea_1.15.208.0_6A6FBFBFE075C59398C15AD3378F557FB50820108A8222FB4F5B776E1180A34C/icea.inf",
+      "Size": 112839,
+      "SHA256": "36d122db4676ee2b6ba979eb48e059386537787554ad3344abfa3ecc0f0cb759"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/icea_1.15.208.0_6A6FBFBFE075C59398C15AD3378F557FB50820108A8222FB4F5B776E1180A34C/icea.sys",
+      "Size": 2316400,
+      "SHA256": "50e1f8a99e610c9d3c2c9985eea4386ac1c4468854c9b40bb5ed89f77e95d20c"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/icea_1.15.208.0_6A6FBFBFE075C59398C15AD3378F557FB50820108A8222FB4F5B776E1180A34C/iceamsg.dll",
+      "Size": 368752,
+      "SHA256": "ebf27c1ee6610b31b825f0ea038481d20085980a4f84deee207fcd3e8976d30d"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/icea_1.15.208.0_6A6FBFBFE075C59398C15AD3378F557FB50820108A8222FB4F5B776E1180A34C/readme.txt",
+      "Size": 700,
+      "SHA256": "0e8aa789528d050a1c9b72f42a9e536062e56553cf7d04e404b7e487a22a630d"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/ixs_4.1.260.0_6395C5EC7592B1C787D4C08EFA11C0F3CF3D2EE860A8D9BE4906DC2AC6185B16/ixs.cat",
+      "Size": 14007,
+      "SHA256": "c3c2d82a065e6dc921525f2f0486747d4b9ac297df9511965ceb1025d67c6d0a"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/ixs_4.1.260.0_6395C5EC7592B1C787D4C08EFA11C0F3CF3D2EE860A8D9BE4906DC2AC6185B16/ixs.inf",
+      "Size": 149122,
+      "SHA256": "c7a76d31e08d06891ee67c5173eb10f66327ba37cdeb98867cee7071287d7319"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/ixs_4.1.260.0_6395C5EC7592B1C787D4C08EFA11C0F3CF3D2EE860A8D9BE4906DC2AC6185B16/ixs.sys",
+      "Size": 520912,
+      "SHA256": "5696fb96973b748287293dc111bffdf85f10dacc50d9eda05c534ac95014899e"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/ixs_4.1.260.0_6395C5EC7592B1C787D4C08EFA11C0F3CF3D2EE860A8D9BE4906DC2AC6185B16/ixsmsg.dll",
+      "Size": 120520,
+      "SHA256": "457833fd48a58ee56ae023bea1a546f7739de783923d7dd93034c9201c7dd4c9"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/Net/ixs_4.1.260.0_6395C5EC7592B1C787D4C08EFA11C0F3CF3D2EE860A8D9BE4906DC2AC6185B16/readme.txt",
+      "Size": 624,
+      "SHA256": "bffbce796e85f532a72ee23c3c61b9193323c71e6707ffcb65116243da02a3a0"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet/README.md",
+      "Size": 9389,
+      "SHA256": "abd524df56ae50197b32f1dac4471fed91f70ff32e3a803460f8a72cffdb111a"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Ethernet-README.md",
+      "Size": 53,
+      "SHA256": "b8e51502411257438e80a59239a56283af36c1f4ff864b68c4463afd863bd312"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/README.md",
+      "Size": 5866,
+      "SHA256": "ec2bf4f973cf568ae625f00d5fa7e88c6c8387df13864f0057649f825cec196e"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/IntelIhvRouter08.dll",
+      "Size": 1619376,
+      "SHA256": "a0565b11617c9534f1af8e38081b37681746f991262539484b767f2133d1181d"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/IntelIhvRouter10.dll",
+      "Size": 1619352,
+      "SHA256": "53874cebb964a1bd7f397fc80d39cbc0880b75344a4b15017ff59233cb7116a6"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/IntelIhvRouter14.dll",
+      "Size": 1619352,
+      "SHA256": "86c43627d8d029ad0bd766a562d4d4b780cf70ad4c1fdb5cde6c5e6df31543e3"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/IntelIhvRouter16.dll",
+      "Size": 1619352,
+      "SHA256": "b245e28477494862f330e6594cd399025ed74994fc645c746ebd0a48064a56d5"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NETwaw14.sys",
+      "Size": 5595544,
+      "SHA256": "233dfc770550e6ac1814ee8857973eed7a5f209a14b6fe8c2a828eacf22a04f1"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NETwaw16.sys",
+      "Size": 5889440,
+      "SHA256": "e54cd1540b51cee98e885b59b72487a90c61e213e38b41fe14b6c679f1e13251"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NETwtw08.sys",
+      "Size": 8926616,
+      "SHA256": "6c0911dceb54461f28ab0774375ef95396a683a2e689c47bb00d0a9af8e264d0"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NETwtw10.sys",
+      "Size": 5221784,
+      "SHA256": "205ada201ff34284cd9501c29842be7feda7a499a48cc18a8d9dff340f37878b"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NETwtw14.sys",
+      "Size": 5548440,
+      "SHA256": "635ac7d17781451cd9af9c1008bcfefd95ef5dea5ab2f9a7215364254847f41c"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NETwtw16.sys",
+      "Size": 5835672,
+      "SHA256": "3b5d1d1ac2411d4af305cf7ad5a15b269a6741a96676354494c36db69afee934"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/Netwfw08.dat",
+      "Size": 3157140,
+      "SHA256": "7387d40347c157f8e81dfd1af68648b445bc653e5a551ab4181a55eac7a7cc87"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/Netwfw10.dat",
+      "Size": 15572456,
+      "SHA256": "cde80135d28f1a27a683fa850cb61ace4f2977d9e1ddaeb9becdefe67fb39678"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/Netwfw14.dat",
+      "Size": 16826772,
+      "SHA256": "6af0e0e7d4523a404a73cba4042d0e10c2e309c84c00a4d302953fadbbd0997d"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/Netwfw16.dat",
+      "Size": 16754268,
+      "SHA256": "a8ccbf5b5ab592658b28a8b84e54b68634ad3012ce66a866f7a00f46d314ce9c"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/Netwtw08.INF",
+      "Size": 864138,
+      "SHA256": "d5e91a86bc4cbafb4b9c5be1f7877a07e7980fbe55671b36789bee0d216ce837"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/Netwtw6e.INF",
+      "Size": 619420,
+      "SHA256": "78abf2f3a3b898839bc907cddf7fd5172ce0d4b0fa97d77a2e833656da353317"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/MIT License.txt",
+      "Size": 1104,
+      "SHA256": "d6e0dda45ebc46b2d3e3366ef73768a6c9469fce45c93cd4b84aa474f6f7cb2c"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/Microsoft Enterprise WDK License for VS 2019.txt",
+      "Size": 23816,
+      "SHA256": "c53e8a4ed226815775cb5858a205aa8268e15f37da4ed36d4932799f325835d0"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/Microsoft Visual Studio 2017 Enterprise.txt",
+      "Size": 24536,
+      "SHA256": "4cb22acee6b7a764184975e007ae9b5644e1d2336fb54a3ccaec1f22054c5ba1"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/apache_license.txt",
+      "Size": 12992,
+      "SHA256": "9b88108c159244b063133c00cef4c64a1a35d446780fb54159d324413dfc8d08"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/brown_crc32.txt",
+      "Size": 147,
+      "SHA256": "b9f07cca5f5af9cb997d8b19ed2af0c3f73cd29b7d4215690c6bb2f567ef2d95"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/doxegen.txt",
+      "Size": 14852,
+      "SHA256": "dfacca3d68f1f84a4b62491c0341898b89c11b7fd834bd1022b9fd7406ec9652"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/express_logic_threadx.txt",
+      "Size": 1712,
+      "SHA256": "be7bd1e7b80e2fb814b4f40e619e4d09d3f578e64ca8583b265eb2b446c17dae"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/gladman_older_rijndael_license.txt",
+      "Size": 1352,
+      "SHA256": "671310e9c4d1feef0767de212c697d44931b25d764a20eedfd4e31db0c9566f2"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/hackers_delight_algorithms_code.txt",
+      "Size": 994,
+      "SHA256": "da2a66d8d3728731bc4816d0aa01366101ead419ad08e82146c5c772ba44a488"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/hostapd_authenticator.txt",
+      "Size": 3487,
+      "SHA256": "d365fa07a1b2913db3dbc97e72480d78a99538a884427e6d8b0234762e794de8"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/jouni_malinen_wpa_supplicant.txt",
+      "Size": 3330,
+      "SHA256": "0f6fb39d9236c2fc08bf8e71e7d1cb19b957f36c9b0382471c57930f8766ba34"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/msft_sdk_license.txt",
+      "Size": 11708,
+      "SHA256": "d64fff79aeb475228e7e734e9226a3332df40d01b92c1383408ba170c46335a9"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/msft_vs_2019_license.txt",
+      "Size": 23327,
+      "SHA256": "f2f442b2fbee8ee3e5c2829b54e21abfca2811ee049cd0913b7e849158e0116f"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/msft_vs_autogenerated_code.txt",
+      "Size": 22995,
+      "SHA256": "8fd1e83ed4956015fdfc92daff6a6f248362dedb66828afa7d7b941e94471c48"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/oss_notice_intel_conectivity_wireless_firmware_code.txt",
+      "Size": 31373,
+      "SHA256": "6c51752ad0e6794c22580142135b475a65b0bc7e2ed3973e0675131b15499272"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/NonIntelLicenses/tmake.txt",
+      "Size": 540,
+      "SHA256": "be9a137dcfb005c066ccb8c035ca16f3a9698ea6543ef4d149e095aec943b706"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/netwtw08.cat",
+      "Size": 109017,
+      "SHA256": "6f6df85f3da44705c89fdaaa5b707c05dbbc694a837f69964d9258748b307bed"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless/WiFi-23.100.0/netwtw6e.cat",
+      "Size": 107241,
+      "SHA256": "0a4d9e3f810106a7819e0f86c8fbb64d4e50d9945f100061bb490ee46bbdd159"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/Intel-Wireless-README.md",
+      "Size": 53,
+      "SHA256": "b8e51502411257438e80a59239a56283af36c1f4ff864b68c4463afd863bd312"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/3393ac19-064b-4f9e-971b-07057301a1e7/balloon.DVL-compat.XML",
+      "Size": 16237,
+      "SHA256": "ae3fa7eb57b94442f8a67c5878a005e3c396e217a5b13791ccf0dd65d148feac"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/3393ac19-064b-4f9e-971b-07057301a1e7/balloon.DVL.XML",
+      "Size": 16538,
+      "SHA256": "986f8af8d280e2d8c640f8cf83cb1e8887305e51241ef5d71b7bf1bbd4b097d9"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/3393ac19-064b-4f9e-971b-07057301a1e7/balloon.cat",
+      "Size": 11589,
+      "SHA256": "c85e7d5325dc8d10ed820eb1616aff31928a5cb0d5af788f014cacccf2af3b71"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/3393ac19-064b-4f9e-971b-07057301a1e7/balloon.inf",
+      "Size": 2714,
+      "SHA256": "6b8bce958366c3d000bd4fc385ce1786d488dd93603de9e1d7595b0362c089d3"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/3393ac19-064b-4f9e-971b-07057301a1e7/balloon.sys",
+      "Size": 68968,
+      "SHA256": "6d34d9d9f2d9387ae93cd97efd04874de96615b1988cfc50008db7e6ba086bfe"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/3393ac19-064b-4f9e-971b-07057301a1e7/blnsvr.exe",
+      "Size": 195432,
+      "SHA256": "8be4f112a04aee29a233e8cc4df6835df0a94b57411f5107f563698afe1ab34b"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/3393ac19-064b-4f9e-971b-07057301a1e7.json",
+      "Size": 1051,
+      "SHA256": "e164c534ca983ac39b6388d8843d1e812fbea406b8b6b5cc85359659cab9fac7"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/netkvm.DVL-compat.XML",
+      "Size": 16167,
+      "SHA256": "dfb6469c5a042b4686017f9af73b4623b98272b729acc5f5893887066c52c122"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/netkvm.DVL.XML",
+      "Size": 16466,
+      "SHA256": "30e4a4d4f44a2d73eca010a9ccc094a62021ca38310c7ab6a080b9e1fc05076f"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/netkvm.cat",
+      "Size": 11527,
+      "SHA256": "0fa87889321fd482115fd68d124d0a9e35d8508128da3ee3257ff9b7a54bc85d"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/netkvm.inf",
+      "Size": 16069,
+      "SHA256": "47508c5c19448d8873b12115d3fbcb7482bc9748de1fcbbfe2cef09079ced90d"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/netkvm.sys",
+      "Size": 187760,
+      "SHA256": "b3a450ce08f068f86c18309c4488986da8182ce62cb817c0e3a0441befb758ac"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/netkvmco.exe",
+      "Size": 1034096,
+      "SHA256": "4aa1e4fa52916d9c1af9e8f398e9f15862f64b20232daf1319a49c64e5888701"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/netkvmno.dll",
+      "Size": 571760,
+      "SHA256": "e2ecfb01ee3e6de8bdea31955a4f8a47a8d85cc6c0ae8b2bfcc30ba28993ff39"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/netkvmp.exe",
+      "Size": 190320,
+      "SHA256": "49b5e69523cdcacb0fb11ef4bc85d53aa8bfe02ac8670b484346b5280bc74842"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/vioprot.cat",
+      "Size": 12078,
+      "SHA256": "39fd4791abf80f79a69421d49447f0fb33aa253cfbe477c70778c64250c50def"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e/vioprot.inf",
+      "Size": 2816,
+      "SHA256": "202ce16ad63ebb5f09ed051b83c31f75a5606ad51060bad9d2b9b76d438e3b35"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/4f51dc80-3d59-491b-9c69-4794c86a7e5e.json",
+      "Size": 1048,
+      "SHA256": "a94289821f48bcfed074e481a58ca3facb105da943d073cc90c6a60b90dad22a"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/README.md",
+      "Size": 100,
+      "SHA256": "e3dcdca141026d3988cf12464b19e67fd509f58c97fc751437c416ee9c7b69a2"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/ea01c42b-6788-44c2-8712-aa3c94a3cf9d/vioscsi.DVL-compat.XML",
+      "Size": 6972,
+      "SHA256": "9517575517d401dce1f6df8d49c17903b1f2390d54645bbcec174d2c60686736"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/ea01c42b-6788-44c2-8712-aa3c94a3cf9d/vioscsi.DVL-win10.XML",
+      "Size": 7164,
+      "SHA256": "d70770264b5bea9a6390f7496325415215815b9b586385f833c6c95119195b22"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/ea01c42b-6788-44c2-8712-aa3c94a3cf9d/vioscsi.DVL.XML",
+      "Size": 7273,
+      "SHA256": "2531c4d7ca345565a01bc2bf70d041e3a6e063fc27a052823f3d16d7e546584d"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/ea01c42b-6788-44c2-8712-aa3c94a3cf9d/vioscsi.cat",
+      "Size": 11589,
+      "SHA256": "596a4b30aa42b514174fe7adb4c7fc5fbe76b65c83d07fc02d1116011154d39c"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/ea01c42b-6788-44c2-8712-aa3c94a3cf9d/vioscsi.inf",
+      "Size": 3025,
+      "SHA256": "9a0e87fc2835f9c9f695c9d42676d52db5e804518d396e626cae43d5f6429bb7"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/ea01c42b-6788-44c2-8712-aa3c94a3cf9d/vioscsi.sys",
+      "Size": 77864,
+      "SHA256": "af41260bb471d96910b8debf7113349409747750c1a7cc66e3c63b65a5be234c"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat/ea01c42b-6788-44c2-8712-aa3c94a3cf9d.json",
+      "Size": 1063,
+      "SHA256": "4a482b1460ccf295537417f97d0b7f38bb5cad4af86b60ba30da74614c906b5e"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/RedHat-README.md",
+      "Size": 53,
+      "SHA256": "b8e51502411257438e80a59239a56283af36c1f4ff864b68c4463afd863bd312"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/1e5e6565-3c94-4d33-a450-a73592e8bfa2/msu53cx22x64.cat",
+      "Size": 21415,
+      "SHA256": "2ce2bac7255c8a3dc5bbf1fc1bf08bd474ef0ed430973ba0bc4044811aa622a0"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/1e5e6565-3c94-4d33-a450-a73592e8bfa2/msu53cx22x64.sys",
+      "Size": 1083280,
+      "SHA256": "da2d348c07c9950aa185180a2ae1fdcd436592f2e0918d5e42f3d3ef97aa3c9d"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/1e5e6565-3c94-4d33-a450-a73592e8bfa2/msu53cx22x64sta.INF",
+      "Size": 153610,
+      "SHA256": "e1d15635bc3bf288c1aa2db21e8ab2776b731edde3417e3d2b182ebd5a3255c3"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/1e5e6565-3c94-4d33-a450-a73592e8bfa2.json",
+      "Size": 1033,
+      "SHA256": "3270deb7205f83b0b2804ec95649a83eb0ee33e6ac61b16184995f2691f32c3c"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/23a1772e-9df6-42d0-b149-5686ef2af418/AxUsbEth.inf",
+      "Size": 100480,
+      "SHA256": "e085db2df014c09acceb96e49e4e40c1efcf2e0d70a9e247cfcbdbf2b786bc12"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/23a1772e-9df6-42d0-b149-5686ef2af418/AxUsbEth.sys",
+      "Size": 168048,
+      "SHA256": "bfd9f71533231f0392b5662870acf117375b6ce148ed6214e54723bf161856be"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/23a1772e-9df6-42d0-b149-5686ef2af418/axusbeth.cat",
+      "Size": 12527,
+      "SHA256": "082029c022e3075a876c11e0f8ec6a30da1d4f1f78f1c3edc5480806ac38f9d3"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/23a1772e-9df6-42d0-b149-5686ef2af418.json",
+      "Size": 1018,
+      "SHA256": "d8fae90566defcf58b1901284d27b87b2bb8d6296ea7706bd8a53ac1ac62991d"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/6df6a12e-c2ec-4f22-98e6-71b9e135312c/NETAX88772.inf",
+      "Size": 58594,
+      "SHA256": "8a08567823dc0aacbb22a4daa47f24a9f0b4d97ac25b8dd98573a076b4ef5c48"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/6df6a12e-c2ec-4f22-98e6-71b9e135312c/ax88772.sys",
+      "Size": 124312,
+      "SHA256": "71254d26a85eaebb4e9c56dedca4f9b1cf781c423b14c76288d874637103fb1b"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/6df6a12e-c2ec-4f22-98e6-71b9e135312c/ax88772ex.cat",
+      "Size": 10819,
+      "SHA256": "8618a78a1adc105fb80c51ddbe94ff7beb485862026c024c511d015de8b36f77"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/6df6a12e-c2ec-4f22-98e6-71b9e135312c.json",
+      "Size": 1023,
+      "SHA256": "f7ba021f29d1748fd11280fb303f5676fa19cef47b30cf9f9e081c148f2d4e50"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/7381d77e-173f-42e4-b79c-d8d5ba12b22c/rtu53cx22x64.cat",
+      "Size": 29052,
+      "SHA256": "943675e801946a04680645a2904f5ccee986d72210c50bdb42a6407ee2105966"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/7381d77e-173f-42e4-b79c-d8d5ba12b22c/rtu53cx22x64.sys",
+      "Size": 1165792,
+      "SHA256": "c693a1e863cef75e6e58c562ec1704403ad91eb3b8ba36a2761ccd9903238277"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/7381d77e-173f-42e4-b79c-d8d5ba12b22c/rtu53cx22x64sta.INF",
+      "Size": 839278,
+      "SHA256": "10021023de5527c662cb66a36bd1107df7a52ffdf6cba04359b140332b16b2e9"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/7381d77e-173f-42e4-b79c-d8d5ba12b22c/rtu53ram.bin",
+      "Size": 192,
+      "SHA256": "e633e886c5ee6c0bbf0c482f7587f15e514d85a82a14779e754e2915920425d4"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/7381d77e-173f-42e4-b79c-d8d5ba12b22c.json",
+      "Size": 1204,
+      "SHA256": "da386dcfc1385bbac4bed65b9ae622ba1b53d82884c2a1e44077768d6c1ab87e"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/README.md",
+      "Size": 96,
+      "SHA256": "b173617acd677e6d5bc901e1cde0e776062ee3791d12d331d6a242da700c9986"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/cda5d4c9-f714-4d61-9610-05ab8226910e/rtu53cx22x64.INF",
+      "Size": 766068,
+      "SHA256": "e1c9c0bab38bda35d4ce12d14f287ce40e87c89f6eb7f6cf65bdbc1fe5134083"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/cda5d4c9-f714-4d61-9610-05ab8226910e/rtu53cx22x64.cat",
+      "Size": 25494,
+      "SHA256": "631d0156169bec050742478867bb3fb163f5388fcfca2e3cceee44b95e256d19"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/cda5d4c9-f714-4d61-9610-05ab8226910e/rtu53cx22x64.sys",
+      "Size": 1082344,
+      "SHA256": "89305dabce616adc5e68b48f387694a8397fd81b97140666c73e8a53230e670d"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/cda5d4c9-f714-4d61-9610-05ab8226910e/rtu53ram.bin",
+      "Size": 1732,
+      "SHA256": "50114819e4bc8ed7c10f029221d49110c50dd9655a64b0d030546a834a3433f1"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/cda5d4c9-f714-4d61-9610-05ab8226910e.json",
+      "Size": 1207,
+      "SHA256": "1241bc4c0f83fb2b8822b86f8672fed03d7308eda5dcffd497781d7ce339a4b6"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/d8f28862-01b9-4fa3-9cfc-b0d2197e443c/rtu53cx22x64.cat",
+      "Size": 25119,
+      "SHA256": "19c7dff3234863ed1c2be0c05ce6d599c040748f6a98a92e5343e775a4f93d2a"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/d8f28862-01b9-4fa3-9cfc-b0d2197e443c/rtu53cx22x64.sys",
+      "Size": 932864,
+      "SHA256": "2f4fcb69761d5094789cfad78dedf8505ff37a6ffb0e15b2a99b65a91089ee7f"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/d8f28862-01b9-4fa3-9cfc-b0d2197e443c/rtu53cx22x64sta.INF",
+      "Size": 717268,
+      "SHA256": "4186e0c14a4dc86d739ecaf112b5ee45dba5618e02cb7ff689b202dbf400be98"
+    },
+    {
+      "Path": "bootstrap-drivers/USB/d8f28862-01b9-4fa3-9cfc-b0d2197e443c.json",
+      "Size": 1025,
+      "SHA256": "32f78c6eabbd8bb63671db39fad42ab1c31f6069a2f1b242981a998cc59a386f"
+    },
+    {
+      "Path": "bootstrap-drivers/USB-LICENSE",
+      "Size": 1069,
+      "SHA256": "714a692f49b1c6e736b9492d02a99d3a887ee9a1350a1a4623fe19b07255a667"
+    },
+    {
+      "Path": "bootstrap-drivers/USB-README.md",
+      "Size": 53,
+      "SHA256": "b8e51502411257438e80a59239a56283af36c1f4ff864b68c4463afd863bd312"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/bcmwdidhdpcie_1.558.53.25_B648C046F035DF7F89A927BBC5AF4C1197F83AA8F71DE746FB8EB28C2FD8A452/4356a2rtecdc.bin",
+      "Size": 651235,
+      "SHA256": "d1d4d68c5b0e9004d778fb33d70b844a95920a5cdfb21463462fbd51a3a11632"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/bcmwdidhdpcie_1.558.53.25_B648C046F035DF7F89A927BBC5AF4C1197F83AA8F71DE746FB8EB28C2FD8A452/43596a0rtecdc.bin",
+      "Size": 512963,
+      "SHA256": "34c9e5b004ca8d7d52fa939e3970ac46075bd3d8ecb74db68757e81f920e2579"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/bcmwdidhdpcie_1.558.53.25_B648C046F035DF7F89A927BBC5AF4C1197F83AA8F71DE746FB8EB28C2FD8A452/bcmpciedhd63.sys",
+      "Size": 1037824,
+      "SHA256": "8724a7c3cecb9b1ecb597841823253ed67f6b840f5ca97b761e157808d3e2b3d"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/bcmwdidhdpcie_1.558.53.25_B648C046F035DF7F89A927BBC5AF4C1197F83AA8F71DE746FB8EB28C2FD8A452/bcmwdidhdpcie.inf",
+      "Size": 34080,
+      "SHA256": "355786003189e00bcff7b0d9d9db477dd96a3d89d7c1a11264eb19647b450f9c"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/mrvlpcie8897_15.68.9112.23_70E5FCC56997B835D6C9A507F17689878585B0404C907622DB0B25118B282CE8/mrvlpcie8897.inf",
+      "Size": 61200,
+      "SHA256": "9a28e474ad5e36956490bef8191864bcd97b2bb1cc362073fed7ba396ea3956b"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/mrvlpcie8897_15.68.9112.23_70E5FCC56997B835D6C9A507F17689878585B0404C907622DB0B25118B282CE8/mrvlpcie8897.sys",
+      "Size": 1036288,
+      "SHA256": "72ee4e962868c1c345a8d4e93ade0ccd919c369471de4d049bef59bd3642407b"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/Data61x4_2_2.msc",
+      "Size": 97201,
+      "SHA256": "57138d4e94d4adfaf801ea9a3d4b69353843514afa3f6bf9631586780ae783a6"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/Data9377_2_0.msc",
+      "Size": 97201,
+      "SHA256": "6175edad1433ff1a9d93f36c30d96c421a1a5691bbc0d64dc6b5548f33cff784"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_A.bin",
+      "Size": 474,
+      "SHA256": "0311fc8961ead85419a78a03e295c40d4f862438df8ad7fd91b5e9f7e7753811"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_B.bin",
+      "Size": 474,
+      "SHA256": "4d5bd017bb12185396cde5819786b4955c1f390c21c5483bf5077d85b80ae38c"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_C.bin",
+      "Size": 474,
+      "SHA256": "34a7584f050abb6a87f1908b76bfe7fab35b3bce2dbdd9a938f3290faba8d6be"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_D.bin",
+      "Size": 474,
+      "SHA256": "f3c32e6b4e452ee0a1f7d6da924f8f51a2faf241097f3adb3471db5edf6b330f"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_E.bin",
+      "Size": 474,
+      "SHA256": "9db76255cd5ba877df2447c260610ff4936c32458f94568353ab268cc299f682"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_F.bin",
+      "Size": 474,
+      "SHA256": "c089b4ddaeff0c50d3d473da69426f3ad56bd656cd5020236f11f58385428b3d"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_G.bin",
+      "Size": 474,
+      "SHA256": "2b1e1ce81333676fd28c9572e1b36e94180486df0e5f0aa9bbffe46741dbd194"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_H.bin",
+      "Size": 474,
+      "SHA256": "df41e04ef88ba92176ec2318a39674381134ad3331ae0cfbb4dafce4d8b48324"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_I.bin",
+      "Size": 474,
+      "SHA256": "7a5163c61c99ab05e593ec939a17f009b5c1e8082799d7cb9fbf4142fb37e8d6"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_J.bin",
+      "Size": 474,
+      "SHA256": "633ad5597d7fb65434d015c1710be9392a4774f11796afdddee5a37358566377"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_K.bin",
+      "Size": 474,
+      "SHA256": "66eddb998477c071986ef9c820104290c5fe556555d0403f2fcdeddef3f66189"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_L.bin",
+      "Size": 474,
+      "SHA256": "8ccdccf3aae63f8762cf511fa5b60c5145b8474c378b2ddef73ab923256ceb8a"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/LE_CTL_ar6320_3p0_NFA344a_highTX_M.bin",
+      "Size": 474,
+      "SHA256": "865c7e8049aebd407aa1d05b44a545f59ebfa649507aa31c3a3739fbec904d38"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/Qcamain10x64.sys",
+      "Size": 2342912,
+      "SHA256": "ddbdceca004626093c1a9866b7eb3ec3b8a5992caf8bb60f41456e134e2425c2"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_1.bin",
+      "Size": 8124,
+      "SHA256": "1a8d225818b46986fc4f615594fbe448fa820618590d6902c8f844bb37cda667"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_5.bin",
+      "Size": 8124,
+      "SHA256": "f862d6518a1762e9d98cc2c0db20c36d118cc7059bbd68d2d56c94d81f3b5d45"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_5_B.bin",
+      "Size": 8124,
+      "SHA256": "91d15b5cc5a02c110708ac5d084967479a2be6b09ac7106a5f00e15545cb48a9"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_5_RV_0520.bin",
+      "Size": 8124,
+      "SHA256": "79fa3785dd502f6fd64c9973436f63a96532a74c355bad7a84929c49b399a2ee"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_5_RV_0521.bin",
+      "Size": 8124,
+      "SHA256": "5b2f01e7aaf9e4f1c85178589b0233b89059a71329588c7b80bd0f06d919b06c"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_5_RV_0522.bin",
+      "Size": 8124,
+      "SHA256": "b827f0a0d7307161a8b2793cef347bc19f77c3dfe6e23265e6905bca3882cc97"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_5_SS_N.bin",
+      "Size": 8124,
+      "SHA256": "fb2f2b24208d7dbe8140499a82cee053bf3ca6882dcf2ccd9e311bf18dd67cac"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_5_SS_S.bin",
+      "Size": 8124,
+      "SHA256": "faf2b90340276e28cb17d131e5b112294381b543f0e451726934ff5e28350ff3"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_5_SS_T.bin",
+      "Size": 8124,
+      "SHA256": "56db7516b2b9a109e434a5d2a74e2985534c936f0d9f80351f1571a33318297a"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA324i_5_SS_V.bin",
+      "Size": 8124,
+      "SHA256": "2945534e825a91e90a4d72bc2d905d9d7c3b99f9b46b27ef51c3f22ca6c43f5a"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344A_power1213.bin",
+      "Size": 8124,
+      "SHA256": "eebeb5f23f80134eda4a609d7cbf4b87b219700e46112da6b348c7879eeb9f0d"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344A_power1213_DE_0410.bin",
+      "Size": 8124,
+      "SHA256": "f222d367ec5e3ea4b1ea953e08ba8eb4692086c3703e78acd9420e728742c3c5"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344A_power1213_DE_0419.bin",
+      "Size": 8124,
+      "SHA256": "a37241827c8fcd1122ed199504fbf168b2adce97fd0f8af6d520e0f7b54be9b3"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344A_power1213_DE_5459.bin",
+      "Size": 8124,
+      "SHA256": "71da4278cebbf75d4e5a4d91b680f015840ddac677232a85d8427c39d55aa7cd"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344A_power1213_DE_P87G.bin",
+      "Size": 8124,
+      "SHA256": "ea093c0542ecbba508be08606b54abad2b688970afd254a10df85783e27ebc10"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344A_power1213_RV_0519.bin",
+      "Size": 8124,
+      "SHA256": "9b51d19faee66326db3f81eaa8afdcc0ea1dc03551d1e7ce0add8a945afe960b"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a.bin",
+      "Size": 8124,
+      "SHA256": "7d190b126ecfff061b2979c46660644d1be221c5d388e4408a35add8c14b00d4"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_AC_BRN.bin",
+      "Size": 8124,
+      "SHA256": "2974fb47ecb9e39049da5d5ebd437f50eb05124e2fa184fc0fd826099dae5447"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_BLP.bin",
+      "Size": 8124,
+      "SHA256": "8094b103be9ceb8e14f97b610767018b39861a69af60527deb0bf3421d4d84d2"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_VA_1.bin",
+      "Size": 8124,
+      "SHA256": "ef92a693cc129b81efff5402ebb058ab7781929b574a40067d28faa76484b383"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX.bin",
+      "Size": 8124,
+      "SHA256": "973c7a098d6b01daa2ac3ee3bf38edbe384c2a1ea06de514fe872361dde9b02b"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX_LE_1.bin",
+      "Size": 8124,
+      "SHA256": "00ea84c110d1ba52548ab117c7cda8bdbe9bf6b6d84475ad13a908fb117bfdad"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX_LE_2.bin",
+      "Size": 8124,
+      "SHA256": "0bef0cbe0339f137fe3fdb7f07e63fb98165b0df0e2371896ea5fde106777d6c"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX_LE_3.bin",
+      "Size": 8124,
+      "SHA256": "2ec7b489d17c1dc4c4e7da175d9ac39630328750203c92b392051e0eab343bff"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX_LE_4.bin",
+      "Size": 8124,
+      "SHA256": "11be3d2c545a0c6cf00e47d44cb773e53d1316af25ca905548003bd905fbc5a6"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX_LE_5.bin",
+      "Size": 8124,
+      "SHA256": "3a283aba6fec88b17f41536d1504ede65a82760c3bcca4af22dc7b8f8ecbe258"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX_LE_6.bin",
+      "Size": 8124,
+      "SHA256": "49a2c49d7996b3ee43219013ed68e6c569e4162520b1607fdc25aec671f9cc7a"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX_LE_7.bin",
+      "Size": 8124,
+      "SHA256": "d1e28a1ce842a4a6cc4be28c8e86fc0b05fc08ec333e1ceb24e10e15efba5ed1"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX_LE_8.bin",
+      "Size": 8124,
+      "SHA256": "5618c715aee01ee28f71ede5a8782bab77a742478ef3c22d682b9ecce00a9a0f"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA344a_highTX_LE_9.bin",
+      "Size": 8124,
+      "SHA256": "f279fd2582fe9ef4466d3e81bf3b79753cf89502afec20ac6a27c69c8ce27ce9"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA354xp.bin",
+      "Size": 8124,
+      "SHA256": "676672505d3575101360bd05b210fc4be1b3f0a659939ff250477ffe06c6d198"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp.bin",
+      "Size": 8124,
+      "SHA256": "94f69f28b8901bc7e655347decc26d4bb9cd8cd1ec5e60c44a9bdd9a4023017e"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_LE_1.bin",
+      "Size": 8124,
+      "SHA256": "2501517574a8f7c8631e1af59b2edd5c2df50d32cc611108c382a4a89a3d4c74"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_LE_2.bin",
+      "Size": 8124,
+      "SHA256": "5e8527c04948812cf160f411e35839a5b58917ba67869edc3d1720ba6e2f4dac"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_RV_0519.bin",
+      "Size": 8124,
+      "SHA256": "0bd8072554308d5094f9bb5ea0b3378c3276f048f144539e93d8bef1cfdb0cd4"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_RV_0520.bin",
+      "Size": 8124,
+      "SHA256": "7353f44e86d0ec3b77253d62c39040ef02bee9ff544c0388f282b030acdac84d"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_power1213.bin",
+      "Size": 8124,
+      "SHA256": "107fa1d9e0af19be9bca5c9320216deb32747a535891d902cb644578d07ab3b4"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_powerA.bin",
+      "Size": 8124,
+      "SHA256": "cd80318b0d9d9da3a588a71132f3036ed66a04d57d080249acd6170398561e17"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_ssku.bin",
+      "Size": 8124,
+      "SHA256": "f88b67846c5a3334b0694dc7c5c9f5dd2ca46bdaa5c2524ce1338194add58ca1"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_ssku_DE_0522.bin",
+      "Size": 8124,
+      "SHA256": "4b3fafe22db736243c9caa4b3cdf9362fffb2baebdbd0e5787e1c97d9d71800e"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_ssku_DE_0523.bin",
+      "Size": 8124,
+      "SHA256": "eed9fd67626d8acfae3fd80219ec9000b6c6a850e6e7eae2ebdf7d35b6d77ea8"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_ssku_DE_0524.bin",
+      "Size": 8124,
+      "SHA256": "bed4c38f0b79a6c0115b2bee8658cc65954b91e5d07f800e8cda36a3db12e52e"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_NFA364xp_ssku_RV_0519.bin",
+      "Size": 8124,
+      "SHA256": "0bd8072554308d5094f9bb5ea0b3378c3276f048f144539e93d8bef1cfdb0cd4"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_QCA9008.bin",
+      "Size": 8124,
+      "SHA256": "2c72633249e13feb56b1984ff06bbb9c20874293c727fceea4c67997449d4ca3"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_SS_620.bin",
+      "Size": 8124,
+      "SHA256": "c9494ed0eeb5170b78dac6207a8ba53633963d029ce7da338f87e379044dcfac"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_SS_620_K.bin",
+      "Size": 8124,
+      "SHA256": "083a0c5844f885346fff73566d322d080b0bd817a1e7cedebc946548351dff88"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_SS_700.bin",
+      "Size": 8124,
+      "SHA256": "e5d7b0e674843d52e412864937e4208fd9525f066a2b2af6cdd19eb60753a10f"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_SS_700_K.bin",
+      "Size": 8124,
+      "SHA256": "0952b9a0966c7b5e5f75a9929d497e3feee35dfa54c8e20a3ce7960166028670"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_SS_720.bin",
+      "Size": 8124,
+      "SHA256": "eb85ca4eaf92c205787c66d0879526f0afdfe4549b31d9759db92757bd86157f"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_SS_720_K.bin",
+      "Size": 8124,
+      "SHA256": "c845c1fbd7f5e8170c0b80c3c2a6a957e2940e17dbaeaf30e535c3b74e51412d"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_TX8_clpc.bin",
+      "Size": 8124,
+      "SHA256": "a6792268ebfd779405f73a81d14667593b6cb1c4287937b72547361a146a145e"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_ar6320_3p0_TX8_lte_clpc.bin",
+      "Size": 8124,
+      "SHA256": "aec1c85301c593e303422cb2f54d27b27eca4efce59f065a127e8fb205233b37"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p0_NFA425_olpc.bin",
+      "Size": 8124,
+      "SHA256": "fd8c33c4351d098fb3f9955f094baf66ce9bcb2385e13e9ea1b81cc3cdd695bd"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p0_NFA435_olpc.bin",
+      "Size": 8124,
+      "SHA256": "9a4b7bdfc6904c983730bba75db6a0194110612fd961a659616bf73ac7efe426"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p0_NFA435_olpc_A.bin",
+      "Size": 8124,
+      "SHA256": "d4a119853af01005d075bc26d6e4d549b8dd0f730c1a6ef62643291c8dafa74a"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p0_NFA435_olpc_LE_1.bin",
+      "Size": 8124,
+      "SHA256": "5b3aa1f103e14bf872a753170034740d5595e3e337b5f87ac8cb8d0a0eeaf868"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p0_NFA435_olpc_LE_2.bin",
+      "Size": 8124,
+      "SHA256": "81e484350e8dd5b5dfb712209c834f12187b6b8a189109e260df8a7125797823"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p0_NFA455_olpc.bin",
+      "Size": 8124,
+      "SHA256": "63b95f29bb612e837a4d0495f0f5704e8d9b89544a24e652f5fd37bd75e05c7f"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc.bin",
+      "Size": 8124,
+      "SHA256": "a1e7dc049b425d612fc71da8f00c0fb2c15bacf6680155a501f87f4d1a06aee0"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_A.bin",
+      "Size": 8124,
+      "SHA256": "1889a48f2d7f632b48b3fc141e9819e45ca42334a886add6411e1645bfeae7a4"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_A_BC_CBXA0.bin",
+      "Size": 8124,
+      "SHA256": "8f02cdc6a79a0b082f6b575e32c03c931401e0f6a6acdfcda44e0c5b1cd134e0"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_A_T103HAF.bin",
+      "Size": 8124,
+      "SHA256": "874e54cdb1ba12a0ea04e38c411ff8bcc2ac134f4139388040d80c492d078aee"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_A_TP203NA.bin",
+      "Size": 8124,
+      "SHA256": "9528310c173ca5682b8b3b01e9b5f93b319eeb4610a7ee168c63aaf7a9906d3a"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_A_TP203NAH.bin",
+      "Size": 8124,
+      "SHA256": "9528310c173ca5682b8b3b01e9b5f93b319eeb4610a7ee168c63aaf7a9906d3a"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_A_low.bin",
+      "Size": 8124,
+      "SHA256": "2ca368635c83f8739a73e86e928d2a3c598cce3f0d115696924c246ee772321b"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_A_low2.bin",
+      "Size": 8124,
+      "SHA256": "d4633456108455e475b8c15ca5d77745bea63e7db9153f6521eee08244c0f90e"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_L.bin",
+      "Size": 8124,
+      "SHA256": "28e9fb3cc79ad78e4864e98f5b8d88b7aa4940c014653842b380ee5c7a3927ad"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_L_LE_1.bin",
+      "Size": 8124,
+      "SHA256": "4104483a938de2605bfa4fbf9fc02492fc561a380708009068847a6d9830a7ee"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_SS_N.bin",
+      "Size": 8124,
+      "SHA256": "89327da381a61f3d801ac11ce4765f435322c39c7e9450406576e56bae15dc17"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_SS_S.bin",
+      "Size": 8124,
+      "SHA256": "6e0b49ea596d06af98aba2035c1d3ac255686704b52d8dc439ab8132a1fc5088"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_SS_T.bin",
+      "Size": 8124,
+      "SHA256": "dfd2e8a337d68eaac2f41770262ae7d8d64ed10ed9d45c54557b22f4cd4dadc3"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA425_olpc_SS_V.bin",
+      "Size": 8124,
+      "SHA256": "c5cc738f5cabc1819d6547c167135e9c9902e76b4e092ce89dddec7ffd781886"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc.bin",
+      "Size": 8124,
+      "SHA256": "e9ddd226fb1a31b89d1ae1db630100a8a79c3a803a9b5922d694a2aff35480e7"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_A.bin",
+      "Size": 8124,
+      "SHA256": "e3ffaea0ddeebbb0c64743ce8ccf6132e4e2d78887221d6168fdfa193a5f7766"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_A_TP401NA.bin",
+      "Size": 8124,
+      "SHA256": "39bb62e35763ba15582b0833f14c7cbdc77871c84718a2bb16a1290ee438346a"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_DE_089C.bin",
+      "Size": 8124,
+      "SHA256": "3a91647c5d6fc584785f03ad3564bbedee07a5b944c23ea02a7c3fc98a60c002"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_DE_P87G.bin",
+      "Size": 8124,
+      "SHA256": "9e71e497eefc589742ed4808b1dec00732f4a3143dca0983aeb01c832a656f24"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_DE_P88G.bin",
+      "Size": 8124,
+      "SHA256": "e4e795acdc19ad14d7569437f3d3295731972723ffac65be33a7c4a1d233e771"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_1.bin",
+      "Size": 8124,
+      "SHA256": "23d680159695e2b668904fd516449736f64047e277295bbcbede7e97d55d7317"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_10.bin",
+      "Size": 8124,
+      "SHA256": "72d3e1e99635d2c2507a0077c961a0ffd90fc15239543f708266029ae889b5b5"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_11.bin",
+      "Size": 8124,
+      "SHA256": "1ab506ae1551164f96bd188a7da39602d0303745d7175036d8e55f12e7379982"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_12.bin",
+      "Size": 8124,
+      "SHA256": "0f138b9d84c36d4239e51276e514c7b5c9b1b60748e2caab8613d55f232dfa92"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_13.bin",
+      "Size": 8124,
+      "SHA256": "c6de1e5cb71bc0cb27c11bb2dc4dfbb03d3fd9a29917260dfeb83cb0c4af5ad9"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_14.bin",
+      "Size": 8124,
+      "SHA256": "f4167fdd5578060e26ad81e393391d28356172e8db665fdc7f180f6dd07d2916"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_15.bin",
+      "Size": 8124,
+      "SHA256": "fccec755e61d0a99dd4421aedd289507b327dbcc81e970984858df8da5393cb5"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_2.bin",
+      "Size": 8124,
+      "SHA256": "5cc3e24115281afadb943f48e7e3cacb6796f432e34a3acc5d859a4ce42cf765"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_3.bin",
+      "Size": 8124,
+      "SHA256": "7fef1ce1de60712f428e7dc6695ab6818287e67c840f8741536ed47fd0a68beb"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_4.bin",
+      "Size": 8124,
+      "SHA256": "cb7759cfd98ff3bdb2e4a840b78a773c8939709b02902fbe2276c54b91813dac"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_5.bin",
+      "Size": 8124,
+      "SHA256": "a83c30561ec10d9a510c1c42073466c6234cb446154bbf523529cfc0f5885087"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_6.bin",
+      "Size": 8124,
+      "SHA256": "799d7fd48fbea0868f17fa629e8aa1d37c90643e7bbd40ce9e959fb1d07f7bbf"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_7.bin",
+      "Size": 8124,
+      "SHA256": "ef7dbf20f11eff7227f67faeab921a6b24d2037fbc554951790637067d0639f2"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_8.bin",
+      "Size": 8124,
+      "SHA256": "d8b20f4e4aaeb9406192c997d29c19fe65c1dba8d9721d94a057c77c32fa4e48"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/eeprom_qca9377_1p1_NFA435_olpc_LE_9.bin",
+      "Size": 8124,
+      "SHA256": "831dd7d93d14c5a1a7a3d02579890cab8bc47f77a088bb625f3d2f83f67af836"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/netathr10x.INF",
+      "Size": 278518,
+      "SHA256": "5045762f510ab869a078b52b5959aea4942c61a580ca63fc8e6a945a91487b60"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/qca61x4_2_2.bin",
+      "Size": 1089520,
+      "SHA256": "f725bf4294caa1f221896d7eb6385f006993343e75db9ec793fb30e64902cd9f"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netathr10x_12.0.0.722_F34A0C665C6334837B8487417C660B5DF79134D0B8159F94839EC1B6834FE360/qca9377_2_0.bin",
+      "Size": 1135984,
+      "SHA256": "07a8ecc5059b780470bf227790a3a3c01913c314a3ae6874c6df1f226f99df02"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netrtwlane01_2023.70.0109.2018_62962C03CC7A27B19E75471DE1D1E958AE038D4A93951D490CA2A5D8087FE994/netrtwlane01.inf",
+      "Size": 301164,
+      "SHA256": "5e93bd6f1bf7776cda0a5bfa161427999e0448a1528723a38b3cce655748f861"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netrtwlane01_2023.70.0109.2018_62962C03CC7A27B19E75471DE1D1E958AE038D4A93951D490CA2A5D8087FE994/rtwlane01.sys",
+      "Size": 8169472,
+      "SHA256": "9eba55a4a00534f9bfc98ae3f9f7c36247cb2904514dc572fe8014a6f1ed56a1"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netrtwlane_2024.0.8.108_C5207CA2E0059681E63CCA774838C60D1251955A046597A2C2BCF4913F9937F5/netrtwlane.inf",
+      "Size": 246236,
+      "SHA256": "294f08851afb9b300af744574e200777b5ed56939ddfbc9e5a70b94bce2ebca6"
+    },
+    {
+      "Path": "bootstrap-drivers/WLAN-Other/netrtwlane_2024.0.8.108_C5207CA2E0059681E63CCA774838C60D1251955A046597A2C2BCF4913F9937F5/rtwlane.sys",
+      "Size": 11456000,
+      "SHA256": "77fb368f7ac635c0b29744bb6ccdc5a8469d758528399beec0c59125e81df8b6"
+    }
+  ],
+  "TotalBytes": 255905618,
+  "INFCount": 78,
+  "Scope": "x64 boot storage and network bootstrap; remaining devices use SDIO matching downloads. No forced unsigned injection."
+}

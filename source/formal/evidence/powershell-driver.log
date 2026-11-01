@@ -1,0 +1,9 @@
+Driver installation and device checks completed
+PASS driver workflow: success
+PASS driver workflow: incomplete
+PASS driver workflow: empty
+PASS driver workflow: corrupt
+PASS driver workflow: no-handoff
+PASS driver workflow: reboot
+Driver installation and device checks completed
+PASS driver workflow: automatic resume after reboot

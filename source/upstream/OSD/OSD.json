@@ -1,0 +1,222 @@
+{
+	"Module": {
+		"Project": "https://github.com/OSDeploy/OSD/",
+		"Docs": "https://github.com/OSDeploy/OSD/tree/master/docs",
+		"Issues": "https://osd.osdeploy.com/",
+		"Info": "https://osd.osdeploy.com/"
+	},
+	"OneDriveSetup": {
+		"Deferred": "https://go.microsoft.com/fwlink/?linkid=860987",
+		"Production": "https://go.microsoft.com/fwlink/?linkid=844652"
+	},
+	"OSDCloud": {
+        "Default": {
+            "Activation": "Volume",
+            "Edition": "Enterprise",
+            "Language": "en-us",
+            "Name": "Windows 11 26H2 x64",
+            "ReleaseID": "26H2",
+            "Version": "Windows 11",
+            "ImageIndex": 0
+        },
+        "DefaultARM64": {
+            "Activation": "Retail",
+            "Edition": "Pro",
+            "Language": "en-us",
+            "Name": "Windows 11 26H2 arm64",
+            "ReleaseID": "26H2",
+            "Version": "Windows 11",
+            "ImageIndex": 0
+        },
+        "Values": {
+            "Activation": [
+                "Retail",
+                "Volume"
+            ],
+            "Edition": [
+                "Home",
+                "Home N",
+                "Home Single Language",
+                "Education",
+                "Education N",
+                "Enterprise",
+                "Enterprise N",
+                "Pro",
+                "Pro N"
+            ],
+            "Language": [
+                "ar-sa",
+                "bg-bg",
+                "cs-cz",
+                "da-dk",
+                "de-de",
+                "el-gr",
+                "en-gb",
+                "en-us",
+                "es-es",
+                "es-mx",
+                "et-ee",
+                "fi-fi",
+                "fr-ca",
+                "fr-fr",
+                "he-il",
+                "hr-hr",
+                "hu-hu",
+                "it-it",
+                "ja-jp",
+                "ko-kr",
+                "lt-lt",
+                "lv-lv",
+                "nb-no",
+                "nl-nl",
+                "pl-pl",
+                "pt-br",
+                "pt-pt",
+                "ro-ro",
+                "ru-ru",
+                "sk-sk",
+                "sl-si",
+                "sr-latn-rs",
+                "sv-se",
+                "th-th",
+                "tr-tr",
+                "uk-ua",
+                "zh-cn",
+                "zh-tw"
+            ],
+            "Name": [
+                "Windows 11 26H2 x64",
+                "Windows 11 25H2 x64",
+                "Windows 11 24H2 x64",
+                "Windows 11 23H2 x64",
+                "Windows 10 22H2 x64"
+            ],
+            "NameARM64": [
+                "Windows 11 26H2 arm64",
+                "Windows 11 25H2 arm64",
+                "Windows 11 24H2 arm64"
+            ],
+            "ReleaseID": [
+                "26H2",
+                "25H2",
+                "24H2",
+                "23H2",
+                "22H2"
+            ],
+            "Version": [
+                "Windows 11",
+                "Windows 10"
+            ]
+        },
+        "ValuesARM64": {
+            "Activation": [
+                "Retail",
+                "Volume"
+            ],
+            "Edition": [
+                "Home",
+                "Enterprise",
+                "Pro"
+            ],
+            "Language": [
+                "ar-sa",
+                "bg-bg",
+                "cs-cz",
+                "da-dk",
+                "de-de",
+                "el-gr",
+                "en-gb",
+                "en-us",
+                "es-es",
+                "es-mx",
+                "et-ee",
+                "fi-fi",
+                "fr-ca",
+                "fr-fr",
+                "he-il",
+                "hr-hr",
+                "hu-hu",
+                "it-it",
+                "ja-jp",
+                "ko-kr",
+                "lt-lt",
+                "lv-lv",
+                "nb-no",
+                "nl-nl",
+                "pl-pl",
+                "pt-br",
+                "pt-pt",
+                "ro-ro",
+                "ru-ru",
+                "sk-sk",
+                "sl-si",
+                "sr-latn-rs",
+                "sv-se",
+                "th-th",
+                "tr-tr",
+                "uk-ua",
+                "zh-cn",
+                "zh-tw"
+            ],
+            "Name": [
+                "Windows 11 26H2 arm64",
+                "Windows 11 25H2 arm64",
+                "Windows 11 24H2 arm64"
+            ],
+            "ReleaseID": [
+                "26H2",
+                "25H2",
+                "24H2"
+            ],
+            "Version": [
+                "Windows 11"
+            ]
+        }
+	},
+    "NewOSDCloudVM": {
+        "CheckpointVM": true,
+        "Generation": 2,
+        "MemoryStartupGB": 6,
+        "NamePrefix": "OSDCloud",
+        "ProcessorCount": 1,
+        "StartVM": true,
+        "SwitchName": null,
+        "VHDSizeGB": 64
+    },
+	"StartOSDCloudGUI": {
+		"BrandName": "OSDCloud",
+		"BrandColor": "#0096D6",
+        "ClearDiskConfirm": true,
+        "restartComputer": true,
+        "updateDiskDrivers": true,
+        "updateFirmware": false,
+        "updateNetworkDrivers": true,
+        "updateSCSIDrivers": true,
+        "OEMActivation": true,
+        "WindowsUpdate": false,
+        "WindowsUpdateDrivers": false,
+        "WindowsDefenderUpdate": false,
+        "SyncMSUpCatDriverUSB": true,
+        "HPIAALL": false,
+        "HPIADrivers": false,
+        "HPIAFirmware": false,
+        "HPIASoftware": false,
+        "HPTPMUpdate": false,
+        "HPBIOSUpdate": false
+	},
+    "StartOSDCloudGUIDev": {
+        "BrandName": "OSDCloudDev",
+        "BrandColor": "#0096D6"
+    },
+	"WinPEDriverPack": {
+		"Dell": {
+			"Info": "https://www.dell.com/support/kbdoc/en-us/000107478/dell-command-deploy-winpe-driver-packs",
+			"LastKnownGoodWin10": "https://downloads.dell.com/FOLDER12189048M/1/WinPE10.0-Drivers-A35-J2P5W.cab",
+			"LastKnownGoodWin11": "https://downloads.dell.com/FOLDER12189044M/1/WinPE11.0-Drivers-A05-TPKY4.cab"
+		},
+		"HP": {
+			"Info": "http://ftp.ext.hp.com/pub/caps-softpaq/cmit/softpaq/WinPE11.html",
+			"LastKnownGood": "https://ftp.ext.hp.com/pub/softpaq/sp165501-166000/sp165773.exe"
+		}
+	}
+}

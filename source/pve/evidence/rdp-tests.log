@@ -1,0 +1,11 @@
+✔ owned VM RDP is routed to discovered guest address (2.099356ms)
+✔ foreign VM cannot receive a forwarded connection (0.538169ms)
+✔ guest without an address fails without stale address fallback (0.570438ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 51.688177

@@ -1,0 +1,20 @@
+[Unit]
+ConditionPathExists=/dev/kvm
+Description=OpenDeploy selected guest installation
+After=opendeploy-stage2.service
+StartLimitIntervalSec=0
+
+[Service]
+Type=oneshot
+User=root
+UMask=0077
+TimeoutStartSec=infinity
+ExecStart=/usr/bin/python3 /opt/opendeploy/opendeploy.py install --job /opt/opendeploy
+ExecStart=/usr/bin/python3 /opt/opendeploy/opendeploy.py finalize --job /opt/opendeploy
+RemainAfterExit=yes
+Restart=on-failure
+RestartSec=15
+
+[Install]
+WantedBy=multi-user.target
+

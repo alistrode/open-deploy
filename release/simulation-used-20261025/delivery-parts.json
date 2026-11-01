@@ -1,0 +1,1662 @@
+{
+  "format": 1,
+  "artifacts": [
+    {
+      "kind": "Runtime",
+      "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip",
+      "bytes": 2354875512,
+      "parts": [
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part000",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part001",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part002",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part003",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part004",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part005",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part006",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part007",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part008",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part009",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part010",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part011",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part012",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part013",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part014",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part015",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part016",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part017",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part018",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part019",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part020",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part021",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part022",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part023",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part024",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part025",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part026",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part027",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part028",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part029",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part030",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part031",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part032",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part033",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part034",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part035",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part036",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part037",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part038",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part039",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part040",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part041",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part042",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part043",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part044",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part045",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part046",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part047",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part048",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part049",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part050",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part051",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part052",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part053",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part054",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part055",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part056",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part057",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part058",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part059",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part060",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part061",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part062",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part063",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part064",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part065",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part066",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part067",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part068",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part069",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part070",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part071",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part072",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part073",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part074",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part075",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part076",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part077",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part078",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part079",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part080",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part081",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part082",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part083",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part084",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part085",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part086",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part087",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part088",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part089",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part090",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part091",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part092",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part093",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part094",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part095",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part096",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part097",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part098",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part099",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part100",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part101",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part102",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part103",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part104",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part105",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part106",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part107",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part108",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part109",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part110",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part111",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part112",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part113",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part114",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part115",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part116",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part117",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part118",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part119",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part120",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part121",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part122",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part123",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part124",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part125",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part126",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part127",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part128",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part129",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part130",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part131",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part132",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part133",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part134",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part135",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part136",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part137",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part138",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part139",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Used-PXVIRTOnly-Windows-Full-20261025.zip.part140",
+          "bytes": 6065272
+        }
+      ]
+    },
+    {
+      "kind": "ISO",
+      "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes",
+      "bytes": 2136866864,
+      "parts": [
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part000",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part001",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part002",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part003",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part004",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part005",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part006",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part007",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part008",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part009",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part010",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part011",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part012",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part013",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part014",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part015",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part016",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part017",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part018",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part019",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part020",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part021",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part022",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part023",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part024",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part025",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part026",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part027",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part028",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part029",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part030",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part031",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part032",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part033",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part034",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part035",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part036",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part037",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part038",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part039",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part040",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part041",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part042",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part043",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part044",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part045",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part046",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part047",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part048",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part049",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part050",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part051",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part052",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part053",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part054",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part055",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part056",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part057",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part058",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part059",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part060",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part061",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part062",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part063",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part064",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part065",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part066",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part067",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part068",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part069",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part070",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part071",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part072",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part073",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part074",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part075",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part076",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part077",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part078",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part079",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part080",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part081",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part082",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part083",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part084",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part085",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part086",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part087",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part088",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part089",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part090",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part091",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part092",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part093",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part094",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part095",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part096",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part097",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part098",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part099",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part100",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part101",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part102",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part103",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part104",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part105",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part106",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part107",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part108",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part109",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part110",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part111",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part112",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part113",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part114",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part115",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part116",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part117",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part118",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part119",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part120",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part121",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part122",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part123",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part124",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part125",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part126",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-PXVIRT-Original-20261025.iso.aes.part127",
+          "bytes": 6160432
+        }
+      ]
+    },
+    {
+      "kind": "PreparedDisk",
+      "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes",
+      "bytes": 2130706480,
+      "parts": [
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part000",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part001",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part002",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part003",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part004",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part005",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part006",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part007",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part008",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part009",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part010",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part011",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part012",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part013",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part014",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part015",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part016",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part017",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part018",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part019",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part020",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part021",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part022",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part023",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part024",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part025",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part026",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part027",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part028",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part029",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part030",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part031",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part032",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part033",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part034",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part035",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part036",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part037",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part038",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part039",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part040",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part041",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part042",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part043",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part044",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part045",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part046",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part047",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part048",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part049",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part050",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part051",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part052",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part053",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part054",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part055",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part056",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part057",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part058",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part059",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part060",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part061",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part062",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part063",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part064",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part065",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part066",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part067",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part068",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part069",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part070",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part071",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part072",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part073",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part074",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part075",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part076",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part077",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part078",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part079",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part080",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part081",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part082",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part083",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part084",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part085",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part086",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part087",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part088",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part089",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part090",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part091",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part092",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part093",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part094",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part095",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part096",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part097",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part098",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part099",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part100",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part101",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part102",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part103",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part104",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part105",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part106",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part107",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part108",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part109",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part110",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part111",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part112",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part113",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part114",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part115",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part116",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part117",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part118",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part119",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part120",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part121",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part122",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part123",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part124",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part125",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part126",
+          "bytes": 16777216
+        },
+        {
+          "name": "OpenDeploy-Prepared-Media-32G-20261025.vdi.aes.part127",
+          "bytes": 48
+        }
+      ]
+    },
+    {
+      "kind": "ChineseLanguage",
+      "name": "zh-cn-19041-offline.zip",
+      "bytes": 72584789,
+      "parts": [
+        {
+          "name": "zh-cn-19041-offline.zip.part000",
+          "bytes": 16777216
+        },
+        {
+          "name": "zh-cn-19041-offline.zip.part001",
+          "bytes": 16777216
+        },
+        {
+          "name": "zh-cn-19041-offline.zip.part002",
+          "bytes": 16777216
+        },
+        {
+          "name": "zh-cn-19041-offline.zip.part003",
+          "bytes": 16777216
+        },
+        {
+          "name": "zh-cn-19041-offline.zip.part004",
+          "bytes": 5475925
+        }
+      ]
+    }
+  ],
+  "runtime_file_count": 10153,
+  "runtime_uncompressed_bytes": 3108556677,
+  "source_location": "C:\\PXVIRT-OneFolder\\Runtime-PXVIRTOnly-20261024",
+  "base_archive": "release/pve-windows-hostfix-20261021/OpenDeploy-Windows-Snapshot.zip",
+  "base_archive_bytes": 3369511202,
+  "original_key_path": "I:\\xxm\\PXVIRT-Trial-20261021\\dev\\Delivery-20261027\\private-key\\original-iso.key",
+  "media_kind": "original prepared installation media; original private target binding retained",
+  "prepared_disk_logical_bytes": 34359738368,
+  "source_snapshot": "source/used-windows-20261025",
+  "guest_inputs_selected_after_pxvirt_ready": true,
+  "tiny10_source": {
+    "url": "https://archive.org/download/tiny-10-23-h2/tiny10%20x64%2023h2.iso",
+    "release": "NTDEV tiny10 x64 23h2",
+    "original_language": "en-US",
+    "observed_build": "19044.3324"
+  },
+  "chinese_components": {
+    "ui_esd_bytes": 24639149,
+    "basic_cab_bytes": 47945204,
+    "source_catalog": "https://api.uupdump.net/get.php?id=473c51b9-0b12-4444-86d0-75c557072b57&lang=zh-cn&edition=professional"
+  }
+}

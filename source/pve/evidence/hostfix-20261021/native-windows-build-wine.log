@@ -1,0 +1,6 @@
+wine: created the configuration directory '/work/wineprefix-mediafix'
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+wine: failed to open L"C:\\windows\\syswow64\\rundll32.exe": c0000135
+{"configured": true, "job": "Z:\\work\\pve-fixture\\native-host-mediafix", "relay_version": "3.0"}
+{"outputs": [{"path": "Z:\\work\\pve-fixture\\native-host-mediafix\\media\\OpenDeploy-PXVIRT.iso", "sha256": "445113e25950ef764fff2bce7a75a6e37e31edbb840734311944472cb580d218"}], "physical_write_performed": false}

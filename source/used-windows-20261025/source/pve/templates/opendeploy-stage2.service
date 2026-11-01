@@ -1,0 +1,18 @@
+[Unit]
+Description=OpenDeploy PXVIRT host initialization
+Wants=network-online.target
+After=network-online.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=oneshot
+User=root
+UMask=0077
+TimeoutStartSec=infinity
+ExecStart=/usr/bin/python3 /opt/opendeploy/opendeploy.py bootstrap --job /opt/opendeploy
+RemainAfterExit=yes
+Restart=on-failure
+RestartSec=15
+
+[Install]
+WantedBy=multi-user.target

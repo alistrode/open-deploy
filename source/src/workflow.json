@@ -1,0 +1,12 @@
+{
+  "facts": {"plan":1,"bound":2,"inputs":4,"media":8,"image":16,"boot":32,"handoff":64,"healthy":128,"pending":256},
+  "transitions": [
+    {"action":"prepare.start","from":"configured","to":"preparing","required":7,"forbidden":0,"activations":1,"attempt":0},
+    {"action":"prepare.done","from":"preparing","to":"prepared","required":9,"forbidden":0,"activations":1,"attempt":0},
+    {"action":"install.start","from":"prepared","to":"installing","required":11,"forbidden":0,"activations":2,"attempt":0},
+    {"action":"install.done","from":"installing","to":"installed","required":113,"forbidden":0,"activations":2,"attempt":0},
+    {"action":"drivers.start","from":"installed","to":"drivers","required":67,"forbidden":0,"activations":3,"attempt":1},
+    {"action":"drivers.resume","from":"drivers","to":"drivers","required":67,"forbidden":0,"activations":3,"attempt":1},
+    {"action":"drivers.done","from":"drivers","to":"complete","required":195,"forbidden":256,"activations":3,"attempt":0}
+  ]
+}

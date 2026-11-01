@@ -1,0 +1,45 @@
+test_corrupt_iso_stops_before_any_device_access (test_usb.USBTests.test_corrupt_iso_stops_before_any_device_access) ... ok
+test_device_identity_change_stops_before_unmount (test_usb.USBTests.test_device_identity_change_stops_before_unmount) ... ok
+test_regular_disk_paths_are_not_accepted (test_usb.USBTests.test_regular_disk_paths_are_not_accepted) ... ok
+test_running_root_is_not_unmounted (test_usb.USBTests.test_running_root_is_not_unmounted) ... ok
+test_community_boot_parameter_matches_installer (test_workflow.WorkflowTests.test_community_boot_parameter_matches_installer) ... ok
+test_concurrent_worker_is_rejected (test_workflow.WorkflowTests.test_concurrent_worker_is_rejected) ... ok
+test_create_timeout_adopts_same_owned_vm_without_duplicate_disk (test_workflow.WorkflowTests.test_create_timeout_adopts_same_owned_vm_without_duplicate_disk) ... ok
+test_exact_physical_disk_filter_and_no_wildcards (test_workflow.WorkflowTests.test_exact_physical_disk_filter_and_no_wildcards) ... ok
+test_foreign_vm_is_never_modified (test_workflow.WorkflowTests.test_foreign_vm_is_never_modified) ... ok
+test_formal_snapshot_fact_required_by_runtime (test_workflow.WorkflowTests.test_formal_snapshot_fact_required_by_runtime) ... ok
+test_image_metadata_drives_language_and_rejects_wrong_index (test_workflow.WorkflowTests.test_image_metadata_drives_language_and_rejects_wrong_index) ... ok
+test_no_success_before_healthy_guest (test_workflow.WorkflowTests.test_no_success_before_healthy_guest) ... ok
+test_plan_change_rejected_after_restart (test_workflow.WorkflowTests.test_plan_change_rejected_after_restart) ... ok
+test_recovery_preserves_original_stable_snapshot (test_workflow.WorkflowTests.test_recovery_preserves_original_stable_snapshot) ... ok
+test_repeated_install_does_not_replay_installation (test_workflow.WorkflowTests.test_repeated_install_does_not_replay_installation) ... ok
+test_resume_snapshotting_when_guest_stopped (test_workflow.WorkflowTests.test_resume_snapshotting_when_guest_stopped) ... ok
+test_snapshot_failure_not_complete (test_workflow.WorkflowTests.test_snapshot_failure_not_complete) ... ok
+test_start_timeout_after_snapshot_does_not_replace_stable (test_workflow.WorkflowTests.test_start_timeout_after_snapshot_does_not_replace_stable) ... ok
+test_supervised_pipeline_recovers_three_snapshot_failures (test_workflow.WorkflowTests.test_supervised_pipeline_recovers_three_snapshot_failures) ... ok
+test_unattended_xml_has_escaped_password_and_explicit_virtual_disk (test_workflow.WorkflowTests.test_unattended_xml_has_escaped_password_and_explicit_virtual_disk) ... ok
+test_version_four_is_rejected (test_workflow.WorkflowTests.test_version_four_is_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.016s
+
+OK
+Win10 installer started; stage three waits for actual guest completion
+Win10 installer started; stage three waits for actual guest completion
+Win10 installer started; stage three waits for actual guest completion
+Win10 installer started; stage three waits for actual guest completion
+All three stages complete; stable snapshot confirmed
+All three stages complete; stable snapshot confirmed
+Win10 installer started; stage three waits for actual guest completion
+VM already created; installation is not replayed
+Win10 installer started; stage three waits for actual guest completion
+All three stages complete; stable snapshot confirmed
+Win10 installer started; stage three waits for actual guest completion
+All three stages complete; stable snapshot confirmed
+Win10 installer started; stage three waits for actual guest completion
+All three stages complete; stable snapshot confirmed
+Win10 installer started; stage three waits for actual guest completion
+VM already created; installation is not replayed
+VM already created; installation is not replayed
+VM already created; installation is not replayed
+All three stages complete; stable snapshot confirmed

@@ -1,0 +1,17 @@
+[Unit]
+Description=OpenDeploy owned Win10 RDP loopback forwarding
+After=network-online.target pve-guests.service
+Wants=network-online.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+User=root
+UMask=0077
+WorkingDirectory=/opt/opendeploy
+ExecStart=/opt/opendeploy/relay/SSH-Remote-Linux/runtime/node /opt/opendeploy/rdp-proxy.cjs
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,267 @@
+{
+  "repository_database_sha256": "917b2fcf56bcda0b5a3d77d76a6236ed20d9754297d886359a96ddc75e3259ae",
+  "packages": [
+    {
+      "name": "bash",
+      "version": "5.3.20-2",
+      "url": "https://repo.msys2.org/msys/x86_64/bash-5.3.20-2-x86_64.pkg.tar.zst",
+      "sha256": "0951e809c552dd7dd2835df1b2d590822187f14e717d809e942e4eb677d0adfd",
+      "license": "spdx:GPL-3.0-or-later",
+      "upstream": "https://www.gnu.org/software/bash/bash.html"
+    },
+    {
+      "name": "binutils",
+      "version": "2.47-1",
+      "url": "https://repo.msys2.org/msys/x86_64/binutils-2.47-1-x86_64.pkg.tar.zst",
+      "sha256": "b7ddaca6e8b63774cdb1f5ac2720963cd76f8f62ca7e2667b1b0f008ed7ecba2",
+      "license": "spdx:GPL-3.0-or-later",
+      "upstream": "https://www.gnu.org/software/binutils/"
+    },
+    {
+      "name": "coreutils",
+      "version": "8.32-5",
+      "url": "https://repo.msys2.org/msys/x86_64/coreutils-8.32-5-x86_64.pkg.tar.zst",
+      "sha256": "62dfee1c39fd15f99c39802b35e82643bc14fffc16d6c76d4001caa385ec77e3",
+      "license": "GPL3",
+      "upstream": "https://www.gnu.org/software/coreutils"
+    },
+    {
+      "name": "gcc-libs",
+      "version": "15.3.0-1",
+      "url": "https://repo.msys2.org/msys/x86_64/gcc-libs-15.3.0-1-x86_64.pkg.tar.zst",
+      "sha256": "0d99a122c453c05ae21ba3dcea910f2e0d93d38ae067c677a112a315b0f3cec5",
+      "license": "spdx:GPL-3.0-or-later AND GPL-2.0-or-later AND LGPL-2.1-or-later AND LGPL-3.0-or-later AND GCC-exception-3.1 AND GFDL-1.3-or-later",
+      "upstream": "https://gcc.gnu.org/"
+    },
+    {
+      "name": "gmp",
+      "version": "6.3.0-2",
+      "url": "https://repo.msys2.org/msys/x86_64/gmp-6.3.0-2-x86_64.pkg.tar.zst",
+      "sha256": "f84536138e618d47a1df2da83916cfebbd449f159ffad52f994a71060a41cf34",
+      "license": "LGPL3",
+      "upstream": "https://gmplib.org/"
+    },
+    {
+      "name": "heimdal",
+      "version": "7.8.0-7",
+      "url": "https://repo.msys2.org/msys/x86_64/heimdal-7.8.0-7-x86_64.pkg.tar.zst",
+      "sha256": "c1e9dc49b6eaffd145abd73c8b516acca89eac64fa90031e116ac93c3b493a1e",
+      "license": "spdx:LicenseRef-Heimdal",
+      "upstream": "https://www.h5l.org/"
+    },
+    {
+      "name": "heimdal-libs",
+      "version": "7.8.0-7",
+      "url": "https://repo.msys2.org/msys/x86_64/heimdal-libs-7.8.0-7-x86_64.pkg.tar.zst",
+      "sha256": "badbf9d464fe8498668451b8d53cf84c7ec3bd0e7bcc0ea158bf6339a30a2416",
+      "license": "spdx:LicenseRef-Heimdal",
+      "upstream": "https://www.h5l.org/"
+    },
+    {
+      "name": "libbz2",
+      "version": "1.0.8-4",
+      "url": "https://repo.msys2.org/msys/x86_64/libbz2-1.0.8-4-x86_64.pkg.tar.zst",
+      "sha256": "89fb0e1478b22b80effda55ab4ae7549388d01245d3841a096d8a2d63236c2a1",
+      "license": "custom",
+      "upstream": "http://www.bzip.org"
+    },
+    {
+      "name": "libcbor",
+      "version": "0.14.0-2",
+      "url": "https://repo.msys2.org/msys/x86_64/libcbor-0.14.0-2-x86_64.pkg.tar.zst",
+      "sha256": "a661826edc2d452f8d74bae2cd5974dfbcd84e23bfbfa7ea3db38ee010d7b004",
+      "license": "spdx:MIT",
+      "upstream": "https://github.com/PJK/libcbor"
+    },
+    {
+      "name": "libdb",
+      "version": "6.2.32-6",
+      "url": "https://repo.msys2.org/msys/x86_64/libdb-6.2.32-6-x86_64.pkg.tar.zst",
+      "sha256": "27a35786f3aab14e625c02df7bcd8a9dda0da782ce4f0549a427a21316b4d179",
+      "license": "spdx:AGPL-3.0-or-later",
+      "upstream": "https://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html"
+    },
+    {
+      "name": "libedit",
+      "version": "20240808_3.1-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libedit-20240808_3.1-1-x86_64.pkg.tar.zst",
+      "sha256": "aada8ba7dfe41fdcac28d3706c0dc7c621b7667035a5e629cb5f3af7fb3f7de0",
+      "license": "BSD",
+      "upstream": "https://www.thrysoee.dk/editline/"
+    },
+    {
+      "name": "libexpat",
+      "version": "2.9.0-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libexpat-2.9.0-1-x86_64.pkg.tar.zst",
+      "sha256": "3021e1119cbe6a384977914c1dc099a98ce861505cc07229a842e8e1253597e5",
+      "license": "spdx:MIT",
+      "upstream": "https://libexpat.github.io/"
+    },
+    {
+      "name": "libffi",
+      "version": "3.8.0-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libffi-3.8.0-1-x86_64.pkg.tar.zst",
+      "sha256": "e0a21ae5ee3f0ce1ff3f446ea2c95ad462803081014aecfa8fc1cd22bc4df187",
+      "license": "spdx:MIT",
+      "upstream": "https://sourceware.org/libffi/"
+    },
+    {
+      "name": "libfido2",
+      "version": "1.17.0-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libfido2-1.17.0-1-x86_64.pkg.tar.zst",
+      "sha256": "30794db36fa21af67c7126a221e2cb95b177be08845bb38720a8c9f28c39cdbb",
+      "license": "BSD-2-Clause",
+      "upstream": "https://developers.yubico.com/libfido2/"
+    },
+    {
+      "name": "libiconv",
+      "version": "1.19-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libiconv-1.19-1-x86_64.pkg.tar.zst",
+      "sha256": "0fa55ea2a6ccf97cf8c58b24b2615815e15e16e6e4e888091c263c2c83c5313d",
+      "license": "LGPL",
+      "upstream": "https://www.gnu.org/software/libiconv/"
+    },
+    {
+      "name": "libintl",
+      "version": "0.22.5-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libintl-0.22.5-1-x86_64.pkg.tar.zst",
+      "sha256": "336d66b9d95cf9c1804958f8e260762a3e83bf158ed5981f783bc772a31073cf",
+      "license": "GPL",
+      "upstream": "https://www.gnu.org/software/gettext/"
+    },
+    {
+      "name": "liblzma",
+      "version": "5.8.4-1",
+      "url": "https://repo.msys2.org/msys/x86_64/liblzma-5.8.4-1-x86_64.pkg.tar.zst",
+      "sha256": "4b7d61656e72a5651a797680b66186338dce4f8fbc62a637ab3b59922dd01074",
+      "license": "spdx:LGPL-2.1-or-later",
+      "upstream": "https://tukaani.org/xz/"
+    },
+    {
+      "name": "libopenssl",
+      "version": "3.6.5-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libopenssl-3.6.5-1-x86_64.pkg.tar.zst",
+      "sha256": "05f6cc946f0dde3aecc3632007fa1d874e40720226117b750327bc2a01846325",
+      "license": "spdx:Apache-2.0",
+      "upstream": "https://openssl-library.org"
+    },
+    {
+      "name": "libreadline",
+      "version": "8.3.006-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libreadline-8.3.006-1-x86_64.pkg.tar.zst",
+      "sha256": "29e25c50bf6cd7a5e6f2253af76f54fe3c1a915313c7c18e98bedaa665c6adea",
+      "license": "spdx:GPL-3.0-or-later",
+      "upstream": "https://tiswww.case.edu/php/chet/readline/rltop.html"
+    },
+    {
+      "name": "libsqlite",
+      "version": "3.54.0-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libsqlite-3.54.0-1-x86_64.pkg.tar.zst",
+      "sha256": "089e17fe8647da22b790dc2d5629d56cf53b5da5685d6555cb172400f32fe70f",
+      "license": "spdx:LicenseRef-Sqlite",
+      "upstream": "https://www.sqlite.org/"
+    },
+    {
+      "name": "libxcrypt",
+      "version": "4.5.2-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libxcrypt-4.5.2-1-x86_64.pkg.tar.zst",
+      "sha256": "e63db0aa2b708359e25f61f506e2d2c92c315febf5f88cc9f386e4ec0bdf4fa5",
+      "license": "spdx:LGPL-2.1-or-later",
+      "upstream": "https://github.com/besser82/libxcrypt/"
+    },
+    {
+      "name": "libzstd",
+      "version": "1.5.7-1",
+      "url": "https://repo.msys2.org/msys/x86_64/libzstd-1.5.7-1-x86_64.pkg.tar.zst",
+      "sha256": "5e370b2e725a0a7e5ff58d84653c9a0cd5a10b9cfe930f2d949a28ad2a11c1f2",
+      "license": "BSD",
+      "upstream": "https://facebook.github.io/zstd/"
+    },
+    {
+      "name": "mpdecimal",
+      "version": "4.0.1-1",
+      "url": "https://repo.msys2.org/msys/x86_64/mpdecimal-4.0.1-1-x86_64.pkg.tar.zst",
+      "sha256": "01ae3016641af4d499329c68e00a34664b7c7d9095dc6a859317441507132d41",
+      "license": "spdx:BSD-2-Clause",
+      "upstream": "https://www.bytereef.org/mpdecimal/index.html"
+    },
+    {
+      "name": "msys2-runtime",
+      "version": "3.6.11-4",
+      "url": "https://repo.msys2.org/msys/x86_64/msys2-runtime-3.6.11-4-x86_64.pkg.tar.zst",
+      "sha256": "7b1c4b625483ceff9a87f2dfcf3659704dc3da655a0ad414ecb7d9175e7d3ba0",
+      "license": "spdx:GPL-3.0-or-later",
+      "upstream": "https://www.cygwin.com/"
+    },
+    {
+      "name": "ncurses",
+      "version": "6.6-2",
+      "url": "https://repo.msys2.org/msys/x86_64/ncurses-6.6-2-x86_64.pkg.tar.zst",
+      "sha256": "828c92f09b17f00d3b49362fcfa4affa58e5e50e238f290ea36eb7a690da3acb",
+      "license": "spdx:MIT",
+      "upstream": "https://www.gnu.org/software/ncurses/"
+    },
+    {
+      "name": "openssh",
+      "version": "10.6p1-1",
+      "url": "https://repo.msys2.org/msys/x86_64/openssh-10.6p1-1-x86_64.pkg.tar.zst",
+      "sha256": "40694d9506e733f55262c4123cf6107dd28d27457a2b320f2866cdbde454c448",
+      "license": "spdx:LicenseRef-OpenSSH",
+      "upstream": "https://www.openssh.com/portable.html"
+    },
+    {
+      "name": "openssl",
+      "version": "3.6.5-1",
+      "url": "https://repo.msys2.org/msys/x86_64/openssl-3.6.5-1-x86_64.pkg.tar.zst",
+      "sha256": "4dc7c1199010b26d6382c59d8b16a9dbc857d314d76d9668f0f333bc5fecdd38",
+      "license": "spdx:Apache-2.0",
+      "upstream": "https://openssl-library.org"
+    },
+    {
+      "name": "python",
+      "version": "3.12.15-1",
+      "url": "https://repo.msys2.org/msys/x86_64/python-3.12.15-1-x86_64.pkg.tar.zst",
+      "sha256": "5672cd7d84b1415adce1cfc1555e2fc12e489c8cb0c0f787cf2ed6f1ecdf73f8",
+      "license": "spdx:Python-2.0",
+      "upstream": "https://www.python.org/"
+    },
+    {
+      "name": "xorriso",
+      "version": "1.5.8.2-1",
+      "url": "https://repo.msys2.org/msys/x86_64/xorriso-1.5.8.2-1-x86_64.pkg.tar.zst",
+      "sha256": "d97aed8ea0be8a247af5487aa3fc0790fcf488da9fc5c4964e7d73e5542b1036",
+      "license": "spdx:GPL-3.0-or-later",
+      "upstream": "https://www.gnu.org/software/xorriso/"
+    },
+    {
+      "name": "zlib",
+      "version": "1.3.2-1",
+      "url": "https://repo.msys2.org/msys/x86_64/zlib-1.3.2-1-x86_64.pkg.tar.zst",
+      "sha256": "a04aa79996c57f0db936be66cf94326d7e67e9cd8dbffe4cf6e97693d0a1d9ef",
+      "license": "custom",
+      "upstream": "https://www.zlib.net/"
+    },
+    {
+      "name": "zstd",
+      "version": "1.5.7-1",
+      "url": "https://repo.msys2.org/msys/x86_64/zstd-1.5.7-1-x86_64.pkg.tar.zst",
+      "sha256": "7b8ab77828c5a1efe53ebc53e3ea9d719bfbd609bf4c810eaa88d626188ed407",
+      "license": "BSD",
+      "upstream": "https://facebook.github.io/zstd/"
+    },
+    {
+      "name": "wimlib",
+      "version": "1.14.5",
+      "url": "https://wimlib.net/downloads/wimlib-1.14.5-windows-x86_64-bin.zip",
+      "sha256": "2f446d6fa3866582175f1a22a7be198eeee0aec7aba5b4e04ad25c99eae2d265",
+      "hash_provenance": "Measured HTTPS download"
+    },
+    {
+      "name": "python-windows-embedded",
+      "version": "3.12.10",
+      "url": "https://www.python.org/ftp/python/3.12.10/python-3.12.10-embed-amd64.zip",
+      "sha256": "4acbed6dd1c744b0376e3b1cf57ce906f9dc9e95e68824584c8099a63025a3c3",
+      "hash_provenance": "Measured HTTPS download"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "source_repository": "trlstdin/rororororo",
+  "original_source_unchanged": true,
+  "first_source_commit": "65f0afc5b5754e2cdfc6adc528a754718963374c",
+  "latest_source_commit": "226908ca533310e39c50c7841efa6702a78c59b7",
+  "packages": [
+    {
+      "file": "OpenDeploy-First-Simulation-Complete-20261025.zip",
+      "bytes": 6696206497,
+      "sha256": "8404943980eb1953da5529612217ad87c90512c78da5ef1a6dd19dd2e15e0ddc"
+    },
+    {
+      "file": "OpenDeploy-Latest-Complete-20261030.zip",
+      "bytes": 2428777453,
+      "sha256": "fbb9e3df409d23589972a0e78c8aebb61030bc3311c5f6a4eca9fe900152abf0"
+    }
+  ],
+  "validation": {
+    "original_files_git_object_verified": 411,
+    "original_runtime_crc": true,
+    "latest_crc": true,
+    "latest_application_files_match_original_zip": true,
+    "installation_performed": false
+  }
+}

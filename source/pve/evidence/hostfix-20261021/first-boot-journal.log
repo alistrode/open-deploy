@@ -1,0 +1,24 @@
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]: Traceback (most recent call last):
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:   File "/opt/opendeploy/host_health.py", line 66, in <module>
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:     main()
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:   File "/opt/opendeploy/host_health.py", line 61, in main
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:     result = verify_api(plan)
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:              ^^^^^^^^^^^^^^^^
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:   File "/opt/opendeploy/host_health.py", line 13, in verify_api
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:     context = ssl.create_default_context(cafile='/etc/pve/pve-root-ca.pem')
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:   File "/usr/lib/python3.11/ssl.py", line 770, in create_default_context
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]:     context.load_verify_locations(cafile, capath, cadata)
+Oct 21 16:48:39 opendeploy proxmox-first-boot[1291]: FileNotFoundError: [Errno 2] No such file or directory
+Oct 21 16:48:42 opendeploy systemd[1]: proxmox-first-boot-multi-user.service: Main process exited, code=exited, status=1/FAILURE
+Oct 21 16:48:42 opendeploy systemd[1]: proxmox-first-boot-multi-user.service: Failed with result 'exit-code'.
+Oct 21 16:48:42 opendeploy systemd[1]: Failed to start proxmox-first-boot-multi-user.service - OpenDeploy verified installation first boot.
+Oct 21 16:48:42 opendeploy systemd[1]: proxmox-first-boot-multi-user.service: Consumed 48.600s CPU time.
+Oct 21 16:48:57 opendeploy systemd[1]: proxmox-first-boot-multi-user.service: Scheduled restart job, restart counter is at 1.
+Oct 21 16:48:57 opendeploy systemd[1]: Stopped proxmox-first-boot-multi-user.service - OpenDeploy verified installation first boot.
+Oct 21 16:48:57 opendeploy systemd[1]: proxmox-first-boot-multi-user.service: Consumed 48.600s CPU time.
+Oct 21 16:48:57 opendeploy systemd[1]: Starting proxmox-first-boot-multi-user.service - OpenDeploy verified installation first boot...
+Oct 21 16:49:53 opendeploy pvecm[1836]: got inotify poll request in wrong process - disabling inotify
+Oct 21 16:50:02 opendeploy proxmox-first-boot[1828]: {"api_ready": true, "tls_verified": true, "version": "8.4.1-1"}
+Oct 21 16:50:11 opendeploy proxmox-first-boot[1876]: Stage two registered for automatic execution and retry
+Oct 21 16:50:12 opendeploy systemd[1]: Finished proxmox-first-boot-multi-user.service - OpenDeploy verified installation first boot.

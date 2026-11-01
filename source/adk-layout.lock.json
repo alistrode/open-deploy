@@ -1,0 +1,712 @@
+{
+  "version": "10.1.26100.2454",
+  "scope": "ADK DeploymentTools with KitsConfiguration and ToolkitDocumentation; complete WinPE add-on payload references. Not a built PE or Windows-validated installation.",
+  "provenance": "Payload paths, sizes and SHA-1 extracted from the SHA-256-pinned Microsoft Burn installer manifests; SHA-256 measured after successful size and SHA-1 verification.",
+  "files": [
+    {
+      "path": "adksetup/Installers/02d4c8ffdaa6632c8f1bad53fa8843b2.cab",
+      "bytes": 1818696,
+      "sha256": "4bf8eda958dee7c762a8440456230236130b13c47c939d389351c95e5525cbc9",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/02d4c8ffdaa6632c8f1bad53fa8843b2.cab",
+      "installer_manifest_sha1": "c92f534037ae91e23bd64feb46b26e3bcaa9d93b"
+    },
+    {
+      "path": "adksetup/Installers/0c48c56ca00155f992c30167beb8f23d.cab",
+      "bytes": 181314,
+      "sha256": "0a50e0c03ed842620bf775233022a407ba874a410b8e273e6865aaded7b81c9c",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/0c48c56ca00155f992c30167beb8f23d.cab",
+      "installer_manifest_sha1": "be25e279bb5c41bf3b0946d83b62dbc33c7a3915"
+    },
+    {
+      "path": "adksetup/Installers/1439dbcbd472f531c37a149237b300fc.cab",
+      "bytes": 19218,
+      "sha256": "383eae50c02acfdf399845163faa532f82a695add9a97e87a19e778acd6c274c",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/1439dbcbd472f531c37a149237b300fc.cab",
+      "installer_manifest_sha1": "0ebbedde9161c6b2853cd9f35b7d481ff3543228"
+    },
+    {
+      "path": "adksetup/Installers/1bd4f044e271b42b110fe533720c10e9.cab",
+      "bytes": 16712,
+      "sha256": "f4d63e9002c8996de017e94a5bb8979cfa75709844d249fb961ef5b9a55822c1",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/1bd4f044e271b42b110fe533720c10e9.cab",
+      "installer_manifest_sha1": "f37441f1c0de1c109d851061331d8fee76134f18"
+    },
+    {
+      "path": "adksetup/Installers/2517aec0259281507bfb693d7d136f30.cab",
+      "bytes": 45790,
+      "sha256": "3f7f1d05510d20ee429d189d21278f5a954b49d9e3569d63f176ec8831b1ff0e",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/2517aec0259281507bfb693d7d136f30.cab",
+      "installer_manifest_sha1": "ae2520d53d69d6ded24a8a523abb730a7c4df492"
+    },
+    {
+      "path": "adksetup/Installers/3048e0938ba336678a30618abb5ac970.cab",
+      "bytes": 36988,
+      "sha256": "ce4bf3348a0f5dc51d5d2c3c39349bd31dc3b914e7c1409a64e8e6956ad1e776",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/3048e0938ba336678a30618abb5ac970.cab",
+      "installer_manifest_sha1": "c72f4a4014246369e71fd61768defb96de47ade7"
+    },
+    {
+      "path": "adksetup/Installers/36e3c2de16bbebad20daec133c22acb1.cab",
+      "bytes": 21250,
+      "sha256": "a37ed8a817301217488a7f56d3052c08762a648a95b24993ec88f279e26ea2c1",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/36e3c2de16bbebad20daec133c22acb1.cab",
+      "installer_manifest_sha1": "97a164b115b68d38070097d7472cdac7d53203da"
+    },
+    {
+      "path": "adksetup/Installers/3b71855dfae6a44ab353293c119908b8.cab",
+      "bytes": 1486142,
+      "sha256": "af3a45db41c1ad1a7c53820a49d41e59c08e6e9deae6281339cf1eae6f9c6ecf",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/3b71855dfae6a44ab353293c119908b8.cab",
+      "installer_manifest_sha1": "1df2d297ecdddd01c1de4306afb345c950e60dcc"
+    },
+    {
+      "path": "adksetup/Installers/413a073d16688e177d7536cd2a64eb43.cab",
+      "bytes": 200368,
+      "sha256": "fd3a52086623688cdfe1e2e7ac40c55ab6065523e162cab96f1be6cd7ca3b402",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/413a073d16688e177d7536cd2a64eb43.cab",
+      "installer_manifest_sha1": "0d68ac191cdf1f7c61f58448334bb88b50ba7738"
+    },
+    {
+      "path": "adksetup/Installers/4e56c6c11e546d4265da4e9ff7686b67.cab",
+      "bytes": 67798,
+      "sha256": "6a459a224323b57dc2dd8402acb8c9176b7ebfa95bd94209d3532c0e0063343d",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/4e56c6c11e546d4265da4e9ff7686b67.cab",
+      "installer_manifest_sha1": "347a87386c15b79105ed28717c7c48103e42da68"
+    },
+    {
+      "path": "adksetup/Installers/500e0afd7cc09e1e1d6daca01bc67430.cab",
+      "bytes": 22044,
+      "sha256": "29ffc67b5e0e3beb3e22d14c8f21850c1cd6d80d1d1ad535447c1a6dea6b2d9a",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/500e0afd7cc09e1e1d6daca01bc67430.cab",
+      "installer_manifest_sha1": "0320891446e874f9315954be62bc07a4df483d06"
+    },
+    {
+      "path": "adksetup/Installers/518501e132e499be0132182ce1fa46d1.cab",
+      "bytes": 20314,
+      "sha256": "8ce9ebc5cca989c917e651fbe60b0dc93eed06a68d0e0714828d17abafbd4d31",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/518501e132e499be0132182ce1fa46d1.cab",
+      "installer_manifest_sha1": "ce139f9c173681be673cc0d784c4147c5421b0a4"
+    },
+    {
+      "path": "adksetup/Installers/56dd07dea070851064af5d29cadfac56.cab",
+      "bytes": 243386,
+      "sha256": "cec6d6123430193c61014526e546e29b827207baa6d9b8e20e9ebc8925b7d204",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/56dd07dea070851064af5d29cadfac56.cab",
+      "installer_manifest_sha1": "4a29e49632a71965162f1a3b4dda6c1428eb8754"
+    },
+    {
+      "path": "adksetup/Installers/56e5d88e2c299be31ce4fc4a604cede4.cab",
+      "bytes": 4143006,
+      "sha256": "6edc02efae41ad201c3522ba3ef9d2490925032b8e8a05d319aca1b0f9e384a9",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/56e5d88e2c299be31ce4fc4a604cede4.cab",
+      "installer_manifest_sha1": "4cbbdd42d3e0929be961c72dab51b8d493ed0967"
+    },
+    {
+      "path": "adksetup/Installers/5d984200acbde182fd99cbfbe9bad133.cab",
+      "bytes": 71948,
+      "sha256": "24395b738e6d41bca45f276a4e127abdcc723e47ca89784e1423b52766b6e3c5",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/5d984200acbde182fd99cbfbe9bad133.cab",
+      "installer_manifest_sha1": "36d1d60c6a50d2f70f85e8eb6a634d1c3c29582e"
+    },
+    {
+      "path": "adksetup/Installers/62d5cdeca4a33f724898b7fd1c7e828d.cab",
+      "bytes": 634380,
+      "sha256": "8b8820d28bdf00b2a73f40b6f00e9ec2608fb3faa270b20ac5227543469a3ef1",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/62d5cdeca4a33f724898b7fd1c7e828d.cab",
+      "installer_manifest_sha1": "cf56a2ae8925cf386e69c3c84a559d71b43c3234"
+    },
+    {
+      "path": "adksetup/Installers/630e2d20d5f2abcc3403b1d7783db037.cab",
+      "bytes": 293004,
+      "sha256": "2068857f5f5f579941cea1d57b9fb5abfb48f9fb3e3011cb7e5318821e755d71",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/630e2d20d5f2abcc3403b1d7783db037.cab",
+      "installer_manifest_sha1": "7e991df47cc85920c563031fae74772b214aa35e"
+    },
+    {
+      "path": "adksetup/Installers/6361319e47039c0d5fc9b61c444f75d1.cab",
+      "bytes": 33986,
+      "sha256": "86aaec0c324ca9f24d52bbbf7af6bf98177cfd80d40a042b0996fe188bf5fbdf",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/6361319e47039c0d5fc9b61c444f75d1.cab",
+      "installer_manifest_sha1": "d95b4ce1c613246f37e40347db35591ea46c2798"
+    },
+    {
+      "path": "adksetup/Installers/662ea66cc7061f8b841891eae8e3a67c.cab",
+      "bytes": 141360,
+      "sha256": "aef307a2f033562e3060cb622bbf8a5ebee3ef321529eacecd1044124b140955",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/662ea66cc7061f8b841891eae8e3a67c.cab",
+      "installer_manifest_sha1": "bff233116bb7f3240d1bd45d5edf258b413eed26"
+    },
+    {
+      "path": "adksetup/Installers/69f8595b00cf4081c2ecc89420610cbd.cab",
+      "bytes": 143554,
+      "sha256": "c8b204070bb1c86d14c45b3c3d73aeec7bc68036517ab04b4dade4d79a2b6bf9",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/69f8595b00cf4081c2ecc89420610cbd.cab",
+      "installer_manifest_sha1": "c4aff88a35349ee3f1e66e969cd7b5d36e4e4193"
+    },
+    {
+      "path": "adksetup/Installers/6a68bedadf2564eeef76c19379aae5ef.cab",
+      "bytes": 16730,
+      "sha256": "c1c4a8cdb67cd918700ac3e0771ea57099450f24c130d3f08f6b9776524c703a",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/6a68bedadf2564eeef76c19379aae5ef.cab",
+      "installer_manifest_sha1": "e516ecf13ae2edaa50f31cac03060e328802b8da"
+    },
+    {
+      "path": "adksetup/Installers/6e142759ce3a6e36e52e089caffaffe1.cab",
+      "bytes": 179684,
+      "sha256": "275c8808d8ef02a479b0e1b3dbbf7ea68b37e11627edd6207ecf5611c19c5a35",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/6e142759ce3a6e36e52e089caffaffe1.cab",
+      "installer_manifest_sha1": "7166ff971c4090d863bb2a74d8eb9e9a1e2b713d"
+    },
+    {
+      "path": "adksetup/Installers/767acf9ebc7b9e4a87d264eb57bd7ea7.cab",
+      "bytes": 166550,
+      "sha256": "9b757ce0f4301768718710d942b801740b884e14ecc2c3704fc79c124f33fe4a",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/767acf9ebc7b9e4a87d264eb57bd7ea7.cab",
+      "installer_manifest_sha1": "de93e00779565fefa394612afc9aea2446e3e009"
+    },
+    {
+      "path": "adksetup/Installers/7a8eaeba46cc44d02a9a46fcbb641a12.cab",
+      "bytes": 2633740,
+      "sha256": "cfcebd398d2d22766747ea8588e59625ae9e21cb62eb3a9067abab008a54f3eb",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/7a8eaeba46cc44d02a9a46fcbb641a12.cab",
+      "installer_manifest_sha1": "b2426d5e1e4c1378f1bb991c3f98bbc7dc9b220a"
+    },
+    {
+      "path": "adksetup/Installers/7e6e508fe7702607bff0b24b764e4990.cab",
+      "bytes": 20316,
+      "sha256": "677ad02c8ec47b7c1f1d13516fb25c12cf63b50ac46b352dab70b9dab1e1f3b3",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/7e6e508fe7702607bff0b24b764e4990.cab",
+      "installer_manifest_sha1": "61221921c857e6526fb322b4b0e5a4960f10cfad"
+    },
+    {
+      "path": "adksetup/Installers/831d004a8f355684ab94810176e8d4ec.cab",
+      "bytes": 58614,
+      "sha256": "a1ad7a0ec0b4eeac393ce38a9ec0c59ffabc1a43407924f8404c7cbd41d25edc",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/831d004a8f355684ab94810176e8d4ec.cab",
+      "installer_manifest_sha1": "c001882f2eae8d746b07312cf598f0b888755dd5"
+    },
+    {
+      "path": "adksetup/Installers/84cf100ee76440117226cfb9af196ba3.cab",
+      "bytes": 45840,
+      "sha256": "33f37894e4b2f79ab131e9d0325cc32e5e32bd49585e809ffae9e56a446f1d5f",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/84cf100ee76440117226cfb9af196ba3.cab",
+      "installer_manifest_sha1": "89dd788afba3a61f02890336feb88e401e5979e0"
+    },
+    {
+      "path": "adksetup/Installers/8624feeaa6661d6216b5f27da0e30f65.cab",
+      "bytes": 45806,
+      "sha256": "f2ed03620bf19453b13ebc0d4e94039b345e3cbba8dc15c8730d5ece01a6c38d",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/8624feeaa6661d6216b5f27da0e30f65.cab",
+      "installer_manifest_sha1": "e70239f53841a81692b909b145a7632b3bc7b7d5"
+    },
+    {
+      "path": "adksetup/Installers/870d7f92116bc55f7f72e7a9f5d5d6e1.cab",
+      "bytes": 20310,
+      "sha256": "2daf14e8ff6b9ac6e895a090cf0002de4e748bcfb9b499d52a3b96b8dc817fed",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/870d7f92116bc55f7f72e7a9f5d5d6e1.cab",
+      "installer_manifest_sha1": "78b8468da2090234b6392eace76d65cae0c1c014"
+    },
+    {
+      "path": "adksetup/Installers/8ae6e3f2b02bc9aa4d16ce91ff65faf9.cab",
+      "bytes": 1785488,
+      "sha256": "705b5cae85fb8d4b372b0b329caf8077ac7e887cba2e064b85dc088c809124fa",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/8ae6e3f2b02bc9aa4d16ce91ff65faf9.cab",
+      "installer_manifest_sha1": "11b9aa605cf68c2875e5a943586a4f20339755bd"
+    },
+    {
+      "path": "adksetup/Installers/8d25d56b34194978403f6bba33f419c5.cab",
+      "bytes": 1242416,
+      "sha256": "6fc7686c9adf19a8f908baa8cdc50a76f04e8c4b3a4704df2151cefd876c1805",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/8d25d56b34194978403f6bba33f419c5.cab",
+      "installer_manifest_sha1": "eb3b8764a972161cdf3d4ae690b57b212e22cf26"
+    },
+    {
+      "path": "adksetup/Installers/901b3fca4c41dbd30c3aa1d2b30c6d71.cab",
+      "bytes": 53588,
+      "sha256": "31920ab138acf15d429b225632fd95a3974047f5851f53b6adefb54e7e8d758c",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/901b3fca4c41dbd30c3aa1d2b30c6d71.cab",
+      "installer_manifest_sha1": "be103d1c0530b18a3ccb38d7d40cae93abd99302"
+    },
+    {
+      "path": "adksetup/Installers/9050f238beb90c3f2db4a387654fec4b.cab",
+      "bytes": 16674,
+      "sha256": "310c964ad8e8f123ce3745f00a72f5625d6202267780ef762cf7260246287728",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/9050f238beb90c3f2db4a387654fec4b.cab",
+      "installer_manifest_sha1": "fd25338662ef7342def092679f13f2e0af10f1a4"
+    },
+    {
+      "path": "adksetup/Installers/941dd5f1c32c7cec49703f0dfde8eba5.cab",
+      "bytes": 501192,
+      "sha256": "39fd750ef1174ce7ef692fdc34326f1393123710aab5b82e919c3efb33a6d3f3",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/941dd5f1c32c7cec49703f0dfde8eba5.cab",
+      "installer_manifest_sha1": "30b3b6109d4a88f4947610483ec88d09bd9e7ec8"
+    },
+    {
+      "path": "adksetup/Installers/9adccd836bc489e252549a89a4fa8cc3.cab",
+      "bytes": 170910,
+      "sha256": "b9093614cbc817653f9418d83cad94628f5d3dac5582ad17c585405c86ce4e12",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/9adccd836bc489e252549a89a4fa8cc3.cab",
+      "installer_manifest_sha1": "7d5776dd8527476060634c249aaa905511ed2ba8"
+    },
+    {
+      "path": "adksetup/Installers/9d2b092478d6cca70d5ac957368c00ba.cab",
+      "bytes": 70072,
+      "sha256": "d9a9cb4fd2f0367552ef57cf65a2fb65bcc9577ac175c39354a9d0471ccbbc71",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/9d2b092478d6cca70d5ac957368c00ba.cab",
+      "installer_manifest_sha1": "a8cf11c8d7d834853c5998ac6ef0065f8cd35c78"
+    },
+    {
+      "path": "adksetup/Installers/9f0be655144a0c68c7f087465e1ad4f9.cab",
+      "bytes": 17408,
+      "sha256": "a32c4d00368a9c55ad9ea53a7a46decfae6b1a7f81f59aab9592f807f71143c5",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/9f0be655144a0c68c7f087465e1ad4f9.cab",
+      "installer_manifest_sha1": "539c34589d1dc1b2750c40160b3028fb5a19fa98"
+    },
+    {
+      "path": "adksetup/Installers/9f8944e2cc69646284cd07010e7eee99.cab",
+      "bytes": 143594,
+      "sha256": "33d3649e62737bb0211e7a1290c9afd7760e8baddbc9f74d932a4e701a08fded",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/9f8944e2cc69646284cd07010e7eee99.cab",
+      "installer_manifest_sha1": "0cf67a9848220af6a698676032e86e1373035602"
+    },
+    {
+      "path": "adksetup/Installers/BCD and Boot-x86_en-us.msi",
+      "bytes": 581632,
+      "sha256": "2600b0595f170f6e78db3918e738d2c3dd554b0910bb2566158621bf1865c958",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/BCD%20and%20Boot-x86_en-us.msi",
+      "installer_manifest_sha1": "70388c19dde1d238ec51739960fe9b501a6364ae"
+    },
+    {
+      "path": "adksetup/Installers/Kits Configuration Installer-x86_en-us.msi",
+      "bytes": 446464,
+      "sha256": "a3aeb499a58db69157db5b2f7529aff3a553d982349d6093e61e14094c3311b0",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Kits%20Configuration%20Installer-x86_en-us.msi",
+      "installer_manifest_sha1": "264513e1d4a31361fe5be53b5629dfa6b5c22c3d"
+    },
+    {
+      "path": "adksetup/Installers/OA3Tool-x86_en-us.msi",
+      "bytes": 581632,
+      "sha256": "2e898f74befdf5d1f15a162c69e364a1d7e94d3c21b3c7aa9e516707939a5aaf",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/OA3Tool-x86_en-us.msi",
+      "installer_manifest_sha1": "c250f275ba475c69c965097c28267fb33798a76f"
+    },
+    {
+      "path": "adksetup/Installers/OACheck-x86_en-us.msi",
+      "bytes": 581632,
+      "sha256": "78fe505a327302bfb11b79c69c80b32adad3156edc1851eb2ff97ba4b5049b7e",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/OACheck-x86_en-us.msi",
+      "installer_manifest_sha1": "5cf717153e39dfefd627f884466b5b498868a6a3"
+    },
+    {
+      "path": "adksetup/Installers/OATool-x86_en-us.msi",
+      "bytes": 581632,
+      "sha256": "0255b4740b1239402b1ed1402622772a86eff36d17a77b5f30117d43b2a4bffc",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/OATool-x86_en-us.msi",
+      "installer_manifest_sha1": "1b7e728c4323863fcee024de339e5fcd0a1e6c37"
+    },
+    {
+      "path": "adksetup/Installers/Oscdimg (DesktopEditions)-x86_en-us.msi",
+      "bytes": 581632,
+      "sha256": "c5a53730590091baa049dcfc47dc8d30871c1de53169d50bb660c0ad4777a11b",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Oscdimg%20%28DesktopEditions%29-x86_en-us.msi",
+      "installer_manifest_sha1": "91f29c9076c02f61f4ad06c3fa8b4c2a5622e0ed"
+    },
+    {
+      "path": "adksetup/Installers/Oscdimg (OnecoreUAP)-x86_en-us.msi",
+      "bytes": 585728,
+      "sha256": "26fc9347d37904ffee4041f56a56f0d62c8e07d90e9f45d487c87a818d350cd0",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Oscdimg%20%28OnecoreUAP%29-x86_en-us.msi",
+      "installer_manifest_sha1": "b66571d73a426d59fdc3175998ac1a8ae0f6dfd8"
+    },
+    {
+      "path": "adksetup/Installers/Toolkit Documentation-x86_en-us.msi",
+      "bytes": 585728,
+      "sha256": "50a304b38653f1c54fce04803246d58f931180199fd23540ac0c42960b59f4ce",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Toolkit%20Documentation-x86_en-us.msi",
+      "installer_manifest_sha1": "8390d5ac0ef457dd7e594cc397ad793d62c03b1e"
+    },
+    {
+      "path": "adksetup/Installers/Windows Deployment Customizations-x86_en-us.msi",
+      "bytes": 573440,
+      "sha256": "69adbdd4c65152339a50fe210694065b725af32f70a48072fb456a82bd539ad1",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Windows%20Deployment%20Customizations-x86_en-us.msi",
+      "installer_manifest_sha1": "4aa39f3c5dfa5333cc59126f2d75b1ac06cc4a27"
+    },
+    {
+      "path": "adksetup/Installers/Windows Deployment Image Servicing and Management - Headers and Libraries-x86_en-us.msi",
+      "bytes": 581632,
+      "sha256": "94126a43e083630e96abc225d6daa81edf00550398bb6d923a29642e08ce10c7",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Windows%20Deployment%20Image%20Servicing%20and%20Management%20-%20Headers%20and%20Libraries-x86_en-us.msi",
+      "installer_manifest_sha1": "9ab1a244ec499498cf22929f142fc29b979e0464"
+    },
+    {
+      "path": "adksetup/Installers/Windows Deployment Image Servicing and Management Tools (DesktopEditions)-x86_en-us.msi",
+      "bytes": 589824,
+      "sha256": "42667ee8bffe9984d01d2fd403de2bfb72756fbcd8f3a826d06893a5f790dbd2",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Windows%20Deployment%20Image%20Servicing%20and%20Management%20Tools%20%28DesktopEditions%29-x86_en-us.msi",
+      "installer_manifest_sha1": "ab60f2bb4f25ccfb4852399a2a72ca943daa434c"
+    },
+    {
+      "path": "adksetup/Installers/Windows Deployment Image Servicing and Management Tools (OnecoreUAP)-x86_en-us.msi",
+      "bytes": 679936,
+      "sha256": "4d49a0c17204868070ee1d91b4cd38b12ab67671073594448c27dddf9a0ebc77",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Windows%20Deployment%20Image%20Servicing%20and%20Management%20Tools%20%28OnecoreUAP%29-x86_en-us.msi",
+      "installer_manifest_sha1": "2d677435465fd785fdf49930264b40d232cc5d79"
+    },
+    {
+      "path": "adksetup/Installers/Windows Deployment Tools Environment-x86_en-us.msi",
+      "bytes": 581632,
+      "sha256": "653c00bff9d5e1d3adb59a226552985a527576c0d5fabee3f9b542c6fb4716d3",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Windows%20Deployment%20Tools%20Environment-x86_en-us.msi",
+      "installer_manifest_sha1": "3fa8ecf8129b24cefad661b497bee87f1830dae2"
+    },
+    {
+      "path": "adksetup/Installers/Windows Deployment Tools-x86_en-us.msi",
+      "bytes": 585728,
+      "sha256": "1cc42d75b54cbf6d4fa92d4183d683c5d10648c3b6eb09ed936ed45d78a452eb",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Windows%20Deployment%20Tools-x86_en-us.msi",
+      "installer_manifest_sha1": "2a39cea527f172e23fac41097ba1a054ded62836"
+    },
+    {
+      "path": "adksetup/Installers/Windows System Image Manager-x86_en-us.msi",
+      "bytes": 6262784,
+      "sha256": "53e28e51b12ebedad0df8334e72fc715a62f62399d056db64b8fdfaa1171727d",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/Windows%20System%20Image%20Manager-x86_en-us.msi",
+      "installer_manifest_sha1": "9f03bd92050f9a1209c035c5bc82ef5cbd12dfa3"
+    },
+    {
+      "path": "adksetup/Installers/a011a13d3157dae2dbdaa7090daa6acb.cab",
+      "bytes": 20166,
+      "sha256": "aa759e87ee300b13c386687b80ce7dc459dd58516b9f339f9b9cbec8aeaf082c",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/a011a13d3157dae2dbdaa7090daa6acb.cab",
+      "installer_manifest_sha1": "2f243a15b5a5bbdbcf67ab43df9f72fa086f12ee"
+    },
+    {
+      "path": "adksetup/Installers/a29a0c716f903f42aca181dca250f681.cab",
+      "bytes": 25878,
+      "sha256": "104e0ae3c1f9b5cdbd9ba96d58a0287a42c48f9e365e046871a1da2797595c45",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/a29a0c716f903f42aca181dca250f681.cab",
+      "installer_manifest_sha1": "28a029c96c69b613dd9f3fba2f920fb2dfe37243"
+    },
+    {
+      "path": "adksetup/Installers/a7eb3390a15bcd2c80a978c75f2dcc4f.cab",
+      "bytes": 1779290,
+      "sha256": "3e64ee6e2bf6b8578bf19786aa1c276789ff405afb443fe0016839e084638134",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/a7eb3390a15bcd2c80a978c75f2dcc4f.cab",
+      "installer_manifest_sha1": "4d88e7cf411c947226e6f7cb4c4c6c398d152d65"
+    },
+    {
+      "path": "adksetup/Installers/abbeaf25720d61b6b6339ada72bdd038.cab",
+      "bytes": 143548,
+      "sha256": "a41eff107fda961783371cf4651e2736def9e243b6cc917f1cb04517a2137a08",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/abbeaf25720d61b6b6339ada72bdd038.cab",
+      "installer_manifest_sha1": "319aaad530433b847aa885278f67bc1aea2aeaf0"
+    },
+    {
+      "path": "adksetup/Installers/b23352a27f081898f997944c1a0f44de.cab",
+      "bytes": 146034,
+      "sha256": "3e0e8b3b19937973e0f49b1e5052c1803fcf24d42455ff145455fdf95ae36f69",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/b23352a27f081898f997944c1a0f44de.cab",
+      "installer_manifest_sha1": "3674c11d930fff331a2315473e09d3c6ea3d8761"
+    },
+    {
+      "path": "adksetup/Installers/b6758178d78e2a03e1d692660ec642bd.cab",
+      "bytes": 22216,
+      "sha256": "356cbd80fe00d258aa327634f4ce455cb06dd5660bcce961a4f7ee1847a01f93",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/b6758178d78e2a03e1d692660ec642bd.cab",
+      "installer_manifest_sha1": "3419b8d4f061293e2372f29dec7c96ae6bd80532"
+    },
+    {
+      "path": "adksetup/Installers/bbf55224a0290f00676ddc410f004498.cab",
+      "bytes": 74842,
+      "sha256": "42d1f76959b26cd2275c837b1912dcd93c803972dd9334bce4aadc22f2471c6a",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/bbf55224a0290f00676ddc410f004498.cab",
+      "installer_manifest_sha1": "d8c1144a2a90c966ebe9671e9731f78b749c2479"
+    },
+    {
+      "path": "adksetup/Installers/bf7b6300431984daf850cc213043c7eb.cab",
+      "bytes": 2049636,
+      "sha256": "909031481a7d1ec4a0289425c64d23a74e83143655ff1031ad9f1fe98fdaf23f",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/bf7b6300431984daf850cc213043c7eb.cab",
+      "installer_manifest_sha1": "4ff29150e7da915e1f671c8aa28198d997cde462"
+    },
+    {
+      "path": "adksetup/Installers/c300c91a497ea70c80a6d0efc9454c35.cab",
+      "bytes": 259850,
+      "sha256": "da734cbf4491ca1c8e79919aa5de07046d68ca5c8fe44437a7d3c192fd7a101c",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/c300c91a497ea70c80a6d0efc9454c35.cab",
+      "installer_manifest_sha1": "c90025322239f90b5b190b72702ea467d98eb058"
+    },
+    {
+      "path": "adksetup/Installers/c98a0a5b63e591b7568b5f66d64dc335.cab",
+      "bytes": 167614,
+      "sha256": "293d18e8c3d019b6a20343b65c8880e7bd4d1d8533d3c5dca20260a3a3c237b3",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/c98a0a5b63e591b7568b5f66d64dc335.cab",
+      "installer_manifest_sha1": "85018cf2680a29d978f3062866b8df4ed3ed6544"
+    },
+    {
+      "path": "adksetup/Installers/cb43cb685388b3f1f60b2301633c1fa6.cab",
+      "bytes": 36032,
+      "sha256": "f6040ed54695e26cc90fd5970bb8af7e631ba03db2402521a87dac3dbdfecbba",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/cb43cb685388b3f1f60b2301633c1fa6.cab",
+      "installer_manifest_sha1": "8aa9db6199ef3dd60ef8701ed85ff960fcdcd1ca"
+    },
+    {
+      "path": "adksetup/Installers/d2611745022d67cf9a7703eb131ca487.cab",
+      "bytes": 1078098,
+      "sha256": "02424e3c498e4b208681b2f34f2b584e9634fe9fee6a866abdbd395b43e86f5d",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/d2611745022d67cf9a7703eb131ca487.cab",
+      "installer_manifest_sha1": "fb03163a794f4d2ddaa58f55299f104c363b4d6e"
+    },
+    {
+      "path": "adksetup/Installers/d344672ad340db2b98b706ff06350843.cab",
+      "bytes": 157130,
+      "sha256": "73f9bd9a9ea8bb2e44fcc4de0b3fb44f35c6c5395df1934d12b47d5494763230",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/d344672ad340db2b98b706ff06350843.cab",
+      "installer_manifest_sha1": "2bcc1195cf51cf8366bec499e0d389be8afe7e5c"
+    },
+    {
+      "path": "adksetup/Installers/d562ae79e25b943d03fc6aa7a65f9b81.cab",
+      "bytes": 25682,
+      "sha256": "f944b4cbb0972e9e77177a7164dbf20385fa413df5245bb54fee47da1a287b24",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/d562ae79e25b943d03fc6aa7a65f9b81.cab",
+      "installer_manifest_sha1": "295abed41380a3ca11bef3cf243fa611fe84ded2"
+    },
+    {
+      "path": "adksetup/Installers/e4dc2b54abac1a0455a410f7cf84d419.cab",
+      "bytes": 20346,
+      "sha256": "e51f077aae6095bb4ed38f8a51964f53dddd2f4409a3e530148a55bb9a42d18c",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/e4dc2b54abac1a0455a410f7cf84d419.cab",
+      "installer_manifest_sha1": "6a340c6c4d89fb9d391fa94cdd29a274dc299fbc"
+    },
+    {
+      "path": "adksetup/Installers/e5f4f4dc519b35948be4500a7dfeab14.cab",
+      "bytes": 17402,
+      "sha256": "76f75b458c0d3024a19cf46476df8a311adf383cf679339c9e3f6da42fde1865",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/e5f4f4dc519b35948be4500a7dfeab14.cab",
+      "installer_manifest_sha1": "ca75644c0468833dfa713e600506b3fc76dd16f2"
+    },
+    {
+      "path": "adksetup/Installers/ea9c0c38594fd7df374ddfc620f4a1fd.cab",
+      "bytes": 21918,
+      "sha256": "b73cc593345cf151ea878bf4805094f53cce2f692dcab41f42af768a119d0ac3",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/ea9c0c38594fd7df374ddfc620f4a1fd.cab",
+      "installer_manifest_sha1": "df3b7c93fec8321e05ad04b43fc1184fb036f47e"
+    },
+    {
+      "path": "adksetup/Installers/eacac0698d5fa03569c86b25f90113b5.cab",
+      "bytes": 912504,
+      "sha256": "d7ab8fd2a626d8a16d3281406ebbfe0e3fa1e65c5f5e7936fa1a74762f4b86ec",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/eacac0698d5fa03569c86b25f90113b5.cab",
+      "installer_manifest_sha1": "1896a9a377f0cc3736ffc608f7b9efbbd1546c2c"
+    },
+    {
+      "path": "adksetup/Installers/ec093852a41cbd9d167b714e4f4a2648.cab",
+      "bytes": 22596,
+      "sha256": "3e919ca065b6559c4f5d3e1577cd82e820ff8c4adb27a35e743465807c6a8341",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/ec093852a41cbd9d167b714e4f4a2648.cab",
+      "installer_manifest_sha1": "4a2c8b3dd94ae9acf93325cf2e9f5840d6b5d489"
+    },
+    {
+      "path": "adksetup/Installers/f2a850bce4500b85f37a8aaa71cbb674.cab",
+      "bytes": 16676,
+      "sha256": "5cb5023844514af4612d0a0b6d7aa385edadbc5cdd0e316133c809ff00b87b8d",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/f2a850bce4500b85f37a8aaa71cbb674.cab",
+      "installer_manifest_sha1": "7305eb13d608f57a6dc6dd8348528ccb30411e9f"
+    },
+    {
+      "path": "adksetup/Installers/f480ed0b7d2f1676b4c1d5fc82dd7420.cab",
+      "bytes": 47218,
+      "sha256": "e04b347ec59c76f6b579eb7880356f1940407ff8c7b9a24dad573d40ce91a25f",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/f480ed0b7d2f1676b4c1d5fc82dd7420.cab",
+      "installer_manifest_sha1": "b859c7cd06159fc74ee92caee4eac80a8f0a42cd"
+    },
+    {
+      "path": "adksetup/Installers/f4e72c453e36ce0795c8c9fcaae2b190.cab",
+      "bytes": 47240,
+      "sha256": "b57c58d0dca15c893ab2c14c2539363fe07408c0e57cdbd27545b84b56a8c2ef",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/f4e72c453e36ce0795c8c9fcaae2b190.cab",
+      "installer_manifest_sha1": "c5c5a9afec48088464c17d1a680343af38539e2d"
+    },
+    {
+      "path": "adksetup/Installers/fb4caf9acea1e5ab8349e1f22377438c.cab",
+      "bytes": 57496,
+      "sha256": "be8a16140d42748be9afee0dd831f4681f25505c5dd16039d3823c89236f0dd9",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/fb4caf9acea1e5ab8349e1f22377438c.cab",
+      "installer_manifest_sha1": "db8246a574c4db0e39e444844714c47be333c3ff"
+    },
+    {
+      "path": "adksetup/Installers/fcc051e0d61320c78cac9fe4ad56a2a2.cab",
+      "bytes": 47218,
+      "sha256": "7f15023d18cdde88310af646e09da2d5a2cb43cffd4d637d18f3f4828bf50f99",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/fcc051e0d61320c78cac9fe4ad56a2a2.cab",
+      "installer_manifest_sha1": "864615f8e738e8e57b74336cd02d04d94fa62d7c"
+    },
+    {
+      "path": "adksetup/Installers/fdfb8cfc2e4d170431fb6b8c67210672.cab",
+      "bytes": 630224,
+      "sha256": "51bc3f8d5517e85150d0a28a040907bb9e91f6d610204cae24f74b91fea91933",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/Installers/fdfb8cfc2e4d170431fb6b8c67210672.cab",
+      "installer_manifest_sha1": "cfebe60a9b2214b8091d03a59003e70de9e927fd"
+    },
+    {
+      "path": "adksetup/adksetup.exe",
+      "bytes": 2234632,
+      "sha256": "7f61e29f2314bcdd7e0abf67a8367d83a05aa4a7b9223f85c5fd2582a35cc6f4",
+      "url": "https://download.microsoft.com/download/2/d/9/2d9c8902-3fcd-48a6-a22a-432b08bed61e/ADK/adksetup.exe"
+    },
+    {
+      "path": "adkwinpesetup/Installers/0b63b7c537782729483bff2d64a620fa.cab",
+      "bytes": 21812,
+      "sha256": "5dbed5fc40b8e8473703dd677ee3a05d3b850341eec3038682c4a7521591a803",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/0b63b7c537782729483bff2d64a620fa.cab",
+      "installer_manifest_sha1": "696eee420fa3518bd6ae302c585d01f9e9c8a93a"
+    },
+    {
+      "path": "adkwinpesetup/Installers/13334584cdbf659a8dd105fc34851ea3.cab",
+      "bytes": 21812,
+      "sha256": "8d1d62fdd096811e93eaeb13083271e8f69748cd12273d8d5371f60462441425",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/13334584cdbf659a8dd105fc34851ea3.cab",
+      "installer_manifest_sha1": "80e628a8d49770e30ef4a88ce176be7e64c6eab5"
+    },
+    {
+      "path": "adkwinpesetup/Installers/24ab0f36f991590c112d8f31215bfe53.cab",
+      "bytes": 26176,
+      "sha256": "0d01358b6ff3d2e5117d287f92fb02782e20c75f27d7d433aa506459bce1e2e8",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/24ab0f36f991590c112d8f31215bfe53.cab",
+      "installer_manifest_sha1": "a768e7aeda3984a3e3801e30dbcfcdf6554f4d30"
+    },
+    {
+      "path": "adkwinpesetup/Installers/3b8aa90b3015bd30b59330184cbbb275.cab",
+      "bytes": 384646,
+      "sha256": "66b7e722e388128120b24f2da467049fecff1383b36afd67cc1c0914985e7f9f",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/3b8aa90b3015bd30b59330184cbbb275.cab",
+      "installer_manifest_sha1": "24d512633108fb3a3f9d3cb0f36ee148c0cad7d5"
+    },
+    {
+      "path": "adkwinpesetup/Installers/3ffff92a2c7e8b2f1a6e85afeaa027ca.cab",
+      "bytes": 320140822,
+      "sha256": "fc7a0526176159b7aca424dd44e7fb0976e1e8db33e8dd68ba6d41ee4a9fc63a",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/3ffff92a2c7e8b2f1a6e85afeaa027ca.cab",
+      "installer_manifest_sha1": "ef146291e09b6918cfa3150a37043d66dff11440"
+    },
+    {
+      "path": "adkwinpesetup/Installers/755a8f59ce4582d52bc4c91761db7935.cab",
+      "bytes": 337412186,
+      "sha256": "43d85741f8d51615f49cc7d17ca4ba6766c307d6001cf8aef40f98109637a59a",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/755a8f59ce4582d52bc4c91761db7935.cab",
+      "installer_manifest_sha1": "b81eee0e0bc10edaa6b861c84b3a19e19f226389"
+    },
+    {
+      "path": "adkwinpesetup/Installers/856a378483a6c7e8068c4f52cb49227c.cab",
+      "bytes": 745504,
+      "sha256": "de49d042650407b485a6aa8db97e52d666badcb0d4db1e4f8511bf12173e4b9d",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/856a378483a6c7e8068c4f52cb49227c.cab",
+      "installer_manifest_sha1": "76f5b03b3fa87fda0bad20b442883bb59f4bc07a"
+    },
+    {
+      "path": "adkwinpesetup/Installers/8686aa39453398c3a04c1edaac29ca7a.cab",
+      "bytes": 326735516,
+      "sha256": "ad623cbcf963d414e8e799571bc3e9a2cc5e48a5e82f21aef6d4b2ab6dc4d6ec",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/8686aa39453398c3a04c1edaac29ca7a.cab",
+      "installer_manifest_sha1": "486391ab20fc784a1a05d19bbf21dddad6a1ce21"
+    },
+    {
+      "path": "adkwinpesetup/Installers/9722214af0ab8aa9dffb6cfdafd937b7.cab",
+      "bytes": 334507604,
+      "sha256": "f1c9aff21e50374a6649576dee380cf3d3f4d251bb83032342ddbd9ef6cf8286",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/9722214af0ab8aa9dffb6cfdafd937b7.cab",
+      "installer_manifest_sha1": "e68d67f374897d07fba3b5070134613afc9f2454"
+    },
+    {
+      "path": "adkwinpesetup/Installers/Kits Configuration Installer-x86_en-us.msi",
+      "bytes": 446464,
+      "sha256": "a3aeb499a58db69157db5b2f7529aff3a553d982349d6093e61e14094c3311b0",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/Kits%20Configuration%20Installer-x86_en-us.msi",
+      "installer_manifest_sha1": "264513e1d4a31361fe5be53b5629dfa6b5c22c3d"
+    },
+    {
+      "path": "adkwinpesetup/Installers/Windows PE Boot Files (DesktopEditions)-x86_en-us.msi",
+      "bytes": 638976,
+      "sha256": "a2550af8d64b2d61c1e2d2911edf78ca3e83802103db3f40e41566b4ff3482c0",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/Windows%20PE%20Boot%20Files%20%28DesktopEditions%29-x86_en-us.msi",
+      "installer_manifest_sha1": "876af9e52f0ce65d81d3def65e0eeb8539fc9ab3"
+    },
+    {
+      "path": "adkwinpesetup/Installers/Windows PE Boot Files (OnecoreUAP)-x86_en-us.msi",
+      "bytes": 602112,
+      "sha256": "8911f70cf4c7219aa84c0dcac20c28bfa594086e8a75afd8f80e16567d38407f",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/Windows%20PE%20Boot%20Files%20%28OnecoreUAP%29-x86_en-us.msi",
+      "installer_manifest_sha1": "a24cffb705c1ba68202301b61dbdbf0bce50d253"
+    },
+    {
+      "path": "adkwinpesetup/Installers/Windows PE Optional Packages (DesktopEditions)-x86_en-us.msi",
+      "bytes": 1015808,
+      "sha256": "f286c52fdf694c85f08f6ec0ba7702de84f891040064b81163c8da59a5c4db4c",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/Windows%20PE%20Optional%20Packages%20%28DesktopEditions%29-x86_en-us.msi",
+      "installer_manifest_sha1": "e9bff116c9a65fecd7125112d8b20c9ba3001327"
+    },
+    {
+      "path": "adkwinpesetup/Installers/Windows PE Scripts-x86_en-us.msi",
+      "bytes": 573440,
+      "sha256": "15cfc304dc0d7cc1044b47989985b986241f160159ceec1cceb5dd42fd6ca950",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/Windows%20PE%20Scripts-x86_en-us.msi",
+      "installer_manifest_sha1": "3cef8db83c4057962894ec7655be2e7f2a8ea820"
+    },
+    {
+      "path": "adkwinpesetup/Installers/Windows PE wims (DesktopEditions)-x86_en-us.msi",
+      "bytes": 589824,
+      "sha256": "4cf3526c8b5ef212311460eb4f86c4cc49b373273a7562c8c64a991b0b8f7fd8",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/Windows%20PE%20wims%20%28DesktopEditions%29-x86_en-us.msi",
+      "installer_manifest_sha1": "12301ce9db783c2bc1ef2f19ce532fdb8f2bed15"
+    },
+    {
+      "path": "adkwinpesetup/Installers/a6296c5a6eec9ca02b431ed0461b952d.cab",
+      "bytes": 338095542,
+      "sha256": "873698224226c0fc5672dfac2e614cb5a00a00cfbf46b97f4ffba5d04a64296f",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/a6296c5a6eec9ca02b431ed0461b952d.cab",
+      "installer_manifest_sha1": "0b6543fa60c9fe060eb6ad6e2892a20a70b2ab92"
+    },
+    {
+      "path": "adkwinpesetup/Installers/bfdbb113d9d5201e5897ed28d0a47f42.cab",
+      "bytes": 18611184,
+      "sha256": "83e97f57cd2ddef2c428f5cfa18b426555d9257f780c01e5c26d7ffbafaf7683",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/bfdbb113d9d5201e5897ed28d0a47f42.cab",
+      "installer_manifest_sha1": "346ccf674d5fcf863cbb465851dbfbf8087db8b0"
+    },
+    {
+      "path": "adkwinpesetup/Installers/e4ef343897232361feeab2810591d8ae.cab",
+      "bytes": 9559160,
+      "sha256": "3f6c6c9117e1743cd1dead74c7ae3985456f7add4698824be9ccfb08963a8ac5",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/e4ef343897232361feeab2810591d8ae.cab",
+      "installer_manifest_sha1": "203e008204c73c8b1f3cf129dfdf34f2db39048d"
+    },
+    {
+      "path": "adkwinpesetup/Installers/e7a23bd4ab45aa717a3e0b2fa877dce9.cab",
+      "bytes": 669402,
+      "sha256": "30b58b1915f4f51d0ddebb2c1f50e7ccca7dfaf46a97cdaee64557dc0e975ec7",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/e7a23bd4ab45aa717a3e0b2fa877dce9.cab",
+      "installer_manifest_sha1": "5e9fbf59518655ff579609c207d3c949e2c84c09"
+    },
+    {
+      "path": "adkwinpesetup/Installers/f493bb83bbe844f5cd3610b0847bc113.cab",
+      "bytes": 292599480,
+      "sha256": "6e65cf0332a417bc2e584f3de1b9c441deea84ff32b62334f7ca0cb582e88f17",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/f493bb83bbe844f5cd3610b0847bc113.cab",
+      "installer_manifest_sha1": "44063ff256a7e6251547ec18d18690b43fef0c77"
+    },
+    {
+      "path": "adkwinpesetup/Installers/f53c2cdf2f5aeeaef4ca19d4b3344930.cab",
+      "bytes": 1067398,
+      "sha256": "1fc59b65edf5fa5a301325bf797419b06b8fdedfaea01d396d0e18b6e33a352e",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/Installers/f53c2cdf2f5aeeaef4ca19d4b3344930.cab",
+      "installer_manifest_sha1": "00a8979fb4ec8d3d72feed499ebb127ba9e86358"
+    },
+    {
+      "path": "adkwinpesetup/adkwinpesetup.exe",
+      "bytes": 1945400,
+      "sha256": "adf53ca21cae36821e0a8f3c31546752b9ce066944de1d4f1673e491831255e2",
+      "url": "https://download.microsoft.com/download/5/5/6/556e01ec-9d78-417d-b1e1-d83a2eff20bc/ADKWinPEAddons/adkwinpesetup.exe"
+    }
+  ]
+}
